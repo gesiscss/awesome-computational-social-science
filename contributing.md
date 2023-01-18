@@ -1,25 +1,20 @@
 # Contribution Guidelines
 
+Please contribute to it by sending [pull requests](https://github.com/gesiscss/awesome-computational-social-science/pulls) or by fixing an [issue](https://github.com/gesiscss/awesome-computational-social-science/issues).
+
 Please note that this project is released with a
 [Contributor Code of Conduct](code-of-conduct.md). By participating in this
 project you agree to abide by its terms.
 
 ---
 
-Ensure your pull request adheres to the following guidelines:
+## Inclusion Criteria
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
-
-Thank you for your suggestions!
+Computational Social Sciences lies in between many different research fields and a great variety of tools are used in studies.
 
 
-## Updating your PR
+Please do not simply copy and paste specific links from other awesome lists. Instead, suggest the inclusion of the whole awesome list if the topic is relevant for Computational Social Science.
 
-A lot of times, making a PR adhere to the standards above can be difficult.
-If the maintainers notice anything that we'd like changed, we'll ask you to
-edit your PR before we merge it. There's no need to open a new PR, just edit
-the existing one. If you're not sure how to do that,
-[here is a guide](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md)
-on the different ways you can update your PR so that we can merge it.
+Please don't use this list to promote your own papers
+
+If possible, write "Computational Social Science" instead of "CSS" to not confuse users who are looking for HTML/CSS awesome resources.
