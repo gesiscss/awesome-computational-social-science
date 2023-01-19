@@ -82,6 +82,10 @@ All entries within a category are ordered alphabetically.
   TU Graz, Austria
 - [Master Social and Economic Data Science](https://www.polver.uni-konstanz.de/studium/master/master-social-and-economic-data-science/),
 University of Konstanz, Germany
+- [Master Computational Social
+  Science](https://gsssh.ku.edu.tr/en/departments/computational-social-sciences/),
+Koç University, Turkey
+
 
 ## Research Groups
 
