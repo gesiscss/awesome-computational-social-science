@@ -85,6 +85,8 @@ University of Konstanz, Germany
 - [Master Computational Social
   Science](https://gsssh.ku.edu.tr/en/departments/computational-social-sciences/),
 Koç University, Turkey
+- [Master of Arts in Political Science with Focus onComputational Social Sciences](https://www.uni-bamberg.de/en/political-science/studies/master-of-arts-in-political-science/focuses/computational-social-sciences/),
+University of Bamberg, Germany
 
 
 ## Research Groups
