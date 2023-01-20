@@ -100,6 +100,9 @@ Koç University, Turkey
 
 ## Journals
 
+- [EPJ Data Science](https://epjdatascience.springeropen.com/)
+- [Nature Human Behavior](https://www.nature.com/nathumbehav/)
+- [Social Science Computer Review](https://journals.sagepub.com/home/ssc)
 - [Social Media and Society](https://journals.sagepub.com/home/sms)
 
 ## Selected Papers
