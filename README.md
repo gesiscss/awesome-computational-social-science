@@ -159,11 +159,13 @@ Data](https://dl.acm.org/doi/10.1145/3132698) by Hanna Wallach (2018)
 
 ## Relevant Awesome Lists
 
+- [Awesome Causality](https://github.com/napsternxg/awesome-causality)
 - [Awesome Community Detection](https://github.com/benedekrozemberczki/awesome-community-detection)
 - [Awesome Data Science](https://github.com/academic/awesome-datascience)
 - [Awesome Data Science with Python](https://github.com/r0f1/datascience) ([another](https://github.com/krzjoa/awesome-python-data-science))
 - [Awesome Data Visualization](https://github.com/javierluraschi/awesome-dataviz)
 - [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+- [Awesome Digital Humanities](https://github.com/dh-tech/awesome-digital-humanities)
 - [Awesome Jupyter](https://github.com/markusschanta/awesome-jupyter)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [Awesome MySQL](https://github.com/shlomi-noach/awesome-mysql)
@@ -173,6 +175,7 @@ Data](https://dl.acm.org/doi/10.1145/3132698) by Hanna Wallach (2018)
 - [Awesome Open Science](https://github.com/silky/awesome-open-science)
 - [Awesome Python](https://github.com/vinta/awesome-python) (other lists: [1](https://github.com/kirang89/pycrumbs), [2](https://github.com/svaksha/pythonidae), [3](https://github.com/trekhleb/learn-python))
 - [Awesome R](https://github.com/qinwf/awesome-R)
+- [Awesome Research Software Registries](https://github.com/NLeSC/awesome-research-software-registries)
 - [Awesome Quarto](https://github.com/mcanouil/awesome-quarto)
 
 -----
