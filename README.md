@@ -72,7 +72,7 @@ All entries within a category are ordered alphabetically.
 
 ### University Course Programs
 
-> Bachelor, Master, PhD programs (alphabetically by Country)
+> Bachelor, Master, PhD programs (alphabetically by country)
 
 - [Master Computational Social
   System](https://www.tugraz.at/en/studying-and-teaching/degree-and-certificate-programmes/masters-degree-programmes/computational-social-systems),
