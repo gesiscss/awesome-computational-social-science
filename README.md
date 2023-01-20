@@ -68,7 +68,9 @@ All entries within a category are ordered alphabetically.
 ### Workshops
 
 - [Essex Summer School in Social Science Data Analysis](https://essexsummerschool.com/)
-- [GESIS Fall Seminar in Computational Social Science](https://www.gesis.org/en/gesis-training/what-we-offer/fall-seminar-in-computational-social-science)
+- [GESIS Fall Seminar in Computational Social
+  Science](https://www.gesis.org/en/gesis-training/what-we-offer/fall-seminar-in-computational-social-science)
+- [The Summer Institutes in Computational Social Science](https://sicss.io/)
 
 ### University Course Programs
 
