@@ -171,6 +171,9 @@ Data](https://dl.acm.org/doi/10.1145/3132698) by Hanna Wallach (2018)
 - [Awesome Python](https://github.com/vinta/awesome-python) (other lists: [1](https://github.com/kirang89/pycrumbs), [2](https://github.com/svaksha/pythonidae), [3](https://github.com/trekhleb/learn-python))
 - [Awesome R](https://github.com/qinwf/awesome-R)
 - [Awesome Quarto](https://github.com/mcanouil/awesome-quarto)
+- [Awesome Research Software Registries](https://github.com/NLeSC/awesome-research-software-registries)
+- [Awesome Digital Humanities](https://github.com/dh-tech/awesome-digital-humanities)
+- [Awesome Causality](https://github.com/napsternxg/awesome-causality)
 
 -----
 
