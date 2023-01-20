@@ -150,7 +150,7 @@ Data](https://dl.acm.org/doi/10.1145/3132698) by Hanna Wallach (2018)
 > Resources that do not fit into other categories
 
 - [Google Group Computational Social Science Network](https://groups.google.com/g/CSSNET)
-- [Podcast about Computational Social Science](https://anchor.fm/ccs-pod)
+- [Podcast about Computational Communication Science](https://anchor.fm/ccs-pod)
 - [Public Google Calendar with Events in Computational Social
   Science](https://calendar.google.com/calendar/u/0/embed?src=19jm0329h91akpv0srml6c24ec@group.calendar.google.com&ctz=Europe/Rome)
 
