@@ -72,22 +72,21 @@ All entries within a category are ordered alphabetically.
 
 ### University Course Programs
 
-> Bachelor, Master, PhD programs
+> Bachelor, Master, PhD programs (alphabetically by Country)
 
+- [Master Computational Social
+  System](https://www.tugraz.at/en/studying-and-teaching/degree-and-certificate-programmes/masters-degree-programmes/computational-social-systems),
+  TU Graz, Austria
+- [Master of Arts in Political Science with Focus on Computational Social Sciences](https://www.uni-bamberg.de/en/political-science/studies/master-of-arts-in-political-science/focuses/computational-social-sciences/),
+University of Bamberg, Germany
+- [Master Social and Economic Data Science](https://www.polver.uni-konstanz.de/studium/master/master-social-and-economic-data-science/),
+University of Konstanz, Germany
 - [Bachelor Computational Social
   Science](https://www.uva.nl/en/programmes/bachelors/computational-social-science/study-programme/study-programme.html)
   at the University of Amsterdam, Netherlands
 - [Master Computational Social
-  System](https://www.tugraz.at/en/studying-and-teaching/degree-and-certificate-programmes/masters-degree-programmes/computational-social-systems),
-  TU Graz, Austria
-- [Master Social and Economic Data Science](https://www.polver.uni-konstanz.de/studium/master/master-social-and-economic-data-science/),
-University of Konstanz, Germany
-- [Master Computational Social
   Science](https://gsssh.ku.edu.tr/en/departments/computational-social-sciences/),
 Koç University, Turkey
-- [Master of Arts in Political Science with Focus on Computational Social Sciences](https://www.uni-bamberg.de/en/political-science/studies/master-of-arts-in-political-science/focuses/computational-social-sciences/),
-University of Bamberg, Germany
-
 
 ## Research Groups
 
