@@ -142,7 +142,7 @@ Data](https://dl.acm.org/doi/10.1145/3132698) by Hanna Wallach (2018)
 
 - [APIs for Social Scientists](https://bookdown.org/paul/apis_for_social_scientists/)
 - [Introduction to Computational Social Science in R](https://bookdown.org/markhoff/css/)
--[Introduction to Computational Social Science Methods with Python](https://github.com/gesiscss/css_methods_python)
+- [Introduction to Computational Social Science Methods with Python](https://github.com/gesiscss/css_methods_python)
 
 
 
