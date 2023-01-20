@@ -97,6 +97,10 @@ Koç University, Turkey
 - [CSS Lab TU
   Graz](https://www.tugraz.at/institute/isds/research/research-groups/computational-social-science-lab-css-lab/),
   Graz, Austria
+  
+- [Computational Social Science Institute at UMass](https://www.cssi.umass.edu),
+  Massachusetts Amherst, USA
+
 
 ## Journals
 
