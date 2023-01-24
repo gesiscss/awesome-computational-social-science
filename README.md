@@ -31,6 +31,10 @@ All entries within a category are ordered alphabetically.
 
 > Entries are ordered chronologically
 
+- [Bit By Bit: Social Research in the Digital Age](https://www.bitbybitbook.com/) by Matthew J. Salganik (2017)
+
+- [Computational Analysis of Communication](https://cssbook.net/) by Wouter van Atteveldt, Damian Trilling, and Carlos Arcila Calderon (2022)
+
 - [Decoding the Social World: Data Science and the Unintended Consequences of
   Communication](https://mitpress.mit.edu/9780262037075/) by Sandra
   González-Bailón (2017)
@@ -39,6 +43,11 @@ All entries within a category are ordered alphabetically.
   Communication](https://global.oup.com/academic/product/the-oxford-handbook-of-networked-communication-9780190460518?cc=de&lang=en&)
   edited by Brooke Foucault Welles and Sandra González-Bailón (2020)
 
+- [Research Exposed: How Empirical Social Science Gets Done in the Digital Age](https://cup.columbia.edu/book/research-exposed/9780231188777) edited by Eszter Hargittai (2020)
+
+- [Retooling Politics: How Digital Media Are Shaping Democracy](https://doi.org/10.1017/9781108297820) by Andreas Jungherr, Gonzalo Rivero, and Daniel Gayo-Avello (2020)
+
+- [Text as Data: A New Framework for Machine Learning and the Social Sciences](https://press.princeton.edu/books/paperback/9780691207551/text-as-data) by Justin Grimmer, Margaret E. Roberts, and Brandon M. Stewart (2022)
 
 ## Conferences
 
@@ -50,6 +59,7 @@ All entries within a category are ordered alphabetically.
 - [IC2S2 - The International Conference for Computational Social Science](http://ic2s2.org)
 - [ICA - Annual International Communication Association Conference](https://www.icahdq.org/) (Methods Division)
 - [ICWSM - International AAAI Conference on Web and Social Media](https://www.icwsm.org/)
+- [NetSci - International Conference on Network Science](https://netscisociety.net/events/netsci/)
 
 
 ## Education
@@ -90,6 +100,9 @@ University of Konstanz, Germany
 - [Master Computational Social
   Science](https://gsssh.ku.edu.tr/en/departments/computational-social-sciences/),
 Koç University, Turkey
+- [Master Computational Social
+  Systems](https://www.rwth-aachen.de/cms/root/Studium/Vor-dem-Studium/Studiengaenge/Liste-Aktuelle-Studiengaenge/Studiengangbeschreibung/~sthd/Computational-Social-Systems-M-Sc/),
+RWTH Aachen, Germany
 
 ## Research Groups
 
@@ -104,6 +117,7 @@ Koç University, Turkey
 
 ## Journals
 
+- [Computational Communication Research](https://computationalcommunication.org/ccr)
 - [EPJ Data Science](https://epjdatascience.springeropen.com/)
 - [Nature Human Behavior](https://www.nature.com/nathumbehav/)
 - [Social Science Computer Review](https://journals.sagepub.com/home/ssc)
