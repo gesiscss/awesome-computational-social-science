@@ -92,14 +92,12 @@ Koç University, Turkey
 
 ## Research Groups
 
-- [CSS Department at GESIS](https://www.gesis.org/en/institute/departments/computational-social-science), Cologne, Germany
-
-- [CSS Lab RWTH Aachen](https://www.css-lab.rwth-aachen.de/), Aachen, Germany
-
-- [CSS Lab TU
+> Alphabetially by country and city)
   Graz](https://www.tugraz.at/institute/isds/research/research-groups/computational-social-science-lab-css-lab/),
   Graz, Austria
-  
+- [CSS Lab RWTH Aachen](https://www.css-lab.rwth-aachen.de/), Aachen, Germany
+- [CSS Department at GESIS](https://www.gesis.org/en/institute/departments/computational-social-science), Cologne, Germany
+- [CSS Lab TU
 - [Computational Social Science Institute at UMass](https://www.cssi.umass.edu),
   Massachusetts Amherst, USA
 
