@@ -150,7 +150,11 @@ Data](https://dl.acm.org/doi/10.1145/3132698) by Hanna Wallach (2018)
 
 ### R
 
+- [Awesome R](https://github.com/qinwf/awesome-R) for general resources in R
+
 ### Python
+
+- [Awesome Python](https://github.com/vinta/awesome-python) (other lists: [1](https://github.com/kirang89/pycrumbs), [2](https://github.com/svaksha/pythonidae), [3](https://github.com/trekhleb/learn-python)) for general resources in Python
 
 ### Tutorials
 
