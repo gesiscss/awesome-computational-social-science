@@ -61,7 +61,8 @@ All entries within a category are ordered alphabetically.
 
 > See also the [Software](#software) section for material on software tools
 
-- [SAGE collection of teaching material for Computational Social Science](https://ocean.sagepub.com/teaching-materials-for-computational-social-science)
+- [SAGE collection of teaching material for Computational Social Science](https://ocean.sagepub.com/teaching-materials-for-computational-social-science) - Large collection of various teaching material for Computational Social Science
+- [Toolkit for Digital Methods](https://wiki.helsinki.fi/display/TDM/Toolkit+for+Digital+Methods+Home) -  A wiki of resources for digital methods in Social Sciences
 
 ### Videos and Lectures
 
