@@ -103,6 +103,7 @@ Koç University, Turkey
 
 ## Journals
 
+- [Computational Communication Research](https://computationalcommunication.org/ccr)
 - [EPJ Data Science](https://epjdatascience.springeropen.com/)
 - [Nature Human Behavior](https://www.nature.com/nathumbehav/)
 - [Social Science Computer Review](https://journals.sagepub.com/home/ssc)
