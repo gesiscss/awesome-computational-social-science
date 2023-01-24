@@ -50,6 +50,7 @@ All entries within a category are ordered alphabetically.
 - [IC2S2 - The International Conference for Computational Social Science](http://ic2s2.org)
 - [ICA - Annual International Communication Association Conference](https://www.icahdq.org/) (Methods Division)
 - [ICWSM - International AAAI Conference on Web and Social Media](https://www.icwsm.org/)
+- [NetSci - International Conference on Network Science](https://netscisociety.net/events/netsci/)
 
 
 ## Education
@@ -89,6 +90,9 @@ University of Konstanz, Germany
 - [Master Computational Social
   Science](https://gsssh.ku.edu.tr/en/departments/computational-social-sciences/),
 Koç University, Turkey
+- [Master Computational Social
+  Systems](https://www.rwth-aachen.de/cms/root/Studium/Vor-dem-Studium/Studiengaenge/Liste-Aktuelle-Studiengaenge/Studiengangbeschreibung/~sthd/Computational-Social-Systems-M-Sc/),
+RWTH Aachen, Germany
 
 ## Research Groups
 
