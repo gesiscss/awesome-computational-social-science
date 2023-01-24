@@ -105,6 +105,7 @@ RWTH Aachen, Germany
   Graz, Austria
 - [CSS Lab RWTH Aachen](https://www.css-lab.rwth-aachen.de/), Aachen, Germany
 - [CSS Department at GESIS](https://www.gesis.org/en/institute/departments/computational-social-science), Cologne, Germany
+- [Lazerlab](https://lazerlab.net/), Northeastern University, Boston, USA
 - [Computational Social Science Institute at UMass](https://www.cssi.umass.edu),
   Massachusetts Amherst, USA
 
