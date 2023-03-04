@@ -114,6 +114,8 @@ RWTH Aachen, Germany
 
 - [Computational Communication Research](https://computationalcommunication.org/ccr)
 - [EPJ Data Science](https://epjdatascience.springeropen.com/)
+- [Journal of Computational Social Science](https://www.springer.com/journal/42001)
+- [Journal of Artificial Societies and Social Simulation](https://www.jasss.org/JASSS.html)
 - [Nature Human Behavior](https://www.nature.com/nathumbehav/)
 - [Social Science Computer Review](https://journals.sagepub.com/home/ssc)
 - [Social Media and Society](https://journals.sagepub.com/home/sms)
