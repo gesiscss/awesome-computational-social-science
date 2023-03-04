@@ -82,6 +82,7 @@ All entries within a category are ordered alphabetically.
 - [GESIS Fall Seminar in Computational Social
   Science](https://www.gesis.org/en/gesis-training/what-we-offer/fall-seminar-in-computational-social-science)
 - [The Summer Institutes in Computational Social Science](https://sicss.io/)
+- [Topics in Digital and Computational Demography](https://www.demogr.mpg.de/en/career_6122/international_advanced_studies_in_demography_6682/courses_6931/), PhD level, one week course.
 
 ### University Course Programs
 
