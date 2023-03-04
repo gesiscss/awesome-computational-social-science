@@ -134,27 +134,24 @@ RWTH Aachen, Germany
 
 > Important papers for/about the field, not specific research. Ordered chronologically.
 
-- [Life in the network: the coming age of computational social
-  science](https://doi.org/10.1126%2Fscience.1167742) by David Lazer et al.
-  (2009)
-- [Critical Questions for Big
-  Data](https://doi.org/10.1080/1369118X.2012.678878) by dana boyd and Kate
-  Crawford (2012)
-- [A 61-million-person experiment in social influence and political
-  mobilization](https://doi.org/10.1038/nature11421) by Robert M. Bond et al.
-  (2012)
-- [Digital Footprints: Opportunities and Challenges for Online Social
-  Research](https://doi.org/10.1146/annurev-soc-071913-043145) by Scott A.
-  Golder and Michael W. Macy (2014)
-- [The empiricist’s challenge: Asking meaningful questions in political science
-  in the age of big data](https://doi.org/10.1080/19331681.2017.1312187) by
-  Andreas Jungherr and Yannis Theocharis (2017)
-- [Computational Social Science ≠ Computer Science + Social
-Data](https://dl.acm.org/doi/10.1145/3132698) by Hanna Wallach (2018)
-
+- [From Factors to Actors: Computational Sociology and Agent-Based Modeling](https://doi.org/10.1146/annurev.soc.28.110601.141117) by Michael W. Macy and Robert Willer (2002)
+- [Life in the network: the coming age of computational social science](https://doi.org/10.1126%2Fscience.1167742) by David Lazer et al. (2009)
+- [Critical Questions for Big Data](https://doi.org/10.1080/1369118X.2012.678878) by Dana Boyd and Kate Crawford (2012)
+- [A 61-million-person experiment in social influence and political mobilization](https://doi.org/10.1038/nature11421) by Robert M. Bond et al. (2012)
+- [Manifesto of computational social science](https://doi.org/10.1140/epjst/e2012-01697-8) by R. Conte, N. Gilbert, G. Bonelli, C. Cioffi-Revilla, G. Deffuant, J. Kertesz, V. Loreto, S. Moat, J. -P. Nadal, A. Sanchez, A. Nowak, A. Flache, M. San Miguel & D. Helbing (2012)
+- [Digital Footprints: Opportunities and Challenges for Online Social Research](https://doi.org/10.1146/annurev-soc-071913-043145) by Scott A. Golder and Michael W. Macy (2014)
+- [Sociology in the Era of Big Data: The Ascent of Forensic Social Science](https://doi.org/10.1007/s12108-015-9291-8) by Daniel A. McFarland, Kevin Lewis & Amir Goldberg (2016)
+- [The empiricist’s challenge: Asking meaningful questions in political science in the age of big data](https://doi.org/10.1080/19331681.2017.1312187) by Andreas Jungherr and Yannis Theocharis (2017)
+- [Computational Social Science ≠ Computer Science + Social Data](https://dl.acm.org/doi/10.1145/3132698) by Hanna Wallach (2018)
 - [When Communication Meets Computation: Opportunities, Challenges, and Pitfalls in Computational Communication Science](https://doi.org/10.1080/19312458.2018.1458084) by Wouter van Atteveldt and Tai-Quan Peng (2018)
+- [Analytical sociology and computational social science](https://doi.org/10.1007/s42001-017-0006-5) by Keuschnigg, M., Lovsjö, N. & Hedström, P. (2018)
+- [Computation and the Sociological Imagination](https://doi.org/10.1177/1536504219883850) by James Evans and Jacob G. Foster (2019)
+- [Machine Learning for Sociology](https://doi.org/10.1146/annurev-soc-073117-041106) by Mario Molina and Filiz Garip (2019)
 - [Computational social science: Obstacles and opportunities](https://www.science.org/doi/abs/10.1126/science.aaz8170) by David Lazer et al. (2020) ([open access version](https://dspace.mit.edu/bitstream/handle/1721.1/130299/Computational%20social%20science-%20Obstacles%20and%20opportunities.pdf?sequence=1))
 - [Computational Social Science and the Study of Political Communication](https://doi.org/10.1080/10584609.2020.1833121) by Yannis Theocharis and Andreas Jungherr (2020)
+- [Computational Social Science and Sociology](https://doi.org/10.1146/annurev-soc-121919-054621) by Achim Edelmann, Tom Wolff, Danielle Montagne and Christopher A. Bail (2020)
+- [Measuring algorithmically infused societies](https://doi.org/10.1038/s41586-021-03666-1) by Claudia Wagner, Markus Strohmaier, Alexandra Olteanu, Emre Kıcıman, Noshir Contractor & Tina Eliassi-Rad (2021)
+- [The data revolution in social science needs qualitative research](https://doi.org/10.1038/s41562-022-01333-7) by Nikolitsa Grigoropoulou & Mario L. Small (2022)
 
 ## Software
 
