@@ -31,13 +31,19 @@ All entries within a category are ordered alphabetically.
 
 > Entries are ordered chronologically
 
+- [Growing Artificial Societies: Social Science from the Bottom Up](https://mitpress.mit.edu/9780262550253/growing-artificial-societies/), by By Joshua M. Epstein and Robert L. Axtell (1996)
+- [Six Degrees: The Science of a Connected Age](https://wwnorton.com/books/9780393325423), by Duncan J. Watts (2004)
+- [Everything is Obvious](https://www.penguinrandomhouse.com/books/187477/everything-is-obvious-by-duncan-j-watts/), by Duncan J. Watts (2011)
+- [Agent_Zero: Toward Neurocognitive Foundations for Generative Social Science](https://press.princeton.edu/books/hardcover/9780691158884/agentzero), by Joshua M. Epstein (2014)
+- [Computational Social Sciences](https://www.springer.com/series/11784/books?page=3), Springer book series (2015-2023)
+- [Big Data Is Not a Monolith](https://mitpress.mit.edu/9780262529488/big-data-is-not-a-monolith/), edited by Cassidy R. Sugimoto, Hamid R. Ekbia, and Michael Mattioli (2016)
 - [Bit By Bit: Social Research in the Digital Age](https://www.bitbybitbook.com/) by Matthew J. Salganik (2017)
-- [Decoding the Social World: Data Science and the Unintended Consequences of
-  Communication](https://mitpress.mit.edu/9780262037075/) by Sandra
-  González-Bailón (2017)
-- [The Oxford Handbook of Networked
-  Communication](https://global.oup.com/academic/product/the-oxford-handbook-of-networked-communication-9780190460518?cc=de&lang=en&)
-  edited by Brooke Foucault Welles and Sandra González-Bailón (2020)
+- [Decoding the Social World: Data Science and the Unintended Consequences of Communication](https://mitpress.mit.edu/9780262037075/) by Sandra González-Bailón (2017)
+- [Digital Sociology: The Reinvention of Social Research](https://www.wiley.com/en-us/Digital+Sociology:+The+Reinvention+of+Social+Research-p-9780745684789) by Noortje Marres (2017)
+- [The Model Thinker: What You Need to Know to Make Data Work for You](https://www.basicbooks.com/titles/scott-e-page/the-model-thinker/9780465094639/), by Scott E. Page (2018)
+- [What is Digital Sociology?](https://www.wiley.com/en-us/What+is+Digital+Sociology%3F-p-9781509527144), by Neil Selwyn (2019)
+- [The Oxford Handbook of Networked Communication](https://global.oup.com/academic/product/the-oxford-handbook-of-networked-communication-9780190460518?cc=de&lang=en&) edited by Brooke Foucault Welles and Sandra González-Bailón (2020)
+- [How Humans Judge Machines](https://www.judgingmachines.com/), by Cesar A. Hidalgo, Diana Orghian, Jordi Albo Canals, Filipa De Almeida, Natalia Martin (2021)
 - [Research Exposed: How Empirical Social Science Gets Done in the Digital Age](https://cup.columbia.edu/book/research-exposed/9780231188777) edited by Eszter Hargittai (2020)
 - [Retooling Politics: How Digital Media Are Shaping Democracy](https://doi.org/10.1017/9781108297820) by Andreas Jungherr, Gonzalo Rivero, and Daniel Gayo-Avello (2020)
 - [Text as Data: A New Framework for Machine Learning and the Social Sciences](https://press.princeton.edu/books/paperback/9780691207551/text-as-data) by Justin Grimmer, Margaret E. Roberts, and Brandon M. Stewart (2022)
