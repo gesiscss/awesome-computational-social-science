@@ -31,15 +31,21 @@ All entries within a category are ordered alphabetically.
 
 > Entries are ordered chronologically
 
+- [Growing Artificial Societies: Social Science from the Bottom Up](https://mitpress.mit.edu/9780262550253/growing-artificial-societies/), by By Joshua M. Epstein and Robert L. Axtell (1996)
+- [Six Degrees: The Science of a Connected Age](https://wwnorton.com/books/9780393325423), by Duncan J. Watts (2004)
+- [Everything is Obvious](https://www.penguinrandomhouse.com/books/187477/everything-is-obvious-by-duncan-j-watts/), by Duncan J. Watts (2011)
+- [Agent_Zero: Toward Neurocognitive Foundations for Generative Social Science](https://press.princeton.edu/books/hardcover/9780691158884/agentzero), by Joshua M. Epstein (2014)
+- [Computational Social Sciences](https://www.springer.com/series/11784/books?page=3), Springer book series (2015-2023)
+- [Big Data Is Not a Monolith](https://mitpress.mit.edu/9780262529488/big-data-is-not-a-monolith/), edited by Cassidy R. Sugimoto, Hamid R. Ekbia, and Michael Mattioli (2016)
 - [Bit By Bit: Social Research in the Digital Age](https://www.bitbybitbook.com/) by Matthew J. Salganik (2017)
-- [Decoding the Social World: Data Science and the Unintended Consequences of
-  Communication](https://mitpress.mit.edu/9780262037075/) by Sandra
-  González-Bailón (2017)
-- [The Oxford Handbook of Networked
-  Communication](https://global.oup.com/academic/product/the-oxford-handbook-of-networked-communication-9780190460518?cc=de&lang=en&)
-  edited by Brooke Foucault Welles and Sandra González-Bailón (2020)
+- [Decoding the Social World: Data Science and the Unintended Consequences of Communication](https://mitpress.mit.edu/9780262037075/) by Sandra González-Bailón (2017)
+- [Digital Sociology: The Reinvention of Social Research](https://www.wiley.com/en-us/Digital+Sociology:+The+Reinvention+of+Social+Research-p-9780745684789) by Noortje Marres (2017)
+- [The Model Thinker: What You Need to Know to Make Data Work for You](https://www.basicbooks.com/titles/scott-e-page/the-model-thinker/9780465094639/), by Scott E. Page (2018)
+- [What is Digital Sociology?](https://www.wiley.com/en-us/What+is+Digital+Sociology%3F-p-9781509527144), by Neil Selwyn (2019)
+- [The Oxford Handbook of Networked Communication](https://global.oup.com/academic/product/the-oxford-handbook-of-networked-communication-9780190460518?cc=de&lang=en&) edited by Brooke Foucault Welles and Sandra González-Bailón (2020)
 - [Research Exposed: How Empirical Social Science Gets Done in the Digital Age](https://cup.columbia.edu/book/research-exposed/9780231188777) edited by Eszter Hargittai (2020)
 - [Retooling Politics: How Digital Media Are Shaping Democracy](https://doi.org/10.1017/9781108297820) by Andreas Jungherr, Gonzalo Rivero, and Daniel Gayo-Avello (2020)
+- [How Humans Judge Machines](https://www.judgingmachines.com/), by Cesar A. Hidalgo, Diana Orghian, Jordi Albo Canals, Filipa De Almeida, Natalia Martin (2021)
 - [Text as Data: A New Framework for Machine Learning and the Social Sciences](https://press.princeton.edu/books/paperback/9780691207551/text-as-data) by Justin Grimmer, Margaret E. Roberts, and Brandon M. Stewart (2022)
 - [Computational Analysis of Communication](https://cssbook.net/) by Wouter van Atteveldt, Damian Trilling, and Carlos Arcila Calderon (2022)
 
@@ -54,6 +60,7 @@ All entries within a category are ordered alphabetically.
 - [ICA - Annual International Communication Association Conference](https://www.icahdq.org/) (Methods Division)
 - [ICWSM - International AAAI Conference on Web and Social Media](https://www.icwsm.org/)
 - [NetSci - International Conference on Network Science](https://netscisociety.net/events/netsci/)
+- [Computational Social Science Events Worldwide](https://calendar.google.com/calendar/u/0/embed?src=19jm0329h91akpv0srml6c24ec@group.calendar.google.com&ctz=Europe/Rome), Public Calendar
 
 
 ## Education
@@ -76,6 +83,7 @@ All entries within a category are ordered alphabetically.
 - [GESIS Fall Seminar in Computational Social
   Science](https://www.gesis.org/en/gesis-training/what-we-offer/fall-seminar-in-computational-social-science)
 - [The Summer Institutes in Computational Social Science](https://sicss.io/)
+- [Topics in Digital and Computational Demography](https://www.demogr.mpg.de/en/career_6122/international_advanced_studies_in_demography_6682/courses_6931/), PhD level, one week course.
 
 ### University Course Programs
 
@@ -105,6 +113,8 @@ RWTH Aachen, Germany
   Graz, Austria
 - [CSS Lab RWTH Aachen](https://www.css-lab.rwth-aachen.de/), Aachen, Germany
 - [CSS Department at GESIS](https://www.gesis.org/en/institute/departments/computational-social-science), Cologne, Germany
+- [Department of Digital and Computational Demography](https://www.demogr.mpg.de/en/research_6120/digital_and_computational_demography_zagheni_11666/), Rostock, Germany
+- [Behave Lab](https://behavelab.org/), Milan, Italy
 - [Lazerlab](https://lazerlab.net/), Northeastern University, Boston, USA
 - [Computational Social Science Institute at UMass](https://www.cssi.umass.edu),
   Massachusetts Amherst, USA
@@ -114,6 +124,8 @@ RWTH Aachen, Germany
 
 - [Computational Communication Research](https://computationalcommunication.org/ccr)
 - [EPJ Data Science](https://epjdatascience.springeropen.com/)
+- [Journal of Computational Social Science](https://www.springer.com/journal/42001)
+- [Journal of Artificial Societies and Social Simulation](https://www.jasss.org/JASSS.html)
 - [Nature Human Behavior](https://www.nature.com/nathumbehav/)
 - [Social Science Computer Review](https://journals.sagepub.com/home/ssc)
 - [Social Media and Society](https://journals.sagepub.com/home/sms)
@@ -122,27 +134,24 @@ RWTH Aachen, Germany
 
 > Important papers for/about the field, not specific research. Ordered chronologically.
 
-- [Life in the network: the coming age of computational social
-  science](https://doi.org/10.1126%2Fscience.1167742) by David Lazer et al.
-  (2009)
-- [Critical Questions for Big
-  Data](https://doi.org/10.1080/1369118X.2012.678878) by dana boyd and Kate
-  Crawford (2012)
-- [A 61-million-person experiment in social influence and political
-  mobilization](https://doi.org/10.1038/nature11421) by Robert M. Bond et al.
-  (2012)
-- [Digital Footprints: Opportunities and Challenges for Online Social
-  Research](https://doi.org/10.1146/annurev-soc-071913-043145) by Scott A.
-  Golder and Michael W. Macy (2014)
-- [The empiricist’s challenge: Asking meaningful questions in political science
-  in the age of big data](https://doi.org/10.1080/19331681.2017.1312187) by
-  Andreas Jungherr and Yannis Theocharis (2017)
-- [Computational Social Science ≠ Computer Science + Social
-Data](https://dl.acm.org/doi/10.1145/3132698) by Hanna Wallach (2018)
-
+- [From Factors to Actors: Computational Sociology and Agent-Based Modeling](https://doi.org/10.1146/annurev.soc.28.110601.141117) by Michael W. Macy and Robert Willer (2002)
+- [Life in the network: the coming age of computational social science](https://doi.org/10.1126%2Fscience.1167742) by David Lazer et al. (2009)
+- [Critical Questions for Big Data](https://doi.org/10.1080/1369118X.2012.678878) by Dana Boyd and Kate Crawford (2012)
+- [A 61-million-person experiment in social influence and political mobilization](https://doi.org/10.1038/nature11421) by Robert M. Bond et al. (2012)
+- [Manifesto of computational social science](https://doi.org/10.1140/epjst/e2012-01697-8) by R. Conte, N. Gilbert, G. Bonelli, C. Cioffi-Revilla, G. Deffuant, J. Kertesz, V. Loreto, S. Moat, J. -P. Nadal, A. Sanchez, A. Nowak, A. Flache, M. San Miguel & D. Helbing (2012)
+- [Digital Footprints: Opportunities and Challenges for Online Social Research](https://doi.org/10.1146/annurev-soc-071913-043145) by Scott A. Golder and Michael W. Macy (2014)
+- [Sociology in the Era of Big Data: The Ascent of Forensic Social Science](https://doi.org/10.1007/s12108-015-9291-8) by Daniel A. McFarland, Kevin Lewis & Amir Goldberg (2016)
+- [The empiricist’s challenge: Asking meaningful questions in political science in the age of big data](https://doi.org/10.1080/19331681.2017.1312187) by Andreas Jungherr and Yannis Theocharis (2017)
+- [Computational Social Science ≠ Computer Science + Social Data](https://dl.acm.org/doi/10.1145/3132698) by Hanna Wallach (2018)
 - [When Communication Meets Computation: Opportunities, Challenges, and Pitfalls in Computational Communication Science](https://doi.org/10.1080/19312458.2018.1458084) by Wouter van Atteveldt and Tai-Quan Peng (2018)
+- [Analytical sociology and computational social science](https://doi.org/10.1007/s42001-017-0006-5) by Keuschnigg, M., Lovsjö, N. & Hedström, P. (2018)
+- [Computation and the Sociological Imagination](https://doi.org/10.1177/1536504219883850) by James Evans and Jacob G. Foster (2019)
+- [Machine Learning for Sociology](https://doi.org/10.1146/annurev-soc-073117-041106) by Mario Molina and Filiz Garip (2019)
 - [Computational social science: Obstacles and opportunities](https://www.science.org/doi/abs/10.1126/science.aaz8170) by David Lazer et al. (2020) ([open access version](https://dspace.mit.edu/bitstream/handle/1721.1/130299/Computational%20social%20science-%20Obstacles%20and%20opportunities.pdf?sequence=1))
 - [Computational Social Science and the Study of Political Communication](https://doi.org/10.1080/10584609.2020.1833121) by Yannis Theocharis and Andreas Jungherr (2020)
+- [Computational Social Science and Sociology](https://doi.org/10.1146/annurev-soc-121919-054621) by Achim Edelmann, Tom Wolff, Danielle Montagne and Christopher A. Bail (2020)
+- [Measuring algorithmically infused societies](https://doi.org/10.1038/s41586-021-03666-1) by Claudia Wagner, Markus Strohmaier, Alexandra Olteanu, Emre Kıcıman, Noshir Contractor & Tina Eliassi-Rad (2021)
+- [The data revolution in social science needs qualitative research](https://doi.org/10.1038/s41562-022-01333-7) by Nikolitsa Grigoropoulou & Mario L. Small (2022)
 
 ## Software
 
@@ -193,6 +202,7 @@ Data](https://dl.acm.org/doi/10.1145/3132698) by Hanna Wallach (2018)
 - [Awesome Python](https://github.com/vinta/awesome-python) (other lists: [1](https://github.com/kirang89/pycrumbs), [2](https://github.com/svaksha/pythonidae), [3](https://github.com/trekhleb/learn-python))
 - [Awesome R](https://github.com/qinwf/awesome-R)
 - [Awesome Research Software Registries](https://github.com/NLeSC/awesome-research-software-registries)
+- [Awesome Scholarly Data Analysis](https://github.com/napsternxg/awesome-scholarly-data-analysis)
 - [Awesome Quarto](https://github.com/mcanouil/awesome-quarto)
 
 -----
