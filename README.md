@@ -180,8 +180,6 @@ RWTH Aachen, Germany
 
 - [Google Group Computational Social Science Network](https://groups.google.com/g/CSSNET)
 - [Podcast about Computational Communication Science](https://anchor.fm/ccs-pod)
-- [Public Google Calendar with Events in Computational Social
-  Science](https://calendar.google.com/calendar/u/0/embed?src=19jm0329h91akpv0srml6c24ec@group.calendar.google.com&ctz=Europe/Rome)
 
 ## Relevant Awesome Lists
 
