@@ -7,6 +7,7 @@
 
 All entries within a category are ordered alphabetically.
 
+![](logo.png)
 
 ## Contents
 - __[Books](#books)__
