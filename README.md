@@ -129,6 +129,8 @@ RWTH Aachen, Germany
 - [CSS Department at GESIS](https://www.gesis.org/en/institute/departments/computational-social-science), Cologne, Germany
 - [Department of Digital and Computational Demography](https://www.demogr.mpg.de/en/research_6120/digital_and_computational_demography_zagheni_11666/), Rostock, Germany
 - [Behave Lab](https://behavelab.org/), Milan, Italy
+- [Institute for Cross-Disciplinary Physics and Complex Systems (IFISC)](https://ifisc.uib-csic.es/en/research/dynamics-and-collective-phenomena-social-systems/),
+  Palma, Spain
 - [Social Networks Lab](https://sn.ethz.ch/), Zürich, Switzerland
 - [Data Science and AI Lab](https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/data-science-and-ai-lab.html), Abu Dhabi, UAE
 - [Oxford Internet Institute](https://www.oii.ox.ac.uk/about/), Oxford, UK
