@@ -111,7 +111,8 @@ chronologically.
 - [Master Computational Social System](https://www.tugraz.at/en/studying-and-teaching/degree-and-certificate-programmes/masters-degree-programmes/computational-social-systems), TU Graz, Austria
 - [Master of Arts in Political Science with Focus on Computational Social Sciences](https://www.uni-bamberg.de/en/political-science/studies/master-of-arts-in-political-science/focuses/computational-social-sciences/), University of Bamberg, Germany
 - [Master Social and Economic Data Science](https://www.polver.uni-konstanz.de/studium/master/master-social-and-economic-data-science/), University of Konstanz, Germany
-- [Bachelor Computational Social Science](https://www.uva.nl/en/programmes/bachelors/computational-social-science/study-programme/study-programme.html) at the University of Amsterdam, Netherlands
+- [Master Politics and Data Science](https://www.ucd.ie/connected_politics/studywithus/), University College Dublin, Ireland
+- [Bachelor Computational Social Science](https://www.uva.nl/en/programmes/bachelors/computational-social-science/study-programme/study-programme.html), University of Amsterdam, Netherlands
 - [Master Computational Social Science](https://gsssh.ku.edu.tr/en/departments/computational-social-sciences/), Koç University, Turkey
 - [Master Computational Social Systems](https://www.rwth-aachen.de/cms/root/Studium/Vor-dem-Studium/Studiengaenge/Liste-Aktuelle-Studiengaenge/Studiengangbeschreibung/~sthd/Computational-Social-Systems-M-Sc/), RWTH Aachen, Germany
 
@@ -126,6 +127,7 @@ chronologically.
 - [Department of Digital and Computational Demography](https://www.demogr.mpg.de/en/research_6120/digital_and_computational_demography_zagheni_11666/), Rostock, Germany
 - [Behave Lab](https://behavelab.org/), Milan, Italy
 - [Institute for Cross-Disciplinary Physics and Complex Systems (IFISC)](https://ifisc.uib-csic.es/en/research/dynamics-and-collective-phenomena-social-systems/),
+- [Connected_Politics Lab](https://www.ucd.ie/connected_politics/), Dublin, Ireland 
   Palma, Spain
 - [Social Networks Lab](https://sn.ethz.ch/), Zürich, Switzerland
 - [Data Science and AI Lab](https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/data-science-and-ai-lab.html), Abu Dhabi, UAE
@@ -143,9 +145,10 @@ chronologically.
 - [EPJ Data Science](https://epjdatascience.springeropen.com/)
 - [Frontiers in Big Data](https://www.frontiersin.org/journals/big-data)
 - [Information, Communication & Society](https://www.tandfonline.com/journals/rics20)
-- [Journal of Computational Social Science](https://www.springer.com/journal/42001)
 - [Journal of Artificial Societies and Social Simulation](https://www.jasss.org/JASSS.html)
 - [Nature Human Behavior](https://www.nature.com/nathumbehav/)
+- [Journal of Computational Social Science](https://www.springer.com/journal/42001)
+- [Journal of Quantitative Description: Digital Media](https://journalqd.org)
 - [Social Science Computer Review](https://journals.sagepub.com/home/ssc)
 - [Social Media and Society](https://journals.sagepub.com/home/sms)
 
@@ -193,6 +196,7 @@ chronologically.
 - [APIs for Social Scientists](https://bookdown.org/paul/apis_for_social_scientists/)
 - [Introduction to Computational Social Science in R](https://bookdown.org/markhoff/css/)
 - [Introduction to Computational Social Science Methods with Python](https://github.com/gesiscss/css_methods_python)
+- [Quanteda Tutorials for Quantitative Text Analysis in R](https://tutorials.quanteda.io)
 
 ## Miscellaneous
 
