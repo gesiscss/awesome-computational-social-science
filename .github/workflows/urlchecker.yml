@@ -14,3 +14,4 @@ jobs:
       with: 
         file_types: .md
         include_files: README.md
+        timeout: 10
