@@ -60,6 +60,8 @@ All entries within a category are ordered alphabetically.
 - [CHI - ACM CHI Conference on Human Factors in Computing Systems](https://chi.acm.org/)
 - [Complex Networks - International Conference on Complex Networks and their Applications](https://www.complexnetworks.org/)
 - [COMPTEXT Conference](https://www.comptextconference.org/)
+- [Conference on Complex Systems](https://cssociety.org/events), in particular the
+  Computational Social Science satellite
 - [EPSA - European Political Science Association Conference](https://epsanet.org/) (Methods division)
 - [IC2S2 - The International Conference for Computational Social Science](http://ic2s2.org)
 - [ICA - Annual International Communication Association Conference](https://www.icahdq.org/) (Methods Division)
