@@ -34,6 +34,7 @@ All entries within a category are ordered alphabetically.
 
 - [Growing Artificial Societies: Social Science from the Bottom Up](https://mitpress.mit.edu/9780262550253/growing-artificial-societies/), by By Joshua M. Epstein and Robert L. Axtell (1996)
 - [Six Degrees: The Science of a Connected Age](https://wwnorton.com/books/9780393325423), by Duncan J. Watts (2004)
+- [Networks, Crowds, and Markets: Reasoning About a Highly Connected World](https://www.cs.cornell.edu/home/kleinber/networks-book/), by David Easley and Jon Kleinberg (2010)
 - [Everything is Obvious](https://www.penguinrandomhouse.com/books/187477/everything-is-obvious-by-duncan-j-watts/), by Duncan J. Watts (2011)
 - [Agent_Zero: Toward Neurocognitive Foundations for Generative Social Science](https://press.princeton.edu/books/hardcover/9780691158884/agentzero), by Joshua M. Epstein (2014)
 - [Computational Social Sciences](https://www.springer.com/series/11784/books?page=3), Springer book series (2015-2023)
@@ -48,6 +49,7 @@ All entries within a category are ordered alphabetically.
 - [Retooling Politics: How Digital Media Are Shaping Democracy](https://doi.org/10.1017/9781108297820) by Andreas Jungherr, Gonzalo Rivero, and Daniel Gayo-Avello (2020)
 - [Sociologia Digital: uma breve introdução](https://repositorio.ufba.br/bitstream/ri/32746/5/SociologiaDigitalPDF.pdf) by Leonardo Nascimento (2020)
 - [How Humans Judge Machines](https://www.judgingmachines.com/), by Cesar A. Hidalgo, Diana Orghian, Jordi Albo Canals, Filipa De Almeida, Natalia Martin (2021)
+- [The Science of Science](https://www.dashunwang.com/book/the-science-of-science), by Dashun Wang and Albert-László Barabási (2021)
 - [Text as Data: A New Framework for Machine Learning and the Social Sciences](https://press.princeton.edu/books/paperback/9780691207551/text-as-data) by Justin Grimmer, Margaret E. Roberts, and Brandon M. Stewart (2022)
 - [Computational Analysis of Communication](https://cssbook.net/) by Wouter van Atteveldt, Damian Trilling, and Carlos Arcila Calderon (2022)
 
@@ -57,6 +59,7 @@ All entries within a category are ordered alphabetically.
 
 - [CHI - ACM CHI Conference on Human Factors in Computing Systems](https://chi.acm.org/)
 - [Complex Networks - International Conference on Complex Networks and their Applications](https://www.complexnetworks.org/)
+- [COMPTEXT Conference](https://www.comptextconference.org/)
 - [EPSA - European Political Science Association Conference](https://epsanet.org/) (Methods division)
 - [IC2S2 - The International Conference for Computational Social Science](http://ic2s2.org)
 - [ICA - Annual International Communication Association Conference](https://www.icahdq.org/) (Methods Division)
@@ -75,9 +78,13 @@ All entries within a category are ordered alphabetically.
 > See also the [Software](#software) section for material on software tools
 
 - [SAGE collection of teaching material for Computational Social Science](https://ocean.sagepub.com/teaching-materials-for-computational-social-science) - Large collection of various teaching material for Computational Social Science
+- [Social and Economic Networks: Models and Analysis](https://www.coursera.org/learn/social-economic-networks) - Online course on social and economic networks taught by Matthew O. Jackson
 - [Toolkit for Digital Methods](https://wiki.helsinki.fi/display/TDM/Toolkit+for+Digital+Methods+Home) -  A wiki of resources for digital methods in Social Sciences
 
 ### Videos and Lectures
+
+- [Introduction to computational social science](https://youtu.be/EF7X9wwl0q4), by Matthew J. Salganik, Princeton University (2019)
+- [A gentle introduction to network science](https://www.youtube.com/watch?v=L6CqqlILBCI), by Renaud Lambiotte, University of Oxford (2018)
 
 ### Workshops
 
@@ -114,10 +121,15 @@ RWTH Aachen, Germany
 - [Digital Humanities Lab at UFBA](https://www.labhd.ufba.br/), Salvador, Brazil
 - [CSS Lab TU Graz](https://www.tugraz.at/institute/isds/research/research-groups/computational-social-science-lab-css-lab/),
   Graz, Austria
+- [Copenhagen Center for Social Data Science (SODAS)](https://sodas.ku.dk), Copenhagen, Denmark
+- [NEtwoRks, Data, and Society (NERDS)](https://nerds.itu.dk/), Copenhagen, Denmark
 - [CSS Lab RWTH Aachen](https://www.css-lab.rwth-aachen.de/), Aachen, Germany
 - [CSS Department at GESIS](https://www.gesis.org/en/institute/departments/computational-social-science), Cologne, Germany
 - [Department of Digital and Computational Demography](https://www.demogr.mpg.de/en/research_6120/digital_and_computational_demography_zagheni_11666/), Rostock, Germany
 - [Behave Lab](https://behavelab.org/), Milan, Italy
+- [Social Networks Lab](https://sn.ethz.ch/), Zürich, Switzerland
+- [Data Science and AI Lab](https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/data-science-and-ai-lab.html), Abu Dhabi, UAE
+- [Oxford Internet Institute](https://www.oii.ox.ac.uk/about/), Oxford, UK
 - [Lazerlab](https://lazerlab.net/), Northeastern University, Boston, USA
 - [Computational Social Science Institute at UMass](https://www.cssi.umass.edu),
   Massachusetts Amherst, USA
