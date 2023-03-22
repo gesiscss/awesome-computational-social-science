@@ -130,6 +130,8 @@ chronologically.
 - [CSS Department at GESIS](https://www.gesis.org/en/institute/departments/computational-social-science), Cologne, Germany
 - [Department of Digital and Computational Demography](https://www.demogr.mpg.de/en/research_6120/digital_and_computational_demography_zagheni_11666/), Rostock, Germany
 - [Behave Lab](https://behavelab.org/), Milan, Italy
+- [Center of Data Science and Complexity for Society (CDCS)](https://cdcs.di.uniroma1.it/index.php), Rome, Italy 
+- [Center for Computational Social Science and Human Dynamics (C2S2)](https://c2s2.unitn.it), Trento, Italy
 - [Institute for Cross-Disciplinary Physics and Complex Systems (IFISC)](https://ifisc.uib-csic.es/en/research/dynamics-and-collective-phenomena-social-systems/),
 - [Connected_Politics Lab](https://www.ucd.ie/connected_politics/), Dublin, Ireland 
   Palma, Spain
