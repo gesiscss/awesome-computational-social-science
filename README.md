@@ -48,14 +48,17 @@ chronologically.
 - [What is Digital Sociology?](https://www.wiley.com/en-us/What+is+Digital+Sociology%3F-p-9781509527144), by Neil Selwyn (2019)
 - [The Oxford Handbook of Networked Communication](https://global.oup.com/academic/product/the-oxford-handbook-of-networked-communication-9780190460518?cc=de&lang=en&) edited by Brooke Foucault Welles and Sandra González-Bailón (2020)
 - [Research Exposed: How Empirical Social Science Gets Done in the Digital Age](https://cup.columbia.edu/book/research-exposed/9780231188777) edited by Eszter Hargittai (2020)
-- [The SAGE Handbook of Social Media Research Methods](https://uk.sagepub.com/en-gb/eur/the-sage-handbook-of-social-media-research-methods/book272098) edited by Anabel Quan-Haase and Luke Sloan
 - [Retooling Politics: How Digital Media Are Shaping Democracy](https://doi.org/10.1017/9781108297820) by Andreas Jungherr, Gonzalo Rivero, and Daniel Gayo-Avello (2020)
 - [Sociologia Digital: uma breve introdução](https://repositorio.ufba.br/bitstream/ri/32746/5/SociologiaDigitalPDF.pdf) by Leonardo Nascimento (2020)
 - [How Humans Judge Machines](https://www.judgingmachines.com/), by Cesar A. Hidalgo, Diana Orghian, Jordi Albo Canals, Filipa De Almeida, Natalia Martin (2021)
 - [The Science of Science](https://www.dashunwang.com/book/the-science-of-science), by Dashun Wang and Albert-László Barabási (2021)
 - [Doing Computational Social Science - A Practical Introduction](https://uk.sagepub.com/en-gb/eur/doing-computational-social-science/book266031) by John McLevey (2021)
 - [Text as Data: A New Framework for Machine Learning and the Social Sciences](https://press.princeton.edu/books/paperback/9780691207551/text-as-data) by Justin Grimmer, Margaret E. Roberts, and Brandon M. Stewart (2022)
-- [Computational Analysis of Communication](https://cssbook.net/) by Wouter van Atteveldt, Damian Trilling, and Carlos Arcila Calderon (2022)
+- [Computational Analysis of Communication](https://cssbook.net/) by Wouter van
+  Atteveldt, Damian Trilling, and Carlos Arcila Calderon (2022)
+- [The SAGE Handbook of Social Media Research
+  Methods](https://uk.sagepub.com/en-gb/eur/the-sage-handbook-of-social-media-research-methods/book272098)
+  edited by Anabel Quan-Haase and Luke Sloan (2022)
 - [Research Handbook on Digital Sociology](https://www.e-elgar.com/shop/gbp/research-handbook-on-digital-sociology-9781789906752.html) edited by Jan Skopek (2023)
 
 ## Conferences
