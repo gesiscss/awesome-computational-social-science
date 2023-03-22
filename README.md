@@ -133,16 +133,19 @@ chronologically.
 
 ## Journals
 
+> Ordered alphabetically
+
+- [Big Data & Society](https://journals.sagepub.com/home/bds)
 - [Computational Communication Research](https://computationalcommunication.org/ccr)
 - [EPJ Data Science](https://epjdatascience.springeropen.com/)
+- [Frontiers in Big Data](https://www.frontiersin.org/journals/big-data)
+- [Information, Communication & Society](https://www.tandfonline.com/journals/rics20)
 - [Journal of Computational Social Science](https://www.springer.com/journal/42001)
 - [Journal of Artificial Societies and Social Simulation](https://www.jasss.org/JASSS.html)
 - [Nature Human Behavior](https://www.nature.com/nathumbehav/)
 - [Social Science Computer Review](https://journals.sagepub.com/home/ssc)
 - [Social Media and Society](https://journals.sagepub.com/home/sms)
-- [Information, Communication & Society](https://www.tandfonline.com/journals/rics20)
-- [Big Data & Society](https://journals.sagepub.com/home/bds)
-- [Frontiers in Big Data](https://www.frontiersin.org/journals/big-data)
+
 
 ## Selected Papers
 
