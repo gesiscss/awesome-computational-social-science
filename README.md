@@ -51,6 +51,7 @@ All entries within a category are ordered alphabetically.
 - [The Science of Science](https://www.dashunwang.com/book/the-science-of-science), by Dashun Wang and Albert-László Barabási (2021)
 - [Text as Data: A New Framework for Machine Learning and the Social Sciences](https://press.princeton.edu/books/paperback/9780691207551/text-as-data) by Justin Grimmer, Margaret E. Roberts, and Brandon M. Stewart (2022)
 - [Computational Analysis of Communication](https://cssbook.net/) by Wouter van Atteveldt, Damian Trilling, and Carlos Arcila Calderon (2022)
+- [Doing Computational Social Science - A Practical Introduction](https://uk.sagepub.com/en-gb/eur/doing-computational-social-science/book266031) by John McLevey (2021)
 
 ## Conferences
 
@@ -65,6 +66,7 @@ All entries within a category are ordered alphabetically.
 - [ICWSM - International AAAI Conference on Web and Social Media](https://www.icwsm.org/)
 - [NetSci - International Conference on Network Science](https://netscisociety.net/events/netsci/)
 - [Computational Social Science Events Worldwide](https://calendar.google.com/calendar/u/0/embed?src=19jm0329h91akpv0srml6c24ec@group.calendar.google.com&ctz=Europe/Rome), Public Calendar
+- [BigSurv - Big Data Meets Survey Science](https://www.bigsurv.org/)
 
 
 ## Education
@@ -165,6 +167,8 @@ RWTH Aachen, Germany
 - [Computational Social Science and Sociology](https://doi.org/10.1146/annurev-soc-121919-054621) by Achim Edelmann, Tom Wolff, Danielle Montagne and Christopher A. Bail (2020)
 - [Measuring algorithmically infused societies](https://doi.org/10.1038/s41586-021-03666-1) by Claudia Wagner, Markus Strohmaier, Alexandra Olteanu, Emre Kıcıman, Noshir Contractor & Tina Eliassi-Rad (2021)
 - [The data revolution in social science needs qualitative research](https://doi.org/10.1038/s41562-022-01333-7) by Nikolitsa Grigoropoulou & Mario L. Small (2022)
+- [Installing computational social science: Facing the challenges of new information and communication technologies in social science](http://journals.sagepub.com/doi/10.1177/2059799115622763) by Raphael H. Heiberger & Jan R. Riebling (2016)
+- [Computational Social Science Methodology, Anyone?](https://doi.org/10.1027/1614-2241/a000127) by Joop J. Hox (2017)
 
 ## Software
 
@@ -212,6 +216,7 @@ RWTH Aachen, Germany
 - [Awesome Open Science](https://github.com/silky/awesome-open-science)
 - [Awesome Python](https://github.com/vinta/awesome-python) (other lists: [1](https://github.com/kirang89/pycrumbs), [2](https://github.com/svaksha/pythonidae), [3](https://github.com/trekhleb/learn-python))
 - [Awesome R](https://github.com/qinwf/awesome-R)
+- [Awesome Julia](https://github.com/greister/Awesome-Julia)
 - [Awesome Research Software Registries](https://github.com/NLeSC/awesome-research-software-registries)
 - [Awesome Scholarly Data Analysis](https://github.com/napsternxg/awesome-scholarly-data-analysis)
 - [Awesome Quarto](https://github.com/mcanouil/awesome-quarto)
