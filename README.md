@@ -50,14 +50,15 @@ All entries within a category are ordered alphabetically.
 - [Sociologia Digital: uma breve introdução](https://repositorio.ufba.br/bitstream/ri/32746/5/SociologiaDigitalPDF.pdf) by Leonardo Nascimento (2020)
 - [How Humans Judge Machines](https://www.judgingmachines.com/), by Cesar A. Hidalgo, Diana Orghian, Jordi Albo Canals, Filipa De Almeida, Natalia Martin (2021)
 - [The Science of Science](https://www.dashunwang.com/book/the-science-of-science), by Dashun Wang and Albert-László Barabási (2021)
+- [Doing Computational Social Science - A Practical Introduction](https://uk.sagepub.com/en-gb/eur/doing-computational-social-science/book266031) by John McLevey (2021)
 - [Text as Data: A New Framework for Machine Learning and the Social Sciences](https://press.princeton.edu/books/paperback/9780691207551/text-as-data) by Justin Grimmer, Margaret E. Roberts, and Brandon M. Stewart (2022)
 - [Computational Analysis of Communication](https://cssbook.net/) by Wouter van Atteveldt, Damian Trilling, and Carlos Arcila Calderon (2022)
-- [Doing Computational Social Science - A Practical Introduction](https://uk.sagepub.com/en-gb/eur/doing-computational-social-science/book266031) by John McLevey (2021)
 
 ## Conferences
 
 > Relevant conferences where the community (or parts thereof) meets
 
+- [BigSurv - Big Data Meets Survey Science](https://www.bigsurv.org/)
 - [CHI - ACM CHI Conference on Human Factors in Computing Systems](https://chi.acm.org/)
 - [Complex Networks - International Conference on Complex Networks and their Applications](https://www.complexnetworks.org/)
 - [COMPTEXT Conference](https://www.comptextconference.org/)
@@ -68,9 +69,10 @@ All entries within a category are ordered alphabetically.
 - [ICA - Annual International Communication Association Conference](https://www.icahdq.org/) (Methods Division)
 - [ICWSM - International AAAI Conference on Web and Social Media](https://www.icwsm.org/)
 - [NetSci - International Conference on Network Science](https://netscisociety.net/events/netsci/)
-- [Computational Social Science Events Worldwide](https://calendar.google.com/calendar/u/0/embed?src=19jm0329h91akpv0srml6c24ec@group.calendar.google.com&ctz=Europe/Rome), Public Calendar
-- [BigSurv - Big Data Meets Survey Science](https://www.bigsurv.org/)
 
+
+
+[Computational Social Science Events Worldwide](https://calendar.google.com/calendar/u/0/embed?src=19jm0329h91akpv0srml6c24ec@group.calendar.google.com&ctz=Europe/Rome), Public Calendar
 
 ## Education
 
@@ -161,7 +163,11 @@ RWTH Aachen, Germany
 - [A 61-million-person experiment in social influence and political mobilization](https://doi.org/10.1038/nature11421) by Robert M. Bond et al. (2012)
 - [Manifesto of computational social science](https://doi.org/10.1140/epjst/e2012-01697-8) by R. Conte, N. Gilbert, G. Bonelli, C. Cioffi-Revilla, G. Deffuant, J. Kertesz, V. Loreto, S. Moat, J. -P. Nadal, A. Sanchez, A. Nowak, A. Flache, M. San Miguel & D. Helbing (2012)
 - [Digital Footprints: Opportunities and Challenges for Online Social Research](https://doi.org/10.1146/annurev-soc-071913-043145) by Scott A. Golder and Michael W. Macy (2014)
-- [Sociology in the Era of Big Data: The Ascent of Forensic Social Science](https://doi.org/10.1007/s12108-015-9291-8) by Daniel A. McFarland, Kevin Lewis & Amir Goldberg (2016)
+- [Sociology in the Era of Big Data: The Ascent of Forensic Social
+  Science](https://doi.org/10.1007/s12108-015-9291-8) by Daniel A. McFarland,
+  Kevin Lewis & Amir Goldberg (2016)
+- [Installing computational social science: Facing the challenges of new information and communication technologies in social science](http://journals.sagepub.com/doi/10.1177/2059799115622763) by Raphael H. Heiberger & Jan R. Riebling (2016)
+- [Computational Social Science Methodology, Anyone?](https://doi.org/10.1027/1614-2241/a000127) by Joop J. Hox (2017)
 - [The empiricist’s challenge: Asking meaningful questions in political science in the age of big data](https://doi.org/10.1080/19331681.2017.1312187) by Andreas Jungherr and Yannis Theocharis (2017)
 - [Computational Social Science ≠ Computer Science + Social Data](https://dl.acm.org/doi/10.1145/3132698) by Hanna Wallach (2018)
 - [When Communication Meets Computation: Opportunities, Challenges, and Pitfalls in Computational Communication Science](https://doi.org/10.1080/19312458.2018.1458084) by Wouter van Atteveldt and Tai-Quan Peng (2018)
@@ -173,8 +179,6 @@ RWTH Aachen, Germany
 - [Computational Social Science and Sociology](https://doi.org/10.1146/annurev-soc-121919-054621) by Achim Edelmann, Tom Wolff, Danielle Montagne and Christopher A. Bail (2020)
 - [Measuring algorithmically infused societies](https://doi.org/10.1038/s41586-021-03666-1) by Claudia Wagner, Markus Strohmaier, Alexandra Olteanu, Emre Kıcıman, Noshir Contractor & Tina Eliassi-Rad (2021)
 - [The data revolution in social science needs qualitative research](https://doi.org/10.1038/s41562-022-01333-7) by Nikolitsa Grigoropoulou & Mario L. Small (2022)
-- [Installing computational social science: Facing the challenges of new information and communication technologies in social science](http://journals.sagepub.com/doi/10.1177/2059799115622763) by Raphael H. Heiberger & Jan R. Riebling (2016)
-- [Computational Social Science Methodology, Anyone?](https://doi.org/10.1027/1614-2241/a000127) by Joop J. Hox (2017)
 
 ## Software
 
