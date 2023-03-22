@@ -1,7 +1,7 @@
 name: URLChecker
 on: 
   schedule:
-  - cron: '05 16 22 * *'
+  - cron: '08 15 22 * *'
 
 jobs:
   check-urls:
