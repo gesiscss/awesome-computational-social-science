@@ -135,6 +135,8 @@ chronologically.
 - [Institute for Cross-Disciplinary Physics and Complex Systems (IFISC)](https://ifisc.uib-csic.es/en/research/dynamics-and-collective-phenomena-social-systems/),
 - [Connected_Politics Lab](https://www.ucd.ie/connected_politics/), Dublin, Ireland 
   Palma, Spain
+- [Institute for Cross-Disciplinary Physics and Complex Systems (IFISC)](https://ifisc.uib-csic.es/en/research/dynamics-and-collective-phenomena-social-systems/), Palma, Spain
+- [Connected_Politics Lab](https://www.ucd.ie/connected_politics/), Dublin, Ireland
 - [Social Networks Lab](https://sn.ethz.ch/), Zürich, Switzerland
 - [Data Science and AI Lab](https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/data-science-and-ai-lab.html), Abu Dhabi, UAE
 - [Oxford Internet Institute](https://www.oii.ox.ac.uk/about/), Oxford, UK
