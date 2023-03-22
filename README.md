@@ -133,6 +133,7 @@ chronologically.
 - [Center of Data Science and Complexity for Society (CDCS)](https://cdcs.di.uniroma1.it/index.php), Sapienza University, Rome, Italy 
 - [Center for Computational Social Science and Human Dynamics (C2S2)](https://c2s2.unitn.it), University of Trento and Bruno Kessler Foundation, Trento, Italy
 - [Mobile and Social Computing Lab (MobS Lab)](https://ict.fbk.eu/units/mobs/), Bruno Kessler Foundation, Trento, Italy
+- [CENTAI Institute](https://centai.eu), Turin, Italy
 - [Institute for Cross-Disciplinary Physics and Complex Systems (IFISC)](https://ifisc.uib-csic.es/en/research/dynamics-and-collective-phenomena-social-systems/),
 - [Connected_Politics Lab](https://www.ucd.ie/connected_politics/), Dublin, Ireland 
   Palma, Spain
