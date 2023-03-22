@@ -121,7 +121,7 @@ chronologically.
 
 ## Research Groups
 
-> Alphabetially by country and city)
+> Ordered alphabetically by country and city
 - [CSS Lab TU Graz](https://www.tugraz.at/institute/isds/research/research-groups/computational-social-science-lab-css-lab/), Graz, Austria
 - [Digital Humanities Lab at UFBA](https://www.labhd.ufba.br/), Salvador, Brazil
 - [Copenhagen Center for Social Data Science (SODAS)](https://sodas.ku.dk), Copenhagen, Denmark
