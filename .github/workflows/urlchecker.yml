@@ -1,8 +1,9 @@
 name: URLChecker
+
 on: 
   schedule:
-  - cron: '12 15 22 * *'
-
+    - cron: '0 16 22 * *'
+  pull_request:
 jobs:
   build:
     runs-on: ubuntu-latest
