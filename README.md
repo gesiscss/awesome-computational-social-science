@@ -109,11 +109,14 @@ chronologically.
 > Bachelor, Master, PhD programs (alphabetically by country)
 
 - [Master Computational Social System](https://www.tugraz.at/en/studying-and-teaching/degree-and-certificate-programmes/masters-degree-programmes/computational-social-systems), TU Graz, Austria
+- [Master Computational Social Systems](https://www.rwth-aachen.de/cms/root/Studium/Vor-dem-Studium/Studiengaenge/Liste-Aktuelle-Studiengaenge/Studiengangbeschreibung/~sthd/Computational-Social-Systems-M-Sc/), RWTH Aachen, Germany
 - [Master of Arts in Political Science with Focus on Computational Social Sciences](https://www.uni-bamberg.de/en/political-science/studies/master-of-arts-in-political-science/focuses/computational-social-sciences/), University of Bamberg, Germany
 - [Master Social and Economic Data Science](https://www.polver.uni-konstanz.de/studium/master/master-social-and-economic-data-science/), University of Konstanz, Germany
 - [Bachelor Computational Social Science](https://www.uva.nl/en/programmes/bachelors/computational-social-science/study-programme/study-programme.html) at the University of Amsterdam, Netherlands
+- [Master Social Data Science](https://www.oii.ox.ac.uk/study/msc-in-social-data-science/), University of Oxford, United Kingdom
+- [DPhil Social Data Science](https://www.oii.ox.ac.uk/study/dphil-in-social-data-science/), University of Oxford, United Kingdom
 - [Master Computational Social Science](https://gsssh.ku.edu.tr/en/departments/computational-social-sciences/), Koç University, Turkey
-- [Master Computational Social Systems](https://www.rwth-aachen.de/cms/root/Studium/Vor-dem-Studium/Studiengaenge/Liste-Aktuelle-Studiengaenge/Studiengangbeschreibung/~sthd/Computational-Social-Systems-M-Sc/), RWTH Aachen, Germany
+
 
 ## Research Groups
 
