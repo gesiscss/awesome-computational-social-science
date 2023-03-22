@@ -126,7 +126,6 @@ RWTH Aachen, Germany
 ## Research Groups
 
 > Alphabetially by country and city)
-- [Digital Humanities Lab at UFBA](https://www.labhd.ufba.br/), Salvador, Brazil
 - [CSS Lab TU Graz](https://www.tugraz.at/institute/isds/research/research-groups/computational-social-science-lab-css-lab/),
   Graz, Austria
 - [Copenhagen Center for Social Data Science (SODAS)](https://sodas.ku.dk), Copenhagen, Denmark
