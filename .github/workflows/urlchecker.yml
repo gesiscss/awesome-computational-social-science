@@ -1,0 +1,16 @@
+name: URLChecker
+on: 
+  schedule:
+  - cron: '05 16 22 * *'
+
+jobs:
+  check-urls:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout Actions Repository
+      uses: actions/checkout@v2
+    - name: Test GitHub Action
+      uses: urlstechie/urlchecker-action@master
+      with: 
+        file_types: .md
+        include_files: README.md
