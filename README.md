@@ -64,15 +64,12 @@ chronologically.
 - [CHI - ACM CHI Conference on Human Factors in Computing Systems](https://chi.acm.org/)
 - [Complex Networks - International Conference on Complex Networks and their Applications](https://www.complexnetworks.org/)
 - [COMPTEXT Conference](https://www.comptextconference.org/)
-- [Conference on Complex Systems](https://cssociety.org/events), in particular the
-  Computational Social Science satellite
+- [Conference on Complex Systems](https://cssociety.org/events), in particular the Computational Social Science satellite
 - [EPSA - European Political Science Association Conference](https://epsanet.org/) (Methods division)
 - [IC2S2 - The International Conference for Computational Social Science](http://ic2s2.org)
 - [ICA - Annual International Communication Association Conference](https://www.icahdq.org/) (Methods Division)
 - [ICWSM - International AAAI Conference on Web and Social Media](https://www.icwsm.org/)
 - [NetSci - International Conference on Network Science](https://netscisociety.net/events/netsci/)
-
-
 
 [Computational Social Science Events Worldwide](https://calendar.google.com/calendar/u/0/embed?src=19jm0329h91akpv0srml6c24ec@group.calendar.google.com&ctz=Europe/Rome), Public Calendar
 
@@ -106,28 +103,17 @@ chronologically.
 
 > Bachelor, Master, PhD programs (alphabetically by country)
 
-- [Master Computational Social
-  System](https://www.tugraz.at/en/studying-and-teaching/degree-and-certificate-programmes/masters-degree-programmes/computational-social-systems),
-  TU Graz, Austria
-- [Master of Arts in Political Science with Focus on Computational Social Sciences](https://www.uni-bamberg.de/en/political-science/studies/master-of-arts-in-political-science/focuses/computational-social-sciences/),
-University of Bamberg, Germany
-- [Master Social and Economic Data Science](https://www.polver.uni-konstanz.de/studium/master/master-social-and-economic-data-science/),
-University of Konstanz, Germany
-- [Bachelor Computational Social
-  Science](https://www.uva.nl/en/programmes/bachelors/computational-social-science/study-programme/study-programme.html)
-  at the University of Amsterdam, Netherlands
-- [Master Computational Social
-  Science](https://gsssh.ku.edu.tr/en/departments/computational-social-sciences/),
-Koç University, Turkey
-- [Master Computational Social
-  Systems](https://www.rwth-aachen.de/cms/root/Studium/Vor-dem-Studium/Studiengaenge/Liste-Aktuelle-Studiengaenge/Studiengangbeschreibung/~sthd/Computational-Social-Systems-M-Sc/),
-RWTH Aachen, Germany
+- [Master Computational Social System](https://www.tugraz.at/en/studying-and-teaching/degree-and-certificate-programmes/masters-degree-programmes/computational-social-systems), TU Graz, Austria
+- [Master of Arts in Political Science with Focus on Computational Social Sciences](https://www.uni-bamberg.de/en/political-science/studies/master-of-arts-in-political-science/focuses/computational-social-sciences/), University of Bamberg, Germany
+- [Master Social and Economic Data Science](https://www.polver.uni-konstanz.de/studium/master/master-social-and-economic-data-science/), University of Konstanz, Germany
+- [Bachelor Computational Social Science](https://www.uva.nl/en/programmes/bachelors/computational-social-science/study-programme/study-programme.html) at the University of Amsterdam, Netherlands
+- [Master Computational Social Science](https://gsssh.ku.edu.tr/en/departments/computational-social-sciences/), Koç University, Turkey
+- [Master Computational Social Systems](https://www.rwth-aachen.de/cms/root/Studium/Vor-dem-Studium/Studiengaenge/Liste-Aktuelle-Studiengaenge/Studiengangbeschreibung/~sthd/Computational-Social-Systems-M-Sc/), RWTH Aachen, Germany
 
 ## Research Groups
 
 > Alphabetially by country and city)
-- [CSS Lab TU Graz](https://www.tugraz.at/institute/isds/research/research-groups/computational-social-science-lab-css-lab/),
-  Graz, Austria
+- [CSS Lab TU Graz](https://www.tugraz.at/institute/isds/research/research-groups/computational-social-science-lab-css-lab/), Graz, Austria
 - [Copenhagen Center for Social Data Science (SODAS)](https://sodas.ku.dk), Copenhagen, Denmark
 - [NEtwoRks, Data, and Society (NERDS)](https://nerds.itu.dk/), Copenhagen, Denmark
 - [CSS Lab RWTH Aachen](https://www.css-lab.rwth-aachen.de/), Aachen, Germany
@@ -141,9 +127,7 @@ RWTH Aachen, Germany
 - [Oxford Internet Institute](https://www.oii.ox.ac.uk/about/), Oxford, UK
 - [Observatory on Social Media](https://osome.iu.edu/), Indiana University, Bloomington, USA
 - [Lazerlab](https://lazerlab.net/), Northeastern University, Boston, USA
-- [Computational Social Science Institute at UMass](https://www.cssi.umass.edu),
-  Massachusetts Amherst, USA
-
+- [Computational Social Science Institute at UMass](https://www.cssi.umass.edu), Massachusetts Amherst, USA
 
 ## Journals
 
@@ -165,9 +149,7 @@ RWTH Aachen, Germany
 - [A 61-million-person experiment in social influence and political mobilization](https://doi.org/10.1038/nature11421) by Robert M. Bond et al. (2012)
 - [Manifesto of computational social science](https://doi.org/10.1140/epjst/e2012-01697-8) by R. Conte, N. Gilbert, G. Bonelli, C. Cioffi-Revilla, G. Deffuant, J. Kertesz, V. Loreto, S. Moat, J. -P. Nadal, A. Sanchez, A. Nowak, A. Flache, M. San Miguel & D. Helbing (2012)
 - [Digital Footprints: Opportunities and Challenges for Online Social Research](https://doi.org/10.1146/annurev-soc-071913-043145) by Scott A. Golder and Michael W. Macy (2014)
-- [Sociology in the Era of Big Data: The Ascent of Forensic Social
-  Science](https://doi.org/10.1007/s12108-015-9291-8) by Daniel A. McFarland,
-  Kevin Lewis & Amir Goldberg (2016)
+- [Sociology in the Era of Big Data: The Ascent of Forensic Social Science](https://doi.org/10.1007/s12108-015-9291-8) by Daniel A. McFarland, Kevin Lewis & Amir Goldberg (2016)
 - [Installing computational social science: Facing the challenges of new information and communication technologies in social science](http://journals.sagepub.com/doi/10.1177/2059799115622763) by Raphael H. Heiberger & Jan R. Riebling (2016)
 - [Computational Social Science Methodology, Anyone?](https://doi.org/10.1027/1614-2241/a000127) by Joop J. Hox (2017)
 - [The empiricist’s challenge: Asking meaningful questions in political science in the age of big data](https://doi.org/10.1080/19331681.2017.1312187) by Andreas Jungherr and Yannis Theocharis (2017)
@@ -200,8 +182,6 @@ RWTH Aachen, Germany
 - [APIs for Social Scientists](https://bookdown.org/paul/apis_for_social_scientists/)
 - [Introduction to Computational Social Science in R](https://bookdown.org/markhoff/css/)
 - [Introduction to Computational Social Science Methods with Python](https://github.com/gesiscss/css_methods_python)
-
-
 
 ## Miscellaneous
 
