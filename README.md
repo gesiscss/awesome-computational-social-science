@@ -5,7 +5,9 @@
 > Inspired by [Awesome Network
 > Analysis](https://github.com/briatte/awesome-network-analysis) and others.
 
-All entries within a category are ordered alphabetically.
+The order of entries within categories is either alphabetically or
+chronologically.  
+**Please add your resources according to the respective ordering**
 
 ![](logo.png)
 
