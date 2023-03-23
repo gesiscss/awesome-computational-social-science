@@ -1,7 +1,3 @@
----
-[]
----
-
 # Awesome Computational Social Science [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 >An [awesome](https://github.com/sindresorhus/awesome) curated list of
