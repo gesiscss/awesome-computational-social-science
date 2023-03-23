@@ -54,11 +54,11 @@ ast <- parse_rmd("README.md")
     first_empty_pos <- min(pos[pos > max(list_items_pos)])
     itemlist <- .parse_md_list(astnode)
     single_line_itemlist <- vapply(itemlist, paste, FUN.VALUE = character(1), collapse = " ", USE.NAMES = FALSE)
+    country <- str_trim(vapply(strsplit(single_line_itemlist, ", "), tail, character(1), 1))
     if (!city) {
-        ordering <- order(vapply(strsplit(single_line_itemlist, ", "), tail, character(1), 1))
+        ordering <- order(country)
     } else {
-        country <- vapply(strsplit(single_line_itemlist, ", "), tail, character(1), 1)
-        city <- vapply(strsplit(single_line_itemlist, ", "), .last2, character(1))
+        city <- str_trim(vapply(strsplit(single_line_itemlist, ", "), .last2, character(1)))
         ordering <- order(country, city)
     }
     ordered_list_items <- itemlist[ordering]
