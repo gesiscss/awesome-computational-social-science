@@ -60,6 +60,7 @@ chronologically.
   Methods](https://uk.sagepub.com/en-gb/eur/the-sage-handbook-of-social-media-research-methods/book272098)
   edited by Anabel Quan-Haase and Luke Sloan (2022)
 - [Research Handbook on Digital Sociology](https://www.e-elgar.com/shop/gbp/research-handbook-on-digital-sociology-9781789906752.html) edited by Jan Skopek (2023)
+- [Handbook of Computational Social Science for Policy](https://link.springer.com/book/10.1007/978-3-031-16624-2) by Eleonora Bertoni, Matteo Fontana, Lorenzo Gabrielli, Serena Signorelli, Michele Vespe (2023)
 
 ## Conferences
 
