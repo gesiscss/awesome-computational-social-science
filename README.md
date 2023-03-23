@@ -114,6 +114,7 @@ chronologically.
 - [Master Social and Economic Data Science](https://www.polver.uni-konstanz.de/studium/master/master-social-and-economic-data-science/), University of Konstanz, Germany
 - [Master Politics and Data Science](https://www.ucd.ie/connected_politics/studywithus/), University College Dublin, Ireland
 - [Bachelor Computational Social Science](https://www.uva.nl/en/programmes/bachelors/computational-social-science/study-programme/study-programme.html) at the University of Amsterdam, Netherlands
+- [Master in Computational Social Sciences](https://www.unilu.ch/studium/studienangebot/master/kultur-und-sozialwissenschaftliche-fakultaet/lucerne-master-in-computational-social-sciences-lumacss/) at the University of Lucerne, Switzerland
 - [Master Social Data Science](https://www.oii.ox.ac.uk/study/msc-in-social-data-science/), University of Oxford, United Kingdom
 - [DPhil Social Data Science](https://www.oii.ox.ac.uk/study/dphil-in-social-data-science/), University of Oxford, United Kingdom
 - [Master Computational Social Science](https://gsssh.ku.edu.tr/en/departments/computational-social-sciences/), Koç University, Turkey
