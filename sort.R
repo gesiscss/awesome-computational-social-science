@@ -3,18 +3,45 @@ require(stringr)
 
 ast <- parse_rmd("README.md")
 
+.parse_md_list <- function(astnode) {
+    list_items_pos <- seq_along(astnode)[grepl("^-", astnode)]
+    pos <- which(astnode == "")
+    first_empty_pos <- min(pos[pos > max(list_items_pos)])
+    itemlist <- list()
+    i <- 0
+    for (j in seq(min(list_items_pos), (first_empty_pos - 1))) {
+        if (!grepl("^-", astnode[j])) {
+            itemlist[[i]] <- append(itemlist[[i]], astnode[j])
+        } else {
+            i <- i + 1
+            itemlist[[i]] <- astnode[j]
+        }
+    }
+    return(itemlist)
+}
+
 .sort_by_year <- function(astnode) {
     list_items_pos <- seq_along(astnode)[grepl("^-", astnode)]
-    ordered_list_items <- astnode[list_items_pos][order(str_extract(astnode[list_items_pos], "\\(([0-9]{4})"))]
-    astnode[list_items_pos] <- ordered_list_items
+    pos <- which(astnode == "")
+    first_empty_pos <- min(pos[pos > max(list_items_pos)])
+    itemlist <- .parse_md_list(astnode)
+    single_line_itemlist <- vapply(itemlist, paste, FUN.VALUE = character(1), collapse = " ", USE.NAMES = FALSE)
+    ordering <- order(str_extract(single_line_itemlist, "\\(([0-9]{4})"))
+    ordered_list_items <- itemlist[ordering]
+    astnode[seq(min(list_items_pos), (first_empty_pos -1))] <- unlist(ordered_list_items)
     astnode
 }
 
 .sort_by_title <- function(astnode) {
     list_items_pos <- seq_along(astnode)[grepl("^-", astnode)]
-    ordered_list_items <- astnode[list_items_pos][order(astnode[list_items_pos])]
-    astnode[list_items_pos] <- ordered_list_items
-    astnode    
+    pos <- which(astnode == "")
+    first_empty_pos <- min(pos[pos > max(list_items_pos)])
+    itemlist <- .parse_md_list(astnode)
+    single_line_itemlist <- vapply(itemlist, paste, FUN.VALUE = character(1), collapse = " ", USE.NAMES = FALSE)
+    ordering <- order(single_line_itemlist)
+    ordered_list_items <- itemlist[ordering]
+    astnode[seq(min(list_items_pos), (first_empty_pos -1))] <- unlist(ordered_list_items)
+    astnode
 }
 
 ## books
@@ -47,3 +74,4 @@ ast[[35]] <- .sort_by_title(ast[[35]])
 ast[[37]] <- .sort_by_title(ast[[37]])
 
 writeLines(as_document(ast), "README.md")
+
