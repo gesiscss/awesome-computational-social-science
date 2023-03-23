@@ -2,7 +2,7 @@ name: URLChecker
 
 on: 
   schedule:
-    - cron: '0 16 22 * *'
+    - cron: '0 0 1 * *'
   pull_request:
 jobs:
   build:

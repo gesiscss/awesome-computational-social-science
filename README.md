@@ -53,8 +53,15 @@ chronologically.
 - [How Humans Judge Machines](https://www.judgingmachines.com/), by Cesar A. Hidalgo, Diana Orghian, Jordi Albo Canals, Filipa De Almeida, Natalia Martin (2021)
 - [The Science of Science](https://www.dashunwang.com/book/the-science-of-science), by Dashun Wang and Albert-László Barabási (2021)
 - [Doing Computational Social Science - A Practical Introduction](https://uk.sagepub.com/en-gb/eur/doing-computational-social-science/book266031) by John McLevey (2021)
+- [Big Data and Social Science: Data Science Methods and Tools for Research and Practice, 2nd Edition](https://textbook.coleridgeinitiative.org/) by Ian Foster, Rayid Ghani, Ron S. Jarmin, Frauke Kreuter and Julia Lane (2021)
 - [Text as Data: A New Framework for Machine Learning and the Social Sciences](https://press.princeton.edu/books/paperback/9780691207551/text-as-data) by Justin Grimmer, Margaret E. Roberts, and Brandon M. Stewart (2022)
-- [Computational Analysis of Communication](https://cssbook.net/) by Wouter van Atteveldt, Damian Trilling, and Carlos Arcila Calderon (2022)
+- [Computational Analysis of Communication](https://cssbook.net/) by Wouter van
+  Atteveldt, Damian Trilling, and Carlos Arcila Calderon (2022)
+- [The SAGE Handbook of Social Media Research
+  Methods](https://uk.sagepub.com/en-gb/eur/the-sage-handbook-of-social-media-research-methods/book272098)
+  edited by Anabel Quan-Haase and Luke Sloan (2022)
+- [Research Handbook on Digital Sociology](https://www.e-elgar.com/shop/gbp/research-handbook-on-digital-sociology-9781789906752.html) edited by Jan Skopek (2023)
+- [Handbook of Computational Social Science for Policy](https://link.springer.com/book/10.1007/978-3-031-16624-2) by Eleonora Bertoni, Matteo Fontana, Lorenzo Gabrielli, Serena Signorelli, Michele Vespe (2023)
 
 ## Conferences
 
@@ -93,6 +100,7 @@ chronologically.
 
 ### Workshops
 
+- [BIGSSS Computational Social Science Summer Schools](https://www.bigsss-bremen.de/academic-program/summer-school-program/computational-social-science-summer-schools)
 - [Essex Summer School in Social Science Data Analysis](https://essexsummerschool.com/)
 - [GESIS Fall Seminar in Computational Social
   Science](https://www.gesis.org/en/gesis-training/what-we-offer/fall-seminar-in-computational-social-science)
@@ -103,41 +111,92 @@ chronologically.
 
 > Bachelor, Master, PhD programs (alphabetically by country)
 
+- [Master Computational Social System](https://www.tugraz.at/en/studying-and-teaching/degree-and-certificate-programmes/masters-degree-programmes/computational-social-systems),
+  TU Graz, Austria
+- [Master of Science program in Social Data Science](https://networkdatascience.ceu.edu/msc-social-data-science), Central European University, Austria
+- [Master of Science (MSc) in Social Data Science](https://studies.ku.dk/masters/social-data-science/), University of Copenhagen, Denmark
+- [Master in Data Science for Social Sciences](https://www.tse-fr.eu/master-data-science-social-sciences), Toulouse School of Economics, France
+- [Master of Arts in Political Science with Focus on Computational Social Sciences](https://www.uni-bamberg.de/en/political-science/studies/master-of-arts-in-political-science/focuses/computational-social-sciences/),
+University of Bamberg, Germany
+- [Master of Data Science for Public Policy](https://www.hertie-school.org/en/mds), Hertie School, Germany
+- [Master Social and Economic Data Science](https://www.polver.uni-konstanz.de/studium/master/master-social-and-economic-data-science/),
+University of Konstanz, Germany
+- [MSc Social Data Science](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=PROG&MAJR=W559), University College Dublin, Ireland
+- [MSc/PG Diploma Applied Social Data Science](https://www.tcd.ie/Political_Science/postgraduate/pg-dip-applied-social-data-science/), Trinity College Dublin, Ireland
+- [Master (Research) in Societal Resilience - Big Data for Society](https://vu.nl/en/education/master/societal-resilience/), Vrije Universiteit Amsterdam, Netherlands
+- [Bachelor Computational Social
+  Science](https://www.uva.nl/en/programmes/bachelors/computational-social-science/study-programme/study-programme.html)
+  at the University of Amsterdam, Netherlands
+- [Master's Programme Computational Social Science](https://liu.se/en/education/program/f7mcd), Linköping University, Sweden
+- [Master in Computational Social Science](https://www.uc3m.es/master/computational-social-science), Universidad Carlos III de Madrid, Spain
+- [Master Computational Social Science](https://gsssh.ku.edu.tr/en/departments/computational-social-sciences/),
+Koç University, Turkey
+- ~~[Master Computational Social Systems](https://www.rwth-aachen.de/cms/root/Studium/Vor-dem-Studium/Studiengaenge/Liste-Aktuelle-Studiengaenge/Studiengangbeschreibung/~sthd/Computational-Social-Systems-M-Sc/)~~ (This course of study is being phased out), RWTH Aachen, Germany
+- [MSc Applied Social Data Science](https://www.lse.ac.uk/Methodology/Study/MSc-Applied-Social-Data-Science), London School of Economics and Political Science, United Kingdom 
+- [MSc Social and Geographic Data Science](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/social-and-geographic-data-science-msc), University College London, United Kingdom
+- [MSc Data Science and Public Policy](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/data-science-and-public-policy-political-science-msc), University College London, United Kingdom
+- [MSc Human and Social Data Science](https://www.sussex.ac.uk/study/masters/courses/human-and-social-data-science-msc), University of Sussex, United Kingdom
+- [MSc Social Data Science](https://www.exeter.ac.uk/study/postgraduate/courses/politics/socialdatasciencemsc/), University of Exeter, United Kingdom
+- [MSc Social Data Science](https://www.oii.ox.ac.uk/study/msc-in-social-data-science/), University of Oxford, United Kingdom
+- [M.S. in Computational Social Science](https://css.ucsd.edu/masters/index.html), University of California San Diego, United States
+- [M.A. in Computational Social Science](https://macss.uchicago.edu/), University of Chicago, United States
+- [M.S. in Computational Analysis & Public Policy](https://capp.uchicago.edu/), University of Chicago, United States
+- [Master of Science in Data Analytics & Computational Social Science](https://www.umass.edu/social-sciences/academics/data-analytics-computational-social-science/ms-dacss), University of Massachusetts Amherst, United States
+- [Master of Science in Data Science for Public Policy](https://mccourt.georgetown.edu/master-of-science-in-data-science-for-public-policy/), Georgetown University, United States
+- [Master of Science in Public Policy and Data Science](https://priceschool.usc.edu/mppds/), University of Southern California, United States 
 - [Master Computational Social System](https://www.tugraz.at/en/studying-and-teaching/degree-and-certificate-programmes/masters-degree-programmes/computational-social-systems), TU Graz, Austria
+- [Master Computational Social Systems](https://www.rwth-aachen.de/cms/root/Studium/Vor-dem-Studium/Studiengaenge/Liste-Aktuelle-Studiengaenge/Studiengangbeschreibung/~sthd/Computational-Social-Systems-M-Sc/), RWTH Aachen, Germany
 - [Master of Arts in Political Science with Focus on Computational Social Sciences](https://www.uni-bamberg.de/en/political-science/studies/master-of-arts-in-political-science/focuses/computational-social-sciences/), University of Bamberg, Germany
 - [Master Social and Economic Data Science](https://www.polver.uni-konstanz.de/studium/master/master-social-and-economic-data-science/), University of Konstanz, Germany
+- [Master Politics and Data Science](https://www.ucd.ie/connected_politics/studywithus/), University College Dublin, Ireland
 - [Bachelor Computational Social Science](https://www.uva.nl/en/programmes/bachelors/computational-social-science/study-programme/study-programme.html) at the University of Amsterdam, Netherlands
+- [Master in Computational Social Sciences](https://www.unilu.ch/studium/studienangebot/master/kultur-und-sozialwissenschaftliche-fakultaet/lucerne-master-in-computational-social-sciences-lumacss/) at the University of Lucerne, Switzerland
+- [Master Social Data Science](https://www.oii.ox.ac.uk/study/msc-in-social-data-science/), University of Oxford, United Kingdom
+- [DPhil Social Data Science](https://www.oii.ox.ac.uk/study/dphil-in-social-data-science/), University of Oxford, United Kingdom
 - [Master Computational Social Science](https://gsssh.ku.edu.tr/en/departments/computational-social-sciences/), Koç University, Turkey
-- [Master Computational Social Systems](https://www.rwth-aachen.de/cms/root/Studium/Vor-dem-Studium/Studiengaenge/Liste-Aktuelle-Studiengaenge/Studiengangbeschreibung/~sthd/Computational-Social-Systems-M-Sc/), RWTH Aachen, Germany
 
 ## Research Groups
 
-> Alphabetially by country and city)
+> Ordered alphabetically by country and city
 - [CSS Lab TU Graz](https://www.tugraz.at/institute/isds/research/research-groups/computational-social-science-lab-css-lab/), Graz, Austria
+- [Digital Humanities Lab at UFBA](https://www.labhd.ufba.br/), Salvador, Brazil
 - [Copenhagen Center for Social Data Science (SODAS)](https://sodas.ku.dk), Copenhagen, Denmark
 - [NEtwoRks, Data, and Society (NERDS)](https://nerds.itu.dk/), Copenhagen, Denmark
 - [CSS Lab RWTH Aachen](https://www.css-lab.rwth-aachen.de/), Aachen, Germany
 - [CSS Department at GESIS](https://www.gesis.org/en/institute/departments/computational-social-science), Cologne, Germany
+- [Computational Social Science and Big Data TUM Munich](https://www.hfp.tum.de/css/startseite/), Munich, Germany
 - [Department of Digital and Computational Demography](https://www.demogr.mpg.de/en/research_6120/digital_and_computational_demography_zagheni_11666/), Rostock, Germany
 - [Behave Lab](https://behavelab.org/), Milan, Italy
-- [Institute for Cross-Disciplinary Physics and Complex Systems (IFISC)](https://ifisc.uib-csic.es/en/research/dynamics-and-collective-phenomena-social-systems/),
-  Palma, Spain
+- [Center of Data Science and Complexity for Society (CDCS)](https://cdcs.di.uniroma1.it/index.php), Sapienza University, Rome, Italy 
+- [Center for Computational Social Science and Human Dynamics (C2S2)](https://c2s2.unitn.it), University of Trento and Bruno Kessler Foundation, Trento, Italy
+- [Mobile and Social Computing Lab (MobS Lab)](https://ict.fbk.eu/units/mobs/), Bruno Kessler Foundation, Trento, Italy
+- [CENTAI Institute](https://centai.eu), Turin, Italy
+- [Connected_Politics Lab](https://www.ucd.ie/connected_politics/), Dublin, Ireland
+- [Institute for Cross-Disciplinary Physics and Complex Systems (IFISC)](https://ifisc.uib-csic.es/en/research/dynamics-and-collective-phenomena-social-systems/), Palma, Spain
 - [Social Networks Lab](https://sn.ethz.ch/), Zürich, Switzerland
 - [Data Science and AI Lab](https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/data-science-and-ai-lab.html), Abu Dhabi, UAE
 - [Oxford Internet Institute](https://www.oii.ox.ac.uk/about/), Oxford, UK
 - [Observatory on Social Media](https://osome.iu.edu/), Indiana University, Bloomington, USA
 - [Lazerlab](https://lazerlab.net/), Northeastern University, Boston, USA
+- [Laboratory for the Modeling of Biological and Socio-Technical Systems (MOBS Lab)](https://www.mobs-lab.org/), Northeastern University, Boston, USA
 - [Computational Social Science Institute at UMass](https://www.cssi.umass.edu), Massachusetts Amherst, USA
 
 ## Journals
 
+> Ordered alphabetically
+
+- [Big Data & Society](https://journals.sagepub.com/home/bds)
 - [Computational Communication Research](https://computationalcommunication.org/ccr)
 - [EPJ Data Science](https://epjdatascience.springeropen.com/)
-- [Journal of Computational Social Science](https://www.springer.com/journal/42001)
+- [Frontiers in Big Data](https://www.frontiersin.org/journals/big-data)
+- [Information, Communication & Society](https://www.tandfonline.com/journals/rics20)
 - [Journal of Artificial Societies and Social Simulation](https://www.jasss.org/JASSS.html)
+- [Journal of Computational Social Science](https://www.springer.com/journal/42001)
+- [Journal of Quantitative Description: Digital Media](https://journalqd.org)
 - [Nature Human Behavior](https://www.nature.com/nathumbehav/)
 - [Social Science Computer Review](https://journals.sagepub.com/home/ssc)
 - [Social Media and Society](https://journals.sagepub.com/home/sms)
+
 
 ## Selected Papers
 
@@ -149,6 +208,8 @@ chronologically.
 - [A 61-million-person experiment in social influence and political mobilization](https://doi.org/10.1038/nature11421) by Robert M. Bond et al. (2012)
 - [Manifesto of computational social science](https://doi.org/10.1140/epjst/e2012-01697-8) by R. Conte, N. Gilbert, G. Bonelli, C. Cioffi-Revilla, G. Deffuant, J. Kertesz, V. Loreto, S. Moat, J. -P. Nadal, A. Sanchez, A. Nowak, A. Flache, M. San Miguel & D. Helbing (2012)
 - [Digital Footprints: Opportunities and Challenges for Online Social Research](https://doi.org/10.1146/annurev-soc-071913-043145) by Scott A. Golder and Michael W. Macy (2014)
+- [Social media for large studies of
+  behavior](https://doi.org/10.1126/science.346.6213.1063) by Derek Ruths and Jürgen Pfeffer (2014)
 - [Sociology in the Era of Big Data: The Ascent of Forensic Social Science](https://doi.org/10.1007/s12108-015-9291-8) by Daniel A. McFarland, Kevin Lewis & Amir Goldberg (2016)
 - [Installing computational social science: Facing the challenges of new information and communication technologies in social science](http://journals.sagepub.com/doi/10.1177/2059799115622763) by Raphael H. Heiberger & Jan R. Riebling (2016)
 - [Computational Social Science Methodology, Anyone?](https://doi.org/10.1027/1614-2241/a000127) by Joop J. Hox (2017)
@@ -182,6 +243,8 @@ chronologically.
 - [APIs for Social Scientists](https://bookdown.org/paul/apis_for_social_scientists/)
 - [Introduction to Computational Social Science in R](https://bookdown.org/markhoff/css/)
 - [Introduction to Computational Social Science Methods with Python](https://github.com/gesiscss/css_methods_python)
+- [R Course Material for Communication Science](https://github.com/ccs-amsterdam/r-course-material)
+- [Quanteda Tutorials for Quantitative Text Analysis in R](https://tutorials.quanteda.io)
 
 ## Miscellaneous
 
