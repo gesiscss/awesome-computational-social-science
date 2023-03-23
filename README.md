@@ -1,3 +1,7 @@
+---
+[]
+---
+
 # Awesome Computational Social Science [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 >An [awesome](https://github.com/sindresorhus/awesome) curated list of
@@ -11,7 +15,9 @@ chronologically.
 
 ![](logo.png)
 
+
 ## Contents
+
 - __[Books](#books)__
 - __[Conferences](#conferences)__
 - __[Education](#education)__
@@ -29,6 +35,7 @@ chronologically.
 - __[Miscellaneous](#miscellaneous)__
 - __[Relevant Awesome Lists](#relevant-awesome-lists)__
 - __[Contributing](#contributing)__
+
 
 ## Books
 
@@ -63,6 +70,7 @@ chronologically.
 - [Research Handbook on Digital Sociology](https://www.e-elgar.com/shop/gbp/research-handbook-on-digital-sociology-9781789906752.html) edited by Jan Skopek (2023)
 - [Handbook of Computational Social Science for Policy](https://link.springer.com/book/10.1007/978-3-031-16624-2) by Eleonora Bertoni, Matteo Fontana, Lorenzo Gabrielli, Serena Signorelli, Michele Vespe (2023)
 
+
 ## Conferences
 
 > Relevant conferences where the community (or parts thereof) meets
@@ -80,10 +88,12 @@ chronologically.
 
 [Computational Social Science Events Worldwide](https://calendar.google.com/calendar/u/0/embed?src=19jm0329h91akpv0srml6c24ec@group.calendar.google.com&ctz=Europe/Rome), Public Calendar
 
+
 ## Education
 
 > Learning material/courses tailored towards Computational Social
 > Science
+
 
 ### Online Courses and Material
 
@@ -93,10 +103,12 @@ chronologically.
 - [Social and Economic Networks: Models and Analysis](https://www.coursera.org/learn/social-economic-networks) - Online course on social and economic networks taught by Matthew O. Jackson
 - [Toolkit for Digital Methods](https://wiki.helsinki.fi/display/TDM/Toolkit+for+Digital+Methods+Home) -  A wiki of resources for digital methods in Social Sciences
 
+
 ### Videos and Lectures
 
-- [Introduction to computational social science](https://youtu.be/EF7X9wwl0q4), by Matthew J. Salganik, Princeton University (2019)
 - [A gentle introduction to network science](https://www.youtube.com/watch?v=L6CqqlILBCI), by Renaud Lambiotte, University of Oxford (2018)
+- [Introduction to computational social science](https://youtu.be/EF7X9wwl0q4), by Matthew J. Salganik, Princeton University (2019)
+
 
 ### Workshops
 
@@ -106,6 +118,7 @@ chronologically.
   Science](https://www.gesis.org/en/gesis-training/what-we-offer/fall-seminar-in-computational-social-science)
 - [The Summer Institutes in Computational Social Science](https://sicss.io/)
 - [Topics in Digital and Computational Demography](https://www.demogr.mpg.de/en/career_6122/international_advanced_studies_in_demography_6682/courses_6931/), PhD level, one week course.
+
 
 ### University Course Programs
 
@@ -123,6 +136,7 @@ University of Bamberg, Germany
 - [Master of Data Science for Public Policy](https://www.hertie-school.org/en/mds), Hertie School, Germany
 - [Master Social and Economic Data Science](https://www.polver.uni-konstanz.de/studium/master/master-social-and-economic-data-science/),
 University of Konstanz, Germany
+- ~~[Master Computational Social Systems](https://www.rwth-aachen.de/cms/root/Studium/Vor-dem-Studium/Studiengaenge/Liste-Aktuelle-Studiengaenge/Studiengangbeschreibung/~sthd/Computational-Social-Systems-M-Sc/)~~ (This course of study is being phased out), RWTH Aachen, Germany
 - [Master Politics and Data Science](https://www.ucd.ie/connected_politics/studywithus/), University College Dublin, Ireland
 - [MSc Social Data Science](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=PROG&MAJR=W559), University College Dublin, Ireland
 - [MSc/PG Diploma Applied Social Data Science](https://www.tcd.ie/Political_Science/postgraduate/pg-dip-applied-social-data-science/), Trinity College Dublin, Ireland
@@ -131,12 +145,11 @@ University of Konstanz, Germany
 - [Bachelor Computational Social
   Science](https://www.uva.nl/en/programmes/bachelors/computational-social-science/study-programme/study-programme.html)
   at the University of Amsterdam, Netherlands
+- [Master in Computational Social Science](https://www.uc3m.es/master/computational-social-science), Universidad Carlos III de Madrid, Spain
 - [Master's Programme Computational Social Science](https://liu.se/en/education/program/f7mcd), Linköping University, Sweden
 - [Master in Computational Social Sciences](https://www.unilu.ch/studium/studienangebot/master/kultur-und-sozialwissenschaftliche-fakultaet/lucerne-master-in-computational-social-sciences-lumacss/) at the University of Lucerne, Switzerland
-- [Master in Computational Social Science](https://www.uc3m.es/master/computational-social-science), Universidad Carlos III de Madrid, Spain
 - [Master Computational Social Science](https://gsssh.ku.edu.tr/en/departments/computational-social-sciences/),
 Koç University, Turkey
-- ~~[Master Computational Social Systems](https://www.rwth-aachen.de/cms/root/Studium/Vor-dem-Studium/Studiengaenge/Liste-Aktuelle-Studiengaenge/Studiengangbeschreibung/~sthd/Computational-Social-Systems-M-Sc/)~~ (This course of study is being phased out), RWTH Aachen, Germany
 - [MSc Applied Social Data Science](https://www.lse.ac.uk/Methodology/Study/MSc-Applied-Social-Data-Science), London School of Economics and Political Science, United Kingdom
 - [MPA in Data Science for Public Policy](https://www.lse.ac.uk/school-of-public-policy/study/mpaindatascience), London School of Economics and Political Science, United Kingdom
 - [MSc Social and Geographic Data Science](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/social-and-geographic-data-science-msc), University College London, United Kingdom
@@ -144,6 +157,7 @@ Koç University, Turkey
 - [MSc Human and Social Data Science](https://www.sussex.ac.uk/study/masters/courses/human-and-social-data-science-msc), University of Sussex, United Kingdom
 - [MSc Social Data Science](https://www.exeter.ac.uk/study/postgraduate/courses/politics/socialdatasciencemsc/), University of Exeter, United Kingdom
 - [MSc Social Data Science](https://www.oii.ox.ac.uk/study/msc-in-social-data-science/), University of Oxford, United Kingdom
+- [DPhil Social Data Science](https://www.oii.ox.ac.uk/study/dphil-in-social-data-science/), University of Oxford, United Kingdom
 - [M.S. in Computational Social Science](https://css.ucsd.edu/masters/index.html), University of California San Diego, United States
 - [M.A. in Computational Social Science](https://macss.uchicago.edu/), University of Chicago, United States
 - [M.S. in Computational Analysis & Public Policy](https://capp.uchicago.edu/), University of Chicago, United States
@@ -151,9 +165,8 @@ Koç University, Turkey
 - [Master of Science in Data Science for Public Policy](https://mccourt.georgetown.edu/master-of-science-in-data-science-for-public-policy/), Georgetown University, United States
 - [Master of Science in Public Policy and Data Science](https://priceschool.usc.edu/mppds/), University of Southern California, United States
 - [Master's Degree Applied Urban Science and Informatics](https://cusp.nyu.edu/masters-degree/), New York University, United States
-- [Master of Science in Social Policy + Data Analytics for Social Policy Certificate](https://www.sp2.upenn.edu/program/master-of-science-in-social-policy-data-analytics-for-social-policy-certificate/), University of Pennsylvania, United States  
 - [Master of Science in Survey and Data Science](https://surveydatascience.isr.umich.edu/survey-and-data-science-masters-degree-program), University of Michigan, United States
-- [DPhil Social Data Science](https://www.oii.ox.ac.uk/study/dphil-in-social-data-science/), University of Oxford, United Kingdom
+- [Master of Science in Social Policy + Data Analytics for Social Policy Certificate](https://www.sp2.upenn.edu/program/master-of-science-in-social-policy-data-analytics-for-social-policy-certificate/), University of Pennsylvania, United States  
 
 
 ## Research Groups
@@ -167,12 +180,12 @@ Koç University, Turkey
 - [CSS Department at GESIS](https://www.gesis.org/en/institute/departments/computational-social-science), Cologne, Germany
 - [Computational Social Science and Big Data TUM Munich](https://www.hfp.tum.de/css/startseite/), Munich, Germany
 - [Department of Digital and Computational Demography](https://www.demogr.mpg.de/en/research_6120/digital_and_computational_demography_zagheni_11666/), Rostock, Germany
+- [Connected_Politics Lab](https://www.ucd.ie/connected_politics/), Dublin, Ireland
 - [Behave Lab](https://behavelab.org/), Milan, Italy
-- [Center of Data Science and Complexity for Society (CDCS)](https://cdcs.di.uniroma1.it/index.php), Sapienza University, Rome, Italy 
 - [Center for Computational Social Science and Human Dynamics (C2S2)](https://c2s2.unitn.it), University of Trento and Bruno Kessler Foundation, Trento, Italy
 - [Mobile and Social Computing Lab (MobS Lab)](https://ict.fbk.eu/units/mobs/), Bruno Kessler Foundation, Trento, Italy
 - [CENTAI Institute](https://centai.eu), Turin, Italy
-- [Connected_Politics Lab](https://www.ucd.ie/connected_politics/), Dublin, Ireland
+- [Center of Data Science and Complexity for Society (CDCS)](https://cdcs.di.uniroma1.it/index.php), Sapienza University, Rome, Italy 
 - [Institute for Cross-Disciplinary Physics and Complex Systems (IFISC)](https://ifisc.uib-csic.es/en/research/dynamics-and-collective-phenomena-social-systems/), Palma, Spain
 - [Social Networks Lab](https://sn.ethz.ch/), Zürich, Switzerland
 - [Data Science and AI Lab](https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/data-science-and-ai-lab.html), Abu Dhabi, UAE
@@ -181,6 +194,7 @@ Koç University, Turkey
 - [Lazerlab](https://lazerlab.net/), Northeastern University, Boston, USA
 - [Laboratory for the Modeling of Biological and Socio-Technical Systems (MOBS Lab)](https://www.mobs-lab.org/), Northeastern University, Boston, USA
 - [Computational Social Science Institute at UMass](https://www.cssi.umass.edu), Massachusetts Amherst, USA
+
 
 ## Journals
 
@@ -195,8 +209,9 @@ Koç University, Turkey
 - [Journal of Computational Social Science](https://www.springer.com/journal/42001)
 - [Journal of Quantitative Description: Digital Media](https://journalqd.org)
 - [Nature Human Behavior](https://www.nature.com/nathumbehav/)
-- [Social Science Computer Review](https://journals.sagepub.com/home/ssc)
 - [Social Media and Society](https://journals.sagepub.com/home/sms)
+- [Social Science Computer Review](https://journals.sagepub.com/home/ssc)
+
 
 
 ## Selected Papers
@@ -226,26 +241,31 @@ Koç University, Turkey
 - [Measuring algorithmically infused societies](https://doi.org/10.1038/s41586-021-03666-1) by Claudia Wagner, Markus Strohmaier, Alexandra Olteanu, Emre Kıcıman, Noshir Contractor & Tina Eliassi-Rad (2021)
 - [The data revolution in social science needs qualitative research](https://doi.org/10.1038/s41562-022-01333-7) by Nikolitsa Grigoropoulou & Mario L. Small (2022)
 
+
 ## Software
 
 > Focus on accessible introduction into computational tools, preferably open
 > source material
 
+
 ### R
 
 - [Awesome R](https://github.com/qinwf/awesome-R) for general resources in R
 
+
 ### Python
 
 - [Awesome Python](https://github.com/vinta/awesome-python) (other lists: [1](https://github.com/kirang89/pycrumbs), [2](https://github.com/svaksha/pythonidae), [3](https://github.com/trekhleb/learn-python)) for general resources in Python
+
 
 ### Tutorials
 
 - [APIs for Social Scientists](https://bookdown.org/paul/apis_for_social_scientists/)
 - [Introduction to Computational Social Science in R](https://bookdown.org/markhoff/css/)
 - [Introduction to Computational Social Science Methods with Python](https://github.com/gesiscss/css_methods_python)
-- [R Course Material for Communication Science](https://github.com/ccs-amsterdam/r-course-material)
 - [Quanteda Tutorials for Quantitative Text Analysis in R](https://tutorials.quanteda.io)
+- [R Course Material for Communication Science](https://github.com/ccs-amsterdam/r-course-material)
+
 
 ## Miscellaneous
 
@@ -254,15 +274,17 @@ Koç University, Turkey
 - [Google Group Computational Social Science Network](https://groups.google.com/g/CSSNET)
 - [Podcast about Computational Communication Science](https://anchor.fm/ccs-pod)
 
+
 ## Relevant Awesome Lists
 
 - [Awesome Causality](https://github.com/napsternxg/awesome-causality)
 - [Awesome Community Detection](https://github.com/benedekrozemberczki/awesome-community-detection)
-- [Awesome Data Science](https://github.com/academic/awesome-datascience)
 - [Awesome Data Science with Python](https://github.com/r0f1/datascience) ([another](https://github.com/krzjoa/awesome-python-data-science))
+- [Awesome Data Science](https://github.com/academic/awesome-datascience)
 - [Awesome Data Visualization](https://github.com/javierluraschi/awesome-dataviz)
 - [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 - [Awesome Digital Humanities](https://github.com/dh-tech/awesome-digital-humanities)
+- [Awesome Julia](https://github.com/greister/Awesome-Julia)
 - [Awesome Jupyter](https://github.com/markusschanta/awesome-jupyter)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [Awesome MySQL](https://github.com/shlomi-noach/awesome-mysql)
@@ -271,17 +293,18 @@ Koç University, Turkey
 - [Awesome Notebooks](https://github.com/jupyter-naas/awesome-notebooks)
 - [Awesome Open Science](https://github.com/silky/awesome-open-science)
 - [Awesome Python](https://github.com/vinta/awesome-python) (other lists: [1](https://github.com/kirang89/pycrumbs), [2](https://github.com/svaksha/pythonidae), [3](https://github.com/trekhleb/learn-python))
-- [Awesome R](https://github.com/qinwf/awesome-R)
-- [Awesome Julia](https://github.com/greister/Awesome-Julia)
-- [Awesome Research Software Registries](https://github.com/NLeSC/awesome-research-software-registries)
-- [Awesome Scholarly Data Analysis](https://github.com/napsternxg/awesome-scholarly-data-analysis)
 - [Awesome Quarto](https://github.com/mcanouil/awesome-quarto)
 
+- [Awesome R](https://github.com/qinwf/awesome-R)
+- [Awesome Research Software Registries](https://github.com/NLeSC/awesome-research-software-registries)
+- [Awesome Scholarly Data Analysis](https://github.com/napsternxg/awesome-scholarly-data-analysis)
 -----
+
 
 ## Contributing
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
 
 
 
