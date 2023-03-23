@@ -169,7 +169,6 @@ Koç University, Turkey
 - [Master of Science in Social Policy + Data Analytics for Social Policy Certificate](https://www.sp2.upenn.edu/program/master-of-science-in-social-policy-data-analytics-for-social-policy-certificate/), University of Pennsylvania, United States  
 
 
-
 ## Research Groups
 
 > Ordered alphabetically by country and city
