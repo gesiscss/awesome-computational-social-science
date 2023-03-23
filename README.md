@@ -208,6 +208,8 @@ Koç University, Turkey
 - [A 61-million-person experiment in social influence and political mobilization](https://doi.org/10.1038/nature11421) by Robert M. Bond et al. (2012)
 - [Manifesto of computational social science](https://doi.org/10.1140/epjst/e2012-01697-8) by R. Conte, N. Gilbert, G. Bonelli, C. Cioffi-Revilla, G. Deffuant, J. Kertesz, V. Loreto, S. Moat, J. -P. Nadal, A. Sanchez, A. Nowak, A. Flache, M. San Miguel & D. Helbing (2012)
 - [Digital Footprints: Opportunities and Challenges for Online Social Research](https://doi.org/10.1146/annurev-soc-071913-043145) by Scott A. Golder and Michael W. Macy (2014)
+- [Social media for large studies of
+  behavior](https://doi.org/10.1126/science.346.6213.1063) by Derek Ruths and Jürgen Pfeffer (2014)
 - [Sociology in the Era of Big Data: The Ascent of Forensic Social Science](https://doi.org/10.1007/s12108-015-9291-8) by Daniel A. McFarland, Kevin Lewis & Amir Goldberg (2016)
 - [Installing computational social science: Facing the challenges of new information and communication technologies in social science](http://journals.sagepub.com/doi/10.1177/2059799115622763) by Raphael H. Heiberger & Jan R. Riebling (2016)
 - [Computational Social Science Methodology, Anyone?](https://doi.org/10.1027/1614-2241/a000127) by Joop J. Hox (2017)
