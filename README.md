@@ -191,9 +191,9 @@ Koç University, Turkey
 - [Frontiers in Big Data](https://www.frontiersin.org/journals/big-data)
 - [Information, Communication & Society](https://www.tandfonline.com/journals/rics20)
 - [Journal of Artificial Societies and Social Simulation](https://www.jasss.org/JASSS.html)
-- [Nature Human Behavior](https://www.nature.com/nathumbehav/)
 - [Journal of Computational Social Science](https://www.springer.com/journal/42001)
 - [Journal of Quantitative Description: Digital Media](https://journalqd.org)
+- [Nature Human Behavior](https://www.nature.com/nathumbehav/)
 - [Social Science Computer Review](https://journals.sagepub.com/home/ssc)
 - [Social Media and Society](https://journals.sagepub.com/home/sms)
 
