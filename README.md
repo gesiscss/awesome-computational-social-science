@@ -97,7 +97,8 @@ chronologically.
 
 - [SAGE collection of teaching material for Computational Social Science](https://ocean.sagepub.com/teaching-materials-for-computational-social-science) - Large collection of various teaching material for Computational Social Science
 - [Social and Economic Networks: Models and Analysis](https://www.coursera.org/learn/social-economic-networks) - Online course on social and economic networks taught by Matthew O. Jackson
-- [Toolkit for Digital Methods](https://wiki.helsinki.fi/display/TDM/Toolkit+for+Digital+Methods+Home) -  A wiki of resources for digital methods in Social Sciences
+- [Toolkit for Digital Methods](https://wiki.helsinki.fi/display/TDM/Toolkit+for+Digital+Methods+Home) - A wiki of resources for digital methods in Social Sciences
+- [SICSS Learning Materials](https://sicss.io/overview) - Open source teaching and learning resources for computational social science
 
 
 ### Videos and Lectures
