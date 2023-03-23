@@ -149,9 +149,10 @@ Koç University, Turkey
 - [M.S. in Computational Analysis & Public Policy](https://capp.uchicago.edu/), University of Chicago, United States
 - [Master of Science in Data Analytics & Computational Social Science](https://www.umass.edu/social-sciences/academics/data-analytics-computational-social-science/ms-dacss), University of Massachusetts Amherst, United States
 - [Master of Science in Data Science for Public Policy](https://mccourt.georgetown.edu/master-of-science-in-data-science-for-public-policy/), Georgetown University, United States
+- [Master of Science in Public Policy and Data Science](https://priceschool.usc.edu/mppds/), University of Southern California, United States
 - [Master's Degree Applied Urban Science and Informatics](https://cusp.nyu.edu/masters-degree/), New York University, United States
-- [Master of Science in Social Policy + Data Analytics for Social Policy Certificate](https://www.sp2.upenn.edu/program/master-of-science-in-social-policy-data-analytics-for-social-policy-certificate/), University of Pennsylvania, United States 
-- [Master of Science in Public Policy and Data Science](https://priceschool.usc.edu/mppds/), University of Southern California, United States 
+- [Master of Science in Social Policy + Data Analytics for Social Policy Certificate](https://www.sp2.upenn.edu/program/master-of-science-in-social-policy-data-analytics-for-social-policy-certificate/), University of Pennsylvania, United States  
+- [Master of Science in Survey and Data Science](https://surveydatascience.isr.umich.edu/survey-and-data-science-masters-degree-program), University of Michigan, United States
 - [DPhil Social Data Science](https://www.oii.ox.ac.uk/study/dphil-in-social-data-science/), University of Oxford, United Kingdom
 
 
