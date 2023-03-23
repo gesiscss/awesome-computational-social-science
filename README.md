@@ -209,7 +209,6 @@ Koç University, Turkey
 - [Social Science Computer Review](https://journals.sagepub.com/home/ssc)
 
 
-
 ## Selected Papers
 
 > Important papers for/about the field, not specific research. Ordered chronologically.
@@ -290,17 +289,16 @@ Koç University, Turkey
 - [Awesome Open Science](https://github.com/silky/awesome-open-science)
 - [Awesome Python](https://github.com/vinta/awesome-python) (other lists: [1](https://github.com/kirang89/pycrumbs), [2](https://github.com/svaksha/pythonidae), [3](https://github.com/trekhleb/learn-python))
 - [Awesome Quarto](https://github.com/mcanouil/awesome-quarto)
-
 - [Awesome R](https://github.com/qinwf/awesome-R)
 - [Awesome Research Software Registries](https://github.com/NLeSC/awesome-research-software-registries)
 - [Awesome Scholarly Data Analysis](https://github.com/napsternxg/awesome-scholarly-data-analysis)
+
+
 -----
 
 
 ## Contributing
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
-
 
 

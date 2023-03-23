@@ -4,7 +4,7 @@ require(stringr)
 ast <- parse_rmd("README.md")
 
 .parse_md_list <- function(astnode) {
-    list_items_pos <- seq_along(astnode)[grepl("^-", astnode)]
+    list_items_pos <- seq_along(astnode)[grepl("^- ", astnode)]
     pos <- which(astnode == "")
     first_empty_pos <- min(pos[pos > max(list_items_pos)])
     itemlist <- list()
@@ -21,7 +21,7 @@ ast <- parse_rmd("README.md")
 }
 
 .sort_by_year <- function(astnode) {
-    list_items_pos <- seq_along(astnode)[grepl("^-", astnode)]
+    list_items_pos <- seq_along(astnode)[grepl("^- ", astnode)]
     pos <- which(astnode == "")
     first_empty_pos <- min(pos[pos > max(list_items_pos)])
     itemlist <- .parse_md_list(astnode)
@@ -33,7 +33,7 @@ ast <- parse_rmd("README.md")
 }
 
 .sort_by_title <- function(astnode) {
-    list_items_pos <- seq_along(astnode)[grepl("^-", astnode)]
+    list_items_pos <- seq_along(astnode)[grepl("^- ", astnode)]
     pos <- which(astnode == "")
     first_empty_pos <- min(pos[pos > max(list_items_pos)])
     itemlist <- .parse_md_list(astnode)
@@ -49,7 +49,7 @@ ast <- parse_rmd("README.md")
 }
 
 .sort_by_country <- function(astnode, city = FALSE) {
-    list_items_pos <- seq_along(astnode)[grepl("^-", astnode)]
+    list_items_pos <- seq_along(astnode)[grepl("^- ", astnode)]
     pos <- which(astnode == "")
     first_empty_pos <- min(pos[pos > max(list_items_pos)])
     itemlist <- .parse_md_list(astnode)
@@ -99,4 +99,25 @@ ast[[35]] <- .sort_by_title(ast[[35]])
 
 ast[[37]] <- .sort_by_title(ast[[37]])
 
-writeLines(as_document(ast), "README.md")
+## Kill the yaml
+ast[[1]] <- NULL
+
+content <- as_document(ast)
+clean_content <- c()
+space_counter <- 0
+
+for (line in content) {
+    if (line != "") {
+        clean_content <- append(clean_content, line)
+        space_counter <- 0
+    } else {
+        if (space_counter < 2) {
+            clean_content <- append(clean_content, line)
+            space_counter <- space_counter + 1
+        } else {
+            next
+        }
+    }
+}
+
+writeLines(clean_content, "README.md")
