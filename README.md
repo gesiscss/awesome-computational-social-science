@@ -114,25 +114,31 @@ chronologically.
 - [Master Computational Social System](https://www.tugraz.at/en/studying-and-teaching/degree-and-certificate-programmes/masters-degree-programmes/computational-social-systems),
   TU Graz, Austria
 - [Master of Science program in Social Data Science](https://networkdatascience.ceu.edu/msc-social-data-science), Central European University, Austria
+- [Master of Sociology: Quantitative Analysis and Social Data Science specialisation](https://soc.kuleuven.be/fsw/toekomstigestudenten/english/mos/datascience), KU Leuven, Belgium 
 - [Master of Science (MSc) in Social Data Science](https://studies.ku.dk/masters/social-data-science/), University of Copenhagen, Denmark
+- [MSc&T “Data and Economics for Public Policy”](https://programmes.polytechnique.edu/en/master-all-msct-programs/data-and-economics-for-public-policy), Institut Polytechnique de Paris, France
 - [Master in Data Science for Social Sciences](https://www.tse-fr.eu/master-data-science-social-sciences), Toulouse School of Economics, France
 - [Master of Arts in Political Science with Focus on Computational Social Sciences](https://www.uni-bamberg.de/en/political-science/studies/master-of-arts-in-political-science/focuses/computational-social-sciences/),
 University of Bamberg, Germany
 - [Master of Data Science for Public Policy](https://www.hertie-school.org/en/mds), Hertie School, Germany
 - [Master Social and Economic Data Science](https://www.polver.uni-konstanz.de/studium/master/master-social-and-economic-data-science/),
 University of Konstanz, Germany
+- [Master Politics and Data Science](https://www.ucd.ie/connected_politics/studywithus/), University College Dublin, Ireland
 - [MSc Social Data Science](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=PROG&MAJR=W559), University College Dublin, Ireland
 - [MSc/PG Diploma Applied Social Data Science](https://www.tcd.ie/Political_Science/postgraduate/pg-dip-applied-social-data-science/), Trinity College Dublin, Ireland
+- [Master Data Science for Economics](https://dse.cdl.unimi.it/en), University of Milan, Italy
 - [Master (Research) in Societal Resilience - Big Data for Society](https://vu.nl/en/education/master/societal-resilience/), Vrije Universiteit Amsterdam, Netherlands
 - [Bachelor Computational Social
   Science](https://www.uva.nl/en/programmes/bachelors/computational-social-science/study-programme/study-programme.html)
   at the University of Amsterdam, Netherlands
 - [Master's Programme Computational Social Science](https://liu.se/en/education/program/f7mcd), Linköping University, Sweden
+- [Master in Computational Social Sciences](https://www.unilu.ch/studium/studienangebot/master/kultur-und-sozialwissenschaftliche-fakultaet/lucerne-master-in-computational-social-sciences-lumacss/) at the University of Lucerne, Switzerland
 - [Master in Computational Social Science](https://www.uc3m.es/master/computational-social-science), Universidad Carlos III de Madrid, Spain
 - [Master Computational Social Science](https://gsssh.ku.edu.tr/en/departments/computational-social-sciences/),
 Koç University, Turkey
 - ~~[Master Computational Social Systems](https://www.rwth-aachen.de/cms/root/Studium/Vor-dem-Studium/Studiengaenge/Liste-Aktuelle-Studiengaenge/Studiengangbeschreibung/~sthd/Computational-Social-Systems-M-Sc/)~~ (This course of study is being phased out), RWTH Aachen, Germany
-- [MSc Applied Social Data Science](https://www.lse.ac.uk/Methodology/Study/MSc-Applied-Social-Data-Science), London School of Economics and Political Science, United Kingdom 
+- [MSc Applied Social Data Science](https://www.lse.ac.uk/Methodology/Study/MSc-Applied-Social-Data-Science), London School of Economics and Political Science, United Kingdom
+- [MPA in Data Science for Public Policy](https://www.lse.ac.uk/school-of-public-policy/study/mpaindatascience), London School of Economics and Political Science, United Kingdom
 - [MSc Social and Geographic Data Science](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/social-and-geographic-data-science-msc), University College London, United Kingdom
 - [MSc Data Science and Public Policy](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/data-science-and-public-policy-political-science-msc), University College London, United Kingdom
 - [MSc Human and Social Data Science](https://www.sussex.ac.uk/study/masters/courses/human-and-social-data-science-msc), University of Sussex, United Kingdom
@@ -143,17 +149,12 @@ Koç University, Turkey
 - [M.S. in Computational Analysis & Public Policy](https://capp.uchicago.edu/), University of Chicago, United States
 - [Master of Science in Data Analytics & Computational Social Science](https://www.umass.edu/social-sciences/academics/data-analytics-computational-social-science/ms-dacss), University of Massachusetts Amherst, United States
 - [Master of Science in Data Science for Public Policy](https://mccourt.georgetown.edu/master-of-science-in-data-science-for-public-policy/), Georgetown University, United States
-- [Master of Science in Public Policy and Data Science](https://priceschool.usc.edu/mppds/), University of Southern California, United States 
-- [Master Computational Social System](https://www.tugraz.at/en/studying-and-teaching/degree-and-certificate-programmes/masters-degree-programmes/computational-social-systems), TU Graz, Austria
-- [Master Computational Social Systems](https://www.rwth-aachen.de/cms/root/Studium/Vor-dem-Studium/Studiengaenge/Liste-Aktuelle-Studiengaenge/Studiengangbeschreibung/~sthd/Computational-Social-Systems-M-Sc/), RWTH Aachen, Germany
-- [Master of Arts in Political Science with Focus on Computational Social Sciences](https://www.uni-bamberg.de/en/political-science/studies/master-of-arts-in-political-science/focuses/computational-social-sciences/), University of Bamberg, Germany
-- [Master Social and Economic Data Science](https://www.polver.uni-konstanz.de/studium/master/master-social-and-economic-data-science/), University of Konstanz, Germany
-- [Master Politics and Data Science](https://www.ucd.ie/connected_politics/studywithus/), University College Dublin, Ireland
-- [Bachelor Computational Social Science](https://www.uva.nl/en/programmes/bachelors/computational-social-science/study-programme/study-programme.html) at the University of Amsterdam, Netherlands
-- [Master in Computational Social Sciences](https://www.unilu.ch/studium/studienangebot/master/kultur-und-sozialwissenschaftliche-fakultaet/lucerne-master-in-computational-social-sciences-lumacss/) at the University of Lucerne, Switzerland
-- [Master Social Data Science](https://www.oii.ox.ac.uk/study/msc-in-social-data-science/), University of Oxford, United Kingdom
+- [Master of Science in Public Policy and Data Science](https://priceschool.usc.edu/mppds/), University of Southern California, United States
+- [Master's Degree Applied Urban Science and Informatics](https://cusp.nyu.edu/masters-degree/), New York University, United States
+- [Master of Science in Social Policy + Data Analytics for Social Policy Certificate](https://www.sp2.upenn.edu/program/master-of-science-in-social-policy-data-analytics-for-social-policy-certificate/), University of Pennsylvania, United States  
+- [Master of Science in Survey and Data Science](https://surveydatascience.isr.umich.edu/survey-and-data-science-masters-degree-program), University of Michigan, United States
 - [DPhil Social Data Science](https://www.oii.ox.ac.uk/study/dphil-in-social-data-science/), University of Oxford, United Kingdom
-- [Master Computational Social Science](https://gsssh.ku.edu.tr/en/departments/computational-social-sciences/), Koç University, Turkey
+
 
 ## Research Groups
 
