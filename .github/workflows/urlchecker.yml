@@ -1,8 +1,9 @@
 name: URLChecker
+
 on: 
   schedule:
-  - cron: '12 15 22 * *'
-
+    - cron: '0 0 1 * *'
+  pull_request:
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -13,3 +14,4 @@ jobs:
       with: 
         file_types: .md
         include_files: README.md
+        timeout: 10
