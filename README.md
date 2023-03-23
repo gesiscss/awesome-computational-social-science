@@ -115,6 +115,7 @@ chronologically.
 - [Master Social and Economic Data Science](https://www.polver.uni-konstanz.de/studium/master/master-social-and-economic-data-science/), University of Konstanz, Germany
 - [Master Politics and Data Science](https://www.ucd.ie/connected_politics/studywithus/), University College Dublin, Ireland
 - [Bachelor Computational Social Science](https://www.uva.nl/en/programmes/bachelors/computational-social-science/study-programme/study-programme.html) at the University of Amsterdam, Netherlands
+- [Master in Computational Social Sciences](https://www.unilu.ch/studium/studienangebot/master/kultur-und-sozialwissenschaftliche-fakultaet/lucerne-master-in-computational-social-sciences-lumacss/) at the University of Lucerne, Switzerland
 - [Master Social Data Science](https://www.oii.ox.ac.uk/study/msc-in-social-data-science/), University of Oxford, United Kingdom
 - [DPhil Social Data Science](https://www.oii.ox.ac.uk/study/dphil-in-social-data-science/), University of Oxford, United Kingdom
 - [Master Computational Social Science](https://gsssh.ku.edu.tr/en/departments/computational-social-sciences/), Koç University, Turkey
@@ -122,7 +123,7 @@ chronologically.
 
 ## Research Groups
 
-> Alphabetially by country and city)
+> Ordered alphabetically by country and city
 - [CSS Lab TU Graz](https://www.tugraz.at/institute/isds/research/research-groups/computational-social-science-lab-css-lab/), Graz, Austria
 - [Digital Humanities Lab at UFBA](https://www.labhd.ufba.br/), Salvador, Brazil
 - [Copenhagen Center for Social Data Science (SODAS)](https://sodas.ku.dk), Copenhagen, Denmark
@@ -131,14 +132,21 @@ chronologically.
 - [CSS Department at GESIS](https://www.gesis.org/en/institute/departments/computational-social-science), Cologne, Germany
 - [Department of Digital and Computational Demography](https://www.demogr.mpg.de/en/research_6120/digital_and_computational_demography_zagheni_11666/), Rostock, Germany
 - [Behave Lab](https://behavelab.org/), Milan, Italy
+- [Center of Data Science and Complexity for Society (CDCS)](https://cdcs.di.uniroma1.it/index.php), Sapienza University, Rome, Italy 
+- [Center for Computational Social Science and Human Dynamics (C2S2)](https://c2s2.unitn.it), University of Trento and Bruno Kessler Foundation, Trento, Italy
+- [Mobile and Social Computing Lab (MobS Lab)](https://ict.fbk.eu/units/mobs/), Bruno Kessler Foundation, Trento, Italy
+- [CENTAI Institute](https://centai.eu), Turin, Italy
 - [Institute for Cross-Disciplinary Physics and Complex Systems (IFISC)](https://ifisc.uib-csic.es/en/research/dynamics-and-collective-phenomena-social-systems/),
 - [Connected_Politics Lab](https://www.ucd.ie/connected_politics/), Dublin, Ireland 
   Palma, Spain
+- [Institute for Cross-Disciplinary Physics and Complex Systems (IFISC)](https://ifisc.uib-csic.es/en/research/dynamics-and-collective-phenomena-social-systems/), Palma, Spain
+- [Connected_Politics Lab](https://www.ucd.ie/connected_politics/), Dublin, Ireland
 - [Social Networks Lab](https://sn.ethz.ch/), Zürich, Switzerland
 - [Data Science and AI Lab](https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/data-science-and-ai-lab.html), Abu Dhabi, UAE
 - [Oxford Internet Institute](https://www.oii.ox.ac.uk/about/), Oxford, UK
 - [Observatory on Social Media](https://osome.iu.edu/), Indiana University, Bloomington, USA
 - [Lazerlab](https://lazerlab.net/), Northeastern University, Boston, USA
+- [Laboratory for the Modeling of Biological and Socio-Technical Systems (MOBS Lab)](https://www.mobs-lab.org/), Northeastern University, Boston, USA
 - [Computational Social Science Institute at UMass](https://www.cssi.umass.edu), Massachusetts Amherst, USA
 
 ## Journals
