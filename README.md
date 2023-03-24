@@ -134,7 +134,7 @@ University of Bamberg, Germany
 - [Master of Data Science for Public Policy](https://www.hertie-school.org/en/mds), Hertie School, Germany
 - [Master Social and Economic Data Science](https://www.polver.uni-konstanz.de/studium/master/master-social-and-economic-data-science/),
 University of Konstanz, Germany
-- [M.Sc. Quantitative Data Science Methods: Psychometrics, Econometrics and Machine Learning], University of Tübingen, Germany
+- [M.Sc. Quantitative Data Science Methods: Psychometrics, Econometrics and Machine Learning](https://uni-tuebingen.de/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-sozialwissenschaften/methodenzentrum/studium/msc-qds/), University of Tübingen, Germany
 - ~~[Master Computational Social Systems](https://www.rwth-aachen.de/cms/root/Studium/Vor-dem-Studium/Studiengaenge/Liste-Aktuelle-Studiengaenge/Studiengangbeschreibung/~sthd/Computational-Social-Systems-M-Sc/)~~ (This course of study is being phased out), RWTH Aachen, Germany
 - [Master Politics and Data Science](https://www.ucd.ie/connected_politics/studywithus/), University College Dublin, Ireland
 - [MSc Social Data Science](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=PROG&MAJR=W559), University College Dublin, Ireland
