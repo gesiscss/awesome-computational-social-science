@@ -134,9 +134,11 @@ University of Bamberg, Germany
 - [Master of Data Science for Public Policy](https://www.hertie-school.org/en/mds), Hertie School, Germany
 - [Master Social and Economic Data Science](https://www.polver.uni-konstanz.de/studium/master/master-social-and-economic-data-science/),
 University of Konstanz, Germany
+- [M.Sc. Quantitative Data Science Methods: Psychometrics, Econometrics and Machine Learning], University of Tübingen, Germany
 - ~~[Master Computational Social Systems](https://www.rwth-aachen.de/cms/root/Studium/Vor-dem-Studium/Studiengaenge/Liste-Aktuelle-Studiengaenge/Studiengangbeschreibung/~sthd/Computational-Social-Systems-M-Sc/)~~ (This course of study is being phased out), RWTH Aachen, Germany
 - [Master Politics and Data Science](https://www.ucd.ie/connected_politics/studywithus/), University College Dublin, Ireland
 - [MSc Social Data Science](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=PROG&MAJR=W559), University College Dublin, Ireland
+- [PhD Quantitative and Computational Social Science](https://www.ucd.ie/spire/study/prospectivephdstudents/phdquantitativeandcomputationalsocialscience/), University College Dublin, Ireland
 - [MSc/PG Diploma Applied Social Data Science](https://www.tcd.ie/Political_Science/postgraduate/pg-dip-applied-social-data-science/), Trinity College Dublin, Ireland
 - [Master Data Science for Economics](https://dse.cdl.unimi.it/en), University of Milan, Italy
 - [Master (Research) in Societal Resilience - Big Data for Society](https://vu.nl/en/education/master/societal-resilience/), Vrije Universiteit Amsterdam, Netherlands
@@ -160,6 +162,8 @@ Koç University, Turkey
 - [M.A. in Computational Social Science](https://macss.uchicago.edu/), University of Chicago, United States
 - [M.S. in Computational Analysis & Public Policy](https://capp.uchicago.edu/), University of Chicago, United States
 - [Master of Science in Data Analytics & Computational Social Science](https://www.umass.edu/social-sciences/academics/data-analytics-computational-social-science/ms-dacss), University of Massachusetts Amherst, United States
+- [Master of Arts in Interdisciplinary Studies: Computational Social Science Concentration](https://mais.gmu.edu/programs/la-mais-isin-css), George Mason University, United States
+- [PhD in Computational Social Science](https://science.gmu.edu/academics/departments-units/computational-data-sciences/computational-social-science-phd), George Mason University, United States
 - [Master of Science in Data Science for Public Policy](https://mccourt.georgetown.edu/master-of-science-in-data-science-for-public-policy/), Georgetown University, United States
 - [Master of Science in Public Policy and Data Science](https://priceschool.usc.edu/mppds/), University of Southern California, United States
 - [Master's Degree Applied Urban Science and Informatics](https://cusp.nyu.edu/masters-degree/), New York University, United States
@@ -170,14 +174,19 @@ Koç University, Turkey
 ## Research Groups
 
 > Ordered alphabetically by country and city
+- [Computational Social Science Lab](https://www.sydney.edu.au/arts/our-research/centres-institutes-and-groups/sydney-social-sciences-and-humanities-advanced-research-centre/research/computational-social-science-lab.html), University of Sydney, Australia
 - [CSS Lab TU Graz](https://www.tugraz.at/institute/isds/research/research-groups/computational-social-science-lab-css-lab/), Graz, Austria
 - [Digital Humanities Lab at UFBA](https://www.labhd.ufba.br/), Salvador, Brazil
+- [Computational Communication Collaboratory](https://computational-communication.com/), Nanjing, China
 - [Copenhagen Center for Social Data Science (SODAS)](https://sodas.ku.dk), Copenhagen, Denmark
 - [NEtwoRks, Data, and Society (NERDS)](https://nerds.itu.dk/), Copenhagen, Denmark
+- [Centre for Social Data Science](https://www.helsinki.fi/en/networks/centre-social-data-science), Helsinki, Finland
 - [CSS Lab RWTH Aachen](https://www.css-lab.rwth-aachen.de/), Aachen, Germany
 - [CSS Department at GESIS](https://www.gesis.org/en/institute/departments/computational-social-science), Cologne, Germany
 - [Computational Social Science and Big Data TUM Munich](https://www.hfp.tum.de/css/startseite/), Munich, Germany
 - [Department of Digital and Computational Demography](https://www.demogr.mpg.de/en/research_6120/digital_and_computational_demography_zagheni_11666/), Rostock, Germany
+- [Computational Social Sciences and Law Lab](https://www.cityu.edu.hk/cpal/lab_cssl.htm), City University of Hong Kong
+- [Web Mining Lab](http://weblab.com.cityu.edu.hk/blog/), City University of Hong Kong
 - [Connected_Politics Lab](https://www.ucd.ie/connected_politics/), Dublin, Ireland
 - [Behave Lab](https://behavelab.org/), Milan, Italy
 - [Center of Data Science and Complexity for Society (CDCS)](https://cdcs.di.uniroma1.it/index.php), Sapienza University, Rome, Italy 
@@ -185,16 +194,25 @@ Koç University, Turkey
 - [Mobile and Social Computing Lab (MobS Lab)](https://ict.fbk.eu/units/mobs/), Bruno Kessler Foundation, Trento, Italy
 - [CENTAI Institute](https://centai.eu), Turin, Italy
 - [Computational Social Science Lab](https://www.colorlessgreen.info/), Tokyo Institute of Technology, Tokyo, Japan
+- [Computational Communication Science Amsterdam](https://ccs.amsterdam), Netherlands
+- [Social and Behavioural Data Science Centre](https://sobedsc.uva.nl/), Amsterdam, Netherlands
+- [ODISSEI (Open Data Infrastructure for Social Science and Economic Innovations)](https://odissei-data.nl/en/), Rotterdam, Netherlands
 - [Institute for Cross-Disciplinary Physics and Complex Systems (IFISC)](https://ifisc.uib-csic.es/en/research/dynamics-and-collective-phenomena-social-systems/), Palma, Spain
 - [Social Networks Lab](https://sn.ethz.ch/), Zürich, Switzerland
 - [Communication Data and Network Analytics Lab](https://cdna.survey.sinica.edu.tw/), Academia Sinica, Taipei, Taiwan
 - [Data Science and AI Lab](https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/data-science-and-ai-lab.html), Abu Dhabi, UAE
+- [Social Data Institute](https://www.ucl.ac.uk/social-data/home/social-data-institute), University College London, UK
 - [Oxford Internet Institute](https://www.oii.ox.ac.uk/about/), Oxford, UK
 - [Centre for Data, Culture & Society](https://www.cdcs.ed.ac.uk/), Edinburgh, UK
 - [Observatory on Social Media](https://osome.iu.edu/), Indiana University, Bloomington, USA
+- [Soda (Social Data and AI) Lab](https://soda-labo.github.io/), Indiana University, Bloomington, USA
 - [Lazerlab](https://lazerlab.net/), Northeastern University, Boston, USA
+- [Social data science center](https://socialdatascience.umd.edu/), University of Maryland, College Park, USA
 - [Laboratory for the Modeling of Biological and Socio-Technical Systems (MOBS Lab)](https://www.mobs-lab.org/), Northeastern University, Boston, USA
 - [Computational Social Science Institute at UMass](https://www.cssi.umass.edu), Massachusetts Amherst, USA
+- [Working Group on Computational Social Science](https://datascience.columbia.edu/research/groups/computational-social-science/), Columbia University, New York, USA
+- [Center for Computational Analysis of Social and Organizational Systems (CASOS)](http://www.casos.cs.cmu.edu/index.php), Carnegie Mellon University, Pittsburgh, USA
+- [IRiSS Center for Computational Social Science](https://iriss.stanford.edu/research-centers/computational-social-science), Stanford University, USA
 
 
 ## Journals
@@ -203,6 +221,7 @@ Koç University, Turkey
 
 - [Big Data & Society](https://journals.sagepub.com/home/bds)
 - [Computational Communication Research](https://computationalcommunication.org/ccr)
+- [Computational Economics](https://www.springer.com/journal/10614)
 - [EPJ Data Science](https://epjdatascience.springeropen.com/)
 - [Frontiers in Big Data](https://www.frontiersin.org/journals/big-data)
 - [Information, Communication & Society](https://www.tandfonline.com/journals/rics20)
