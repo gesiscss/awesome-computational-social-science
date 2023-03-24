@@ -110,6 +110,7 @@ chronologically.
 ### Workshops
 
 - [BIGSSS Computational Social Science Summer Schools](https://www.bigsss-bremen.de/academic-program/summer-school-program/computational-social-science-summer-schools)
+- [Edinburgh Data and Text Analysis Summer School](https://www.cdcs.ed.ac.uk/training/Data-Text-Analysis-Summer-School)
 - [Essex Summer School in Social Science Data Analysis](https://essexsummerschool.com/)
 - [GESIS Fall Seminar in Computational Social
   Science](https://www.gesis.org/en/gesis-training/what-we-offer/fall-seminar-in-computational-social-science)
@@ -186,8 +187,10 @@ Koç University, Turkey
 - [Computational Social Science Lab](https://www.colorlessgreen.info/), Tokyo Institute of Technology, Tokyo, Japan
 - [Institute for Cross-Disciplinary Physics and Complex Systems (IFISC)](https://ifisc.uib-csic.es/en/research/dynamics-and-collective-phenomena-social-systems/), Palma, Spain
 - [Social Networks Lab](https://sn.ethz.ch/), Zürich, Switzerland
+- [Communication Data and Network Analytics Lab](https://cdna.survey.sinica.edu.tw/), Academia Sinica, Taipei, Taiwan
 - [Data Science and AI Lab](https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/data-science-and-ai-lab.html), Abu Dhabi, UAE
 - [Oxford Internet Institute](https://www.oii.ox.ac.uk/about/), Oxford, UK
+- [Centre for Data, Culture & Society](https://www.cdcs.ed.ac.uk/), Edinburgh, UK
 - [Observatory on Social Media](https://osome.iu.edu/), Indiana University, Bloomington, USA
 - [Lazerlab](https://lazerlab.net/), Northeastern University, Boston, USA
 - [Laboratory for the Modeling of Biological and Socio-Technical Systems (MOBS Lab)](https://www.mobs-lab.org/), Northeastern University, Boston, USA
