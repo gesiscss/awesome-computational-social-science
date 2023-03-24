@@ -227,6 +227,7 @@ Koç University, TUR
 - [Journal of Computational Social Science](https://www.springer.com/journal/42001)
 - [Journal of Quantitative Description: Digital Media](https://journalqd.org)
 - [Nature Human Behavior](https://www.nature.com/nathumbehav/)
+- [New Media & Society](https://journals.sagepub.com/home/nms)
 - [Social Media and Society](https://journals.sagepub.com/home/sms)
 - [Social Science Computer Review](https://journals.sagepub.com/home/ssc)
 
@@ -290,6 +291,8 @@ Koç University, TUR
 
 - [Google Group Computational Social Science Network](https://groups.google.com/g/CSSNET)
 - [Podcast about Computational Communication Science](https://anchor.fm/ccs-pod)
+- [RatSWD publication "Big data in social, behavioural, and economic sciences: Data access and research data management (Including an expert opinion on "Web scraping in independent academic research")"](https://www.konsortswd.de/en/latest/publication/big-data-in-social-behavioural-and-economic-sciences-data-access-and-research-data-management/)
+- [reddit community "CompSocial"](https://www.reddit.com/r/CompSocial/)
 
 
 ## Relevant Awesome Lists
