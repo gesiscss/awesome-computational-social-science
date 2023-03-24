@@ -21,6 +21,7 @@ chronologically.
   - [Videos and Lectures](#videos-and-lectures)
   - [Workshops](#workshops)
   - [University Course Programs](#university-course-programs)
+  - [Online Simulations](#online-simulations)
 - __[Research Groups](#research-groups)__
 - __[Journals](#journals)__
 - __[Selected Papers](#selected-papers)__
@@ -167,6 +168,14 @@ Koç University, TUR
 - [Master's Degree Applied Urban Science and Informatics](https://cusp.nyu.edu/masters-degree/), New York University, USA
 - [Master of Science in Survey and Data Science](https://surveydatascience.isr.umich.edu/survey-and-data-science-masters-degree-program), University of Michigan, USA
 - [Master of Science in Social Policy + Data Analytics for Social Policy Certificate](https://www.sp2.upenn.edu/program/master-of-science-in-social-policy-data-analytics-for-social-policy-certificate/), University of Pennsylvania, USA
+
+
+### Online Simulations
+
+- [Gossip Model](https://sim4edu.com/sims/16/Gossip-1)
+- [Schelling Segregation Model](https://sim4edu.com/sims/6/Schelling-Segregation-Model-1)
+- [Rebel Group Protection Rackets](https://gnardin.github.io/RebelGroups/OESjs/RebelGroups/simulation.html)
+- [Lengnick's Baseline Economy](https://sim4edu.com/sims/20/Lengnick-Baseline-Economy-1)
 
 
 ## Research Groups
