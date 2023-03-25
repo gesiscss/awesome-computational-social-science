@@ -63,6 +63,7 @@ chronologically.
 - [The SAGE Handbook of Social Media Research
   Methods](https://uk.sagepub.com/en-gb/eur/the-sage-handbook-of-social-media-research-methods/book272098)
   edited by Anabel Quan-Haase and Luke Sloan (2022)
+- [Handbook of Computational Social Science Volume 1 & 2](https://www.routledge.com/Handbook-of-Computational-Social-Science---Vol-1--Vol-2/Engel-Quan-Haase-Liu-Lyberg/p/book/9781032111438) edited by Uwe Engel, Anabel Quan-Haase, Sunny Xun Liu, Lars Lyberg (2022)
 - [Research Handbook on Digital Sociology](https://www.e-elgar.com/shop/gbp/research-handbook-on-digital-sociology-9781789906752.html) edited by Jan Skopek (2023)
 - [Handbook of Computational Social Science for Policy](https://link.springer.com/book/10.1007/978-3-031-16624-2) by Eleonora Bertoni, Matteo Fontana, Lorenzo Gabrielli, Serena Signorelli, Michele Vespe (2023)
 
@@ -81,6 +82,7 @@ chronologically.
 - [ICA - Annual International Communication Association Conference](https://www.icahdq.org/) (Methods Division)
 - [ICWSM - International AAAI Conference on Web and Social Media](https://www.icwsm.org/)
 - [NetSci - International Conference on Network Science](https://netscisociety.net/events/netsci/)
+- [CSCW - ACM Conference On Computer-Supported Cooperative Work](https://cscw.acm.org/)
 
 [Computational Social Science Events Worldwide](https://calendar.google.com/calendar/u/0/embed?src=19jm0329h91akpv0srml6c24ec@group.calendar.google.com&ctz=Europe/Rome), Public Calendar
 
@@ -99,6 +101,7 @@ chronologically.
 - [SICSS Learning Materials](https://sicss.io/overview) - Open source teaching and learning resources for computational social science
 - [Social and Economic Networks: Models and Analysis](https://www.coursera.org/learn/social-economic-networks) - Online course on social and economic networks taught by Matthew O. Jackson
 - [Toolkit for Digital Methods](https://wiki.helsinki.fi/display/TDM/Toolkit+for+Digital+Methods+Home) - A wiki of resources for digital methods in Social Sciences
+- [NLP+CSS 201 Tutorials](https://nlp-css-201-tutorials.github.io/nlp-css-201-tutorials/) - Tutorials for advanced natural language processing methods designed for computational social science research.
 
 
 ### Videos and Lectures
@@ -116,6 +119,7 @@ chronologically.
   Science](https://www.gesis.org/en/gesis-training/what-we-offer/fall-seminar-in-computational-social-science)
 - [The Summer Institutes in Computational Social Science](https://sicss.io/)
 - [Topics in Digital and Computational Demography](https://www.demogr.mpg.de/en/career_6122/international_advanced_studies_in_demography_6682/courses_6931/), PhD level, one week course.
+- [NLP + CSS](https://sites.google.com/site/nlpandcss/): a series of workshops on natural language processing (NLP) and computational social science (CSS). 
 
 
 ### University Course Programs
@@ -253,6 +257,7 @@ Koç University, TUR
 - [Analytical sociology and computational social science](https://doi.org/10.1007/s42001-017-0006-5) by Keuschnigg, M., Lovsjö, N. & Hedström, P. (2018)
 - [Computation and the Sociological Imagination](https://doi.org/10.1177/1536504219883850) by James Evans and Jacob G. Foster (2019)
 - [Machine Learning for Sociology](https://doi.org/10.1146/annurev-soc-073117-041106) by Mario Molina and Filiz Garip (2019)
+- [Social data: Biases, methodological pitfalls, and ethical boundaries](https://www.frontiersin.org/articles/10.3389/fdata.2019.00013/full) by Alexandra Olteanu, Carlos Castillo, Fernando Diaz and Emre Kıcıman (2019)
 - [Computational social science: Obstacles and opportunities](https://www.science.org/doi/abs/10.1126/science.aaz8170) by David Lazer et al. (2020) ([open access version](https://dspace.mit.edu/bitstream/handle/1721.1/130299/Computational%20social%20science-%20Obstacles%20and%20opportunities.pdf?sequence=1))
 - [Computational Social Science and the Study of Political Communication](https://doi.org/10.1080/10584609.2020.1833121) by Yannis Theocharis and Andreas Jungherr (2020)
 - [Computational Social Science and Sociology](https://doi.org/10.1146/annurev-soc-121919-054621) by Achim Edelmann, Tom Wolff, Danielle Montagne and Christopher A. Bail (2020)
