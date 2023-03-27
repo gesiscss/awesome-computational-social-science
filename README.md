@@ -209,6 +209,7 @@ Koç University, TUR
 - [Computational Communication Science Amsterdam](https://ccs.amsterdam), NLD
 - [Social and Behavioural Data Science Centre](https://sobedsc.uva.nl/), Amsterdam, NLD
 - [ODISSEI (Open Data Infrastructure for Social Science and Economic Innovations)](https://odissei-data.nl/en/), Rotterdam, NLD
+- [UU-InfoLab (Uppsala University Information Laboratory)](https://uuinfolab.github.io/), Uppsala, SWE
 - [Communication Data and Network Analytics Lab](https://cdna.survey.sinica.edu.tw/), Academia Sinica, Taipei, TWN
 - [Observatory on Social Media](https://osome.iu.edu/), Indiana University, Bloomington, USA
 - [Center for Complex Networks and Systems Research](https://cnets.indiana.edu/), Indiana University, Bloomington, USA
