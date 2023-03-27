@@ -53,6 +53,7 @@ chronologically.
 - [Research Exposed: How Empirical Social Science Gets Done in the Digital Age](https://cup.columbia.edu/book/research-exposed/9780231188777) edited by Eszter Hargittai (2020)
 - [Retooling Politics: How Digital Media Are Shaping Democracy](https://doi.org/10.1017/9781108297820) by Andreas Jungherr, Gonzalo Rivero, and Daniel Gayo-Avello (2020)
 - [Sociologia Digital: uma breve introdução](https://repositorio.ufba.br/bitstream/ri/32746/5/SociologiaDigitalPDF.pdf) by Leonardo Nascimento (2020)
+- [A First Course in Network Science](https://cambridgeuniversitypress.github.io/FirstCourseNetworkScience/) by Filippo Menczer, Santo Fortunato, Clayton A. David (2020)
 - [How Humans Judge Machines](https://www.judgingmachines.com/), by Cesar A. Hidalgo, Diana Orghian, Jordi Albo Canals, Filipa De Almeida, Natalia Martin (2021)
 - [The Science of Science](https://www.dashunwang.com/book/the-science-of-science), by Dashun Wang and Albert-László Barabási (2021)
 - [Doing Computational Social Science - A Practical Introduction](https://uk.sagepub.com/en-gb/eur/doing-computational-social-science/book266031) by John McLevey (2021)
@@ -160,6 +161,7 @@ Koç University, TUR
 - [M.A. in Computational Social Science](https://macss.uchicago.edu/), University of Chicago, USA
 - [M.S. in Computational Analysis & Public Policy](https://capp.uchicago.edu/), University of Chicago, USA
 - [Master of Science in Data Analytics & Computational Social Science](https://www.umass.edu/social-sciences/academics/data-analytics-computational-social-science/ms-dacss), University of Massachusetts Amherst, USA
+- [Complex Networks and Systems track of the PhD in Informatics](https://informatics.indiana.edu/programs/phd-informatics/complex-networks-and-systems.html), Indiana University Bloomington, USA
 - [Master of Arts in Interdisciplinary Studies: Computational Social Science Concentration](https://mais.gmu.edu/programs/la-mais-isin-css), George Mason University, USA
 - [PhD in Computational Social Science](https://science.gmu.edu/academics/departments-units/computational-data-sciences/computational-social-science-phd), George Mason University, USA
 - [Master of Science in Data Science for Public Policy](https://mccourt.georgetown.edu/master-of-science-in-data-science-for-public-policy/), Georgetown University, USA
@@ -203,6 +205,7 @@ Koç University, TUR
 - [ODISSEI (Open Data Infrastructure for Social Science and Economic Innovations)](https://odissei-data.nl/en/), Rotterdam, NLD
 - [Communication Data and Network Analytics Lab](https://cdna.survey.sinica.edu.tw/), Academia Sinica, Taipei, TWN
 - [Observatory on Social Media](https://osome.iu.edu/), Indiana University, Bloomington, USA
+- [Center for Complex Networks and Systems Research](https://cnets.indiana.edu/), Indiana University, Bloomington, USA
 - [Soda (Social Data and AI) Lab](https://soda-labo.github.io/), Indiana University, Bloomington, USA
 - [Lazerlab](https://lazerlab.net/), Northeastern University, Boston, USA
 - [Laboratory for the Modeling of Biological and Socio-Technical Systems (MOBS Lab)](https://www.mobs-lab.org/), Northeastern University, Boston, USA
