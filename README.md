@@ -53,7 +53,7 @@ chronologically.
 - [Research Exposed: How Empirical Social Science Gets Done in the Digital Age](https://cup.columbia.edu/book/research-exposed/9780231188777) edited by Eszter Hargittai (2020)
 - [Retooling Politics: How Digital Media Are Shaping Democracy](https://doi.org/10.1017/9781108297820) by Andreas Jungherr, Gonzalo Rivero, and Daniel Gayo-Avello (2020)
 - [Sociologia Digital: uma breve introdução](https://repositorio.ufba.br/bitstream/ri/32746/5/SociologiaDigitalPDF.pdf) by Leonardo Nascimento (2020)
-- [A First Course in Network Science](https://cambridgeuniversitypress.github.io/FirstCourseNetworkScience/) by Filippo Menczer, Santo Fortunato, Clayton A. David (2020)
+- [A First Course in Network Science](https://cambridgeuniversitypress.github.io/FirstCourseNetworkScience/) by Filippo Menczer, Santo Fortunato, Clayton A. Davis (2020)
 - [How Humans Judge Machines](https://www.judgingmachines.com/), by Cesar A. Hidalgo, Diana Orghian, Jordi Albo Canals, Filipa De Almeida, Natalia Martin (2021)
 - [The Science of Science](https://www.dashunwang.com/book/the-science-of-science), by Dashun Wang and Albert-László Barabási (2021)
 - [Doing Computational Social Science - A Practical Introduction](https://uk.sagepub.com/en-gb/eur/doing-computational-social-science/book266031) by John McLevey (2021)
@@ -123,6 +123,7 @@ chronologically.
 - [The Summer Institutes in Computational Social Science](https://sicss.io/)
 - [Topics in Digital and Computational Demography](https://www.demogr.mpg.de/en/career_6122/international_advanced_studies_in_demography_6682/courses_6931/), PhD level, one week course.
 - [NLP + CSS](https://sites.google.com/site/nlpandcss/): a series of workshops on natural language processing (NLP) and computational social science (CSS). 
+- [Mediterranean School of Complex Networks](https://mediterraneanschoolcomplex.net/index.html)
 
 
 ### University Course Programs
@@ -215,6 +216,7 @@ Koç University, TUR
 - [Soda (Social Data and AI) Lab](https://soda-labo.github.io/), Indiana University, Bloomington, USA
 - [Lazerlab](https://lazerlab.net/), Northeastern University, Boston, USA
 - [Laboratory for the Modeling of Biological and Socio-Technical Systems (MOBS Lab)](https://www.mobs-lab.org/), Northeastern University, Boston, USA
+- [Network Science Institute (NetSI)](https://www.networkscienceinstitute.org/), Northeastern University, Boston, USA
 - [Social data science center](https://socialdatascience.umd.edu/), University of Maryland, College Park, USA
 - [Computational Social Science Institute at UMass](https://www.cssi.umass.edu), Massachusetts Amherst, USA
 - [Working Group on Computational Social Science](https://datascience.columbia.edu/research/groups/computational-social-science/), Columbia University, New York, USA
