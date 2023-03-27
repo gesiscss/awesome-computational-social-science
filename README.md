@@ -104,6 +104,7 @@ chronologically.
 - [Toolkit for Digital Methods](https://wiki.helsinki.fi/display/TDM/Toolkit+for+Digital+Methods+Home) - A wiki of resources for digital methods in Social Sciences
 - [NLP+CSS 201 Tutorials](https://nlp-css-201-tutorials.github.io/nlp-css-201-tutorials/) - Tutorials for advanced natural language processing methods designed for computational social science research.
 - [UCCSS: University of California Computational Social Science](https://www.youtube.com/playlist?list=PLtjBSCvWCU3rJ_XAqaOr7NoQYWY005WCI) -  Multidisciplinary, multi-perspective, and multi-method guide on how to better understand society and human behavior with modern research tool.
+- [CSC2552 Topics in Computational Social Science: AI, Data, and Society](https://www.cs.toronto.edu/~ashton/csc2552) - Seminar course taught by Ashton Anderson at the University of Toronto, Canada. 
 
 
 ### Videos and Lectures
