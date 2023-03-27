@@ -190,6 +190,7 @@ Koç University, TUR
 - [Computational Social Science Lab](https://www.sydney.edu.au/arts/our-research/centres-institutes-and-groups/sydney-social-sciences-and-humanities-advanced-research-centre/research/computational-social-science-lab.html), University of Sydney, AUS
 - [CSS Lab TU Graz](https://www.tugraz.at/institute/isds/research/research-groups/computational-social-science-lab-css-lab/), Graz, AUT
 - [Digital Humanities Lab at UFBA](https://www.labhd.ufba.br/), Salvador, BRA
+- [Computational Social Science Lab](http://csslab.cs.toronto.edu/), University of Toronto, Toronto, CAN
 - [Social Networks Lab](https://sn.ethz.ch/), Zürich, CHE
 - [Computational Communication Collaboratory](https://computational-communication.com/), Nanjing, CHN
 - [CSS Lab RWTH Aachen](https://www.css-lab.rwth-aachen.de/), Aachen, DEU
@@ -204,7 +205,7 @@ Koç University, TUR
 - [Centre for Data, Culture & Society](https://www.cdcs.ed.ac.uk/), Edinburgh, GBR
 - [Oxford Internet Institute](https://www.oii.ox.ac.uk/about/), Oxford, GBR
 - [Social Data Institute](https://www.ucl.ac.uk/social-data/home/social-data-institute), University College London, GBR
-- [Web Mining Lab](http://weblab.com.cityu.edu.hk/blog/), City University of Hong Kong,Hong Kong, HKG
+- [Web Mining Lab](http://weblab.com.cityu.edu.hk/blog/), City University of Hong Kong, Hong Kong, HKG
 - [Computational Social Sciences and Law Lab](https://www.cityu.edu.hk/cpal/lab_cssl.htm), City University of Hong Kong, Hong Kong, HKG
 - [Connected_Politics Lab](https://www.ucd.ie/connected_politics/), Dublin, IRL
 - [Behave Lab](https://behavelab.org/), Milan, ITA
@@ -212,6 +213,7 @@ Koç University, TUR
 - [Center for Computational Social Science and Human Dynamics (C2S2)](https://c2s2.unitn.it), University of Trento and Bruno Kessler Foundation, Trento, ITA
 - [Mobile and Social Computing Lab (MobS Lab)](https://ict.fbk.eu/units/mobs/), Bruno Kessler Foundation, Trento, ITA
 - [CENTAI Institute](https://centai.eu), Turin, ITA
+- [Center for Computational Social Science](http://ccss.kobe-u.ac.jp/en/index.html), Kobe University, Kobe, JPN
 - [Computational Social Science Lab](https://www.colorlessgreen.info/), Tokyo Institute of Technology, Tokyo, JPN
 - [Computational Communication Science Amsterdam](https://ccs.amsterdam), NLD
 - [Social and Behavioural Data Science Centre](https://sobedsc.uva.nl/), Amsterdam, NLD
@@ -229,6 +231,7 @@ Koç University, TUR
 - [PITT Initiative on Computational Social Science](https://pittcss.github.io/),  University of Pittsburgh, Pittsburgh, USA
 - [IRiSS Center for Computational Social Science](https://iriss.stanford.edu/research-centers/computational-social-science), Stanford University, USA
 - [Center for Social Data Analytics (C-SoDA)](https://soda.la.psu.edu/), Pennsylvania State University, University Park, USA
+- [Computational Social Science Lab](https://www.cla.purdue.edu/academic/polsci/research/labs/computational-social-science-lab/index.html), Purdue University, West Lafayette, USA
 
 
 ## Journals
@@ -276,6 +279,7 @@ Koç University, TUR
 - [Computational social science: Obstacles and opportunities](https://www.science.org/doi/abs/10.1126/science.aaz8170) by David Lazer et al. (2020) ([open access version](https://dspace.mit.edu/bitstream/handle/1721.1/130299/Computational%20social%20science-%20Obstacles%20and%20opportunities.pdf?sequence=1))
 - [Computational Social Science and the Study of Political Communication](https://doi.org/10.1080/10584609.2020.1833121) by Yannis Theocharis and Andreas Jungherr (2020)
 - [Computational Social Science and Sociology](https://doi.org/10.1146/annurev-soc-121919-054621) by Achim Edelmann, Tom Wolff, Danielle Montagne and Christopher A. Bail (2020)
+- [Machine Learning for Social Science: An Agnostic Approach](https://doi.org/10.1146/annurev-polisci-053119-015921) by Justin Grimmer, Margaret E. Roberts, and Brandon M. Stewart (2021)
 - [Measuring algorithmically infused societies](https://doi.org/10.1038/s41586-021-03666-1) by Claudia Wagner, Markus Strohmaier, Alexandra Olteanu, Emre Kıcıman, Noshir Contractor & Tina Eliassi-Rad (2021)
 - [The data revolution in social science needs qualitative research](https://doi.org/10.1038/s41562-022-01333-7) by Nikolitsa Grigoropoulou & Mario L. Small (2022)
 
