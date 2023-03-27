@@ -78,12 +78,12 @@ chronologically.
 - [Complex Networks - International Conference on Complex Networks and their Applications](https://www.complexnetworks.org/)
 - [COMPTEXT Conference](https://www.comptextconference.org/)
 - [Conference on Complex Systems](https://cssociety.org/events), in particular the Computational Social Science satellite
+- [CSCW - ACM Conference On Computer-Supported Cooperative Work](https://cscw.acm.org/)
 - [EPSA - European Political Science Association Conference](https://epsanet.org/) (Methods division)
 - [IC2S2 - The International Conference for Computational Social Science](http://ic2s2.org)
 - [ICA - Annual International Communication Association Conference](https://www.icahdq.org/) (Methods Division)
 - [ICWSM - International AAAI Conference on Web and Social Media](https://www.icwsm.org/)
 - [NetSci - International Conference on Network Science](https://netscisociety.net/events/netsci/)
-- [CSCW - ACM Conference On Computer-Supported Cooperative Work](https://cscw.acm.org/)
 
 [Computational Social Science Events Worldwide](https://calendar.google.com/calendar/u/0/embed?src=19jm0329h91akpv0srml6c24ec@group.calendar.google.com&ctz=Europe/Rome), Public Calendar
 
@@ -98,13 +98,13 @@ chronologically.
 
 > See also the [Software](#software) section for material on software tools
 
+- [CSC2552 Topics in Computational Social Science: AI, Data, and Society](https://www.cs.toronto.edu/~ashton/csc2552) - Seminar course taught by Ashton Anderson at the University of Toronto, Canada. 
+- [NLP+CSS 201 Tutorials](https://nlp-css-201-tutorials.github.io/nlp-css-201-tutorials/) - Tutorials for advanced natural language processing methods designed for computational social science research.
 - [SAGE collection of teaching material for Computational Social Science](https://ocean.sagepub.com/teaching-materials-for-computational-social-science) - Large collection of various teaching material for Computational Social Science
 - [SICSS Learning Materials](https://sicss.io/overview) - Open source teaching and learning resources for computational social science
 - [Social and Economic Networks: Models and Analysis](https://www.coursera.org/learn/social-economic-networks) - Online course on social and economic networks taught by Matthew O. Jackson
 - [Toolkit for Digital Methods](https://wiki.helsinki.fi/display/TDM/Toolkit+for+Digital+Methods+Home) - A wiki of resources for digital methods in Social Sciences
-- [NLP+CSS 201 Tutorials](https://nlp-css-201-tutorials.github.io/nlp-css-201-tutorials/) - Tutorials for advanced natural language processing methods designed for computational social science research.
 - [UCCSS: University of California Computational Social Science](https://www.youtube.com/playlist?list=PLtjBSCvWCU3rJ_XAqaOr7NoQYWY005WCI) -  Multidisciplinary, multi-perspective, and multi-method guide on how to better understand society and human behavior with modern research tool.
-- [CSC2552 Topics in Computational Social Science: AI, Data, and Society](https://www.cs.toronto.edu/~ashton/csc2552) - Seminar course taught by Ashton Anderson at the University of Toronto, Canada. 
 
 
 ### Videos and Lectures
@@ -120,10 +120,10 @@ chronologically.
 - [Essex Summer School in Social Science Data Analysis](https://essexsummerschool.com/)
 - [GESIS Fall Seminar in Computational Social
   Science](https://www.gesis.org/en/gesis-training/what-we-offer/fall-seminar-in-computational-social-science)
+- [Mediterranean School of Complex Networks](https://mediterraneanschoolcomplex.net/index.html)
+- [NLP + CSS](https://sites.google.com/site/nlpandcss/): a series of workshops on natural language processing (NLP) and computational social science (CSS). 
 - [The Summer Institutes in Computational Social Science](https://sicss.io/)
 - [Topics in Digital and Computational Demography](https://www.demogr.mpg.de/en/career_6122/international_advanced_studies_in_demography_6682/courses_6931/), PhD level, one week course.
-- [NLP + CSS](https://sites.google.com/site/nlpandcss/): a series of workshops on natural language processing (NLP) and computational social science (CSS). 
-- [Mediterranean School of Complex Networks](https://mediterraneanschoolcomplex.net/index.html)
 
 
 ### University Course Programs
@@ -181,7 +181,6 @@ Koç University, TUR
 - [Master of Science in Social Policy + Data Analytics for Social Policy Certificate](https://www.sp2.upenn.edu/program/master-of-science-in-social-policy-data-analytics-for-social-policy-certificate/), University of Pennsylvania, USA
 - [BS in Social Data Analytics](https://soda.la.psu.edu/programs/undergraduate/), Pennsylvania State University, USA
 - [BS in Computational Social Science](https://www.dins.pitt.edu/academics/bs-computational-social-science), University of Pittsburgh, USA
-
 
 
 ## Research Groups
