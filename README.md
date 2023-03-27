@@ -154,6 +154,8 @@ University of Konstanz, DEU
 - [MSc Social Data Science](https://www.exeter.ac.uk/study/postgraduate/courses/politics/socialdatasciencemsc/), University of Exeter, GBR
 - [MSc Social Data Science](https://www.oii.ox.ac.uk/study/msc-in-social-data-science/), University of Oxford, GBR
 - [DPhil Social Data Science](https://www.oii.ox.ac.uk/study/dphil-in-social-data-science/), University of Oxford, GBR
+- [Bachelor of Social Sciences in Data Science and Policy Studies](https://dsps.ssc.cuhk.edu.hk/), Chinese University of Hong Kong, HKG
+- [Bachelor of Arts and Sciences in Social Data Science](https://web.edu.hku.hk/programme/bsds), University of Hong Kong, HKG
 - [Master Politics and Data Science](https://www.ucd.ie/connected_politics/studywithus/), University College Dublin, IRE
 - [MSc Social Data Science](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=PROG&MAJR=W559), University College Dublin, IRE
 - [PhD Quantitative and Computational Social Science](https://www.ucd.ie/spire/study/prospectivephdstudents/phdquantitativeandcomputationalsocialscience/), University College Dublin, IRE
@@ -172,10 +174,14 @@ Koç University, TUR
 - [Master of Arts in Interdisciplinary Studies: Computational Social Science Concentration](https://mais.gmu.edu/programs/la-mais-isin-css), George Mason University, USA
 - [PhD in Computational Social Science](https://science.gmu.edu/academics/departments-units/computational-data-sciences/computational-social-science-phd), George Mason University, USA
 - [Master of Science in Data Science for Public Policy](https://mccourt.georgetown.edu/master-of-science-in-data-science-for-public-policy/), Georgetown University, USA
+- [BS in Social Data Science](https://sdsc.umd.edu/), University of Maryland, USA
 - [Master of Science in Public Policy and Data Science](https://priceschool.usc.edu/mppds/), University of Southern California, USA
 - [Master's Degree Applied Urban Science and Informatics](https://cusp.nyu.edu/masters-degree/), New York University, USA
 - [Master of Science in Survey and Data Science](https://surveydatascience.isr.umich.edu/survey-and-data-science-masters-degree-program), University of Michigan, USA
 - [Master of Science in Social Policy + Data Analytics for Social Policy Certificate](https://www.sp2.upenn.edu/program/master-of-science-in-social-policy-data-analytics-for-social-policy-certificate/), University of Pennsylvania, USA
+- [BS in Social Data Analytics](https://soda.la.psu.edu/programs/undergraduate/), Pennsylvania State University, USA
+- [BS in Computational Social Science](https://www.dins.pitt.edu/academics/bs-computational-social-science), University of Pittsburgh, USA
+
 
 
 ## Research Groups
@@ -185,9 +191,11 @@ Koç University, TUR
 - [Computational Social Science Lab](https://www.sydney.edu.au/arts/our-research/centres-institutes-and-groups/sydney-social-sciences-and-humanities-advanced-research-centre/research/computational-social-science-lab.html), University of Sydney, AUS
 - [CSS Lab TU Graz](https://www.tugraz.at/institute/isds/research/research-groups/computational-social-science-lab-css-lab/), Graz, AUT
 - [Digital Humanities Lab at UFBA](https://www.labhd.ufba.br/), Salvador, BRA
+- [Computational Social Science Lab](http://csslab.cs.toronto.edu/), University of Toronto, Toronto, CAN
 - [Social Networks Lab](https://sn.ethz.ch/), Zürich, CHE
 - [Computational Communication Collaboratory](https://computational-communication.com/), Nanjing, CHN
 - [CSS Lab RWTH Aachen](https://www.css-lab.rwth-aachen.de/), Aachen, DEU
+- [Data Science Lab, Hertie School](https://www.hertie-school.org/en/datasciencelab), Berlin, DEU
 - [CSS Department at GESIS](https://www.gesis.org/en/institute/departments/computational-social-science), Cologne, DEU
 - [Computational Social Science and Big Data TUM Munich](https://www.hfp.tum.de/css/startseite/), Munich, DEU
 - [Department of Digital and Computational Demography](https://www.demogr.mpg.de/en/research_6120/digital_and_computational_demography_zagheni_11666/), Rostock, DEU
@@ -198,7 +206,7 @@ Koç University, TUR
 - [Centre for Data, Culture & Society](https://www.cdcs.ed.ac.uk/), Edinburgh, GBR
 - [Oxford Internet Institute](https://www.oii.ox.ac.uk/about/), Oxford, GBR
 - [Social Data Institute](https://www.ucl.ac.uk/social-data/home/social-data-institute), University College London, GBR
-- [Web Mining Lab](http://weblab.com.cityu.edu.hk/blog/), City University of Hong Kong,Hong Kong, HKG
+- [Web Mining Lab](http://weblab.com.cityu.edu.hk/blog/), City University of Hong Kong, Hong Kong, HKG
 - [Computational Social Sciences and Law Lab](https://www.cityu.edu.hk/cpal/lab_cssl.htm), City University of Hong Kong, Hong Kong, HKG
 - [Connected_Politics Lab](https://www.ucd.ie/connected_politics/), Dublin, IRL
 - [Behave Lab](https://behavelab.org/), Milan, ITA
@@ -206,6 +214,7 @@ Koç University, TUR
 - [Center for Computational Social Science and Human Dynamics (C2S2)](https://c2s2.unitn.it), University of Trento and Bruno Kessler Foundation, Trento, ITA
 - [Mobile and Social Computing Lab (MobS Lab)](https://ict.fbk.eu/units/mobs/), Bruno Kessler Foundation, Trento, ITA
 - [CENTAI Institute](https://centai.eu), Turin, ITA
+- [Center for Computational Social Science](http://ccss.kobe-u.ac.jp/en/index.html), Kobe University, Kobe, JPN
 - [Computational Social Science Lab](https://www.colorlessgreen.info/), Tokyo Institute of Technology, Tokyo, JPN
 - [Computational Communication Science Amsterdam](https://ccs.amsterdam), NLD
 - [Social and Behavioural Data Science Centre](https://sobedsc.uva.nl/), Amsterdam, NLD
@@ -222,7 +231,10 @@ Koç University, TUR
 - [Computational Social Science Institute at UMass](https://www.cssi.umass.edu), Massachusetts Amherst, USA
 - [Working Group on Computational Social Science](https://datascience.columbia.edu/research/groups/computational-social-science/), Columbia University, New York, USA
 - [Center for Computational Analysis of Social and Organizational Systems (CASOS)](http://www.casos.cs.cmu.edu/index.php), Carnegie Mellon University, Pittsburgh, USA
+- [PITT Initiative on Computational Social Science](https://pittcss.github.io/),  University of Pittsburgh, Pittsburgh, USA
 - [IRiSS Center for Computational Social Science](https://iriss.stanford.edu/research-centers/computational-social-science), Stanford University, USA
+- [Center for Social Data Analytics (C-SoDA)](https://soda.la.psu.edu/), Pennsylvania State University, University Park, USA
+- [Computational Social Science Lab](https://www.cla.purdue.edu/academic/polsci/research/labs/computational-social-science-lab/index.html), Purdue University, West Lafayette, USA
 
 
 ## Journals
@@ -238,6 +250,7 @@ Koç University, TUR
 - [Journal of Artificial Societies and Social Simulation](https://www.jasss.org/JASSS.html)
 - [Journal of Computational Social Science](https://www.springer.com/journal/42001)
 - [Journal of Quantitative Description: Digital Media](https://journalqd.org)
+- [Journal of Social Computing](https://www.sciopen.com/journal/2688-5255)
 - [Nature Human Behavior](https://www.nature.com/nathumbehav/)
 - [New Media & Society](https://journals.sagepub.com/home/nms)
 - [Social Media and Society](https://journals.sagepub.com/home/sms)
@@ -269,6 +282,7 @@ Koç University, TUR
 - [Computational social science: Obstacles and opportunities](https://www.science.org/doi/abs/10.1126/science.aaz8170) by David Lazer et al. (2020) ([open access version](https://dspace.mit.edu/bitstream/handle/1721.1/130299/Computational%20social%20science-%20Obstacles%20and%20opportunities.pdf?sequence=1))
 - [Computational Social Science and the Study of Political Communication](https://doi.org/10.1080/10584609.2020.1833121) by Yannis Theocharis and Andreas Jungherr (2020)
 - [Computational Social Science and Sociology](https://doi.org/10.1146/annurev-soc-121919-054621) by Achim Edelmann, Tom Wolff, Danielle Montagne and Christopher A. Bail (2020)
+- [Machine Learning for Social Science: An Agnostic Approach](https://doi.org/10.1146/annurev-polisci-053119-015921) by Justin Grimmer, Margaret E. Roberts, and Brandon M. Stewart (2021)
 - [Measuring algorithmically infused societies](https://doi.org/10.1038/s41586-021-03666-1) by Claudia Wagner, Markus Strohmaier, Alexandra Olteanu, Emre Kıcıman, Noshir Contractor & Tina Eliassi-Rad (2021)
 - [The data revolution in social science needs qualitative research](https://doi.org/10.1038/s41562-022-01333-7) by Nikolitsa Grigoropoulou & Mario L. Small (2022)
 
