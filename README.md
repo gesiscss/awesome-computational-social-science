@@ -135,8 +135,6 @@ chronologically.
 - [Master of Science program in Social Data Science](https://networkdatascience.ceu.edu/msc-social-data-science), Central European University, AUT
 - [Master of Sociology: Quantitative Analysis and Social Data Science specialisation](https://soc.kuleuven.be/fsw/toekomstigestudenten/english/mos/datascience), KU Leuven, BEL 
 - [Master in Computational Social Sciences](https://www.unilu.ch/studium/studienangebot/master/kultur-und-sozialwissenschaftliche-fakultaet/lucerne-master-in-computational-social-sciences-lumacss/) at the University of Lucerne, CHE
-- [Master of Arts in Political Science with Focus on Computational Social Sciences](https://www.uni-bamberg.de/en/political-science/studies/master-of-arts-in-political-science/focuses/computational-social-sciences/),
-University of Bamberg, DEU
 - [Master of Data Science for Public Policy](https://www.hertie-school.org/en/mds), Hertie School, DEU
 - [Master Social and Economic Data Science](https://www.polver.uni-konstanz.de/studium/master/master-social-and-economic-data-science/),
 University of Konstanz, DEU
