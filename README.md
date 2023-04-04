@@ -42,6 +42,7 @@ chronologically.
 - [Networks, Crowds, and Markets: Reasoning About a Highly Connected World](https://www.cs.cornell.edu/home/kleinber/networks-book/), by David Easley and Jon Kleinberg (2010)
 - [Everything is Obvious](https://www.penguinrandomhouse.com/books/187477/everything-is-obvious-by-duncan-j-watts/), by Duncan J. Watts (2011)
 - [Agent_Zero: Toward Neurocognitive Foundations for Generative Social Science](https://press.princeton.edu/books/hardcover/9780691158884/agentzero), by Joshua M. Epstein (2014)
+- [Social Phenomena: From Data Analysis to Models](https://doi.org/10.1007/978-3-319-14011-7), edited by Bruno Gonçalves, Nicola Perra (2015)
 - [Computational Social Sciences](https://www.springer.com/series/11784/books?page=3), Springer book series (2015-2023)
 - [Big Data Is Not a Monolith](https://mitpress.mit.edu/9780262529488/big-data-is-not-a-monolith/), edited by Cassidy R. Sugimoto, Hamid R. Ekbia, and Michael Mattioli (2016)
 - [Bit By Bit: Social Research in the Digital Age](https://www.bitbybitbook.com/) by Matthew J. Salganik (2017)
