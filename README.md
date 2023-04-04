@@ -118,8 +118,7 @@ chronologically.
 - [BIGSSS Computational Social Science Summer Schools](https://www.bigsss-bremen.de/academic-program/summer-school-program/computational-social-science-summer-schools)
 - [Edinburgh Data and Text Analysis Summer School](https://www.cdcs.ed.ac.uk/training/Data-Text-Analysis-Summer-School)
 - [Essex Summer School in Social Science Data Analysis](https://essexsummerschool.com/)
-- [GESIS Fall Seminar in Computational Social
-  Science](https://www.gesis.org/en/gesis-training/what-we-offer/fall-seminar-in-computational-social-science)
+- [GESIS Fall Seminar in Computational Social Science](https://www.gesis.org/en/gesis-training/what-we-offer/fall-seminar-in-computational-social-science)
 - [Mediterranean School of Complex Networks](https://mediterraneanschoolcomplex.net/index.html)
 - [NLP + CSS](https://sites.google.com/site/nlpandcss/): a series of workshops on natural language processing (NLP) and computational social science (CSS). 
 - [The Summer Institutes in Computational Social Science](https://sicss.io/)
@@ -206,6 +205,7 @@ Koç University, TUR
 - [Web Mining Lab](http://weblab.com.cityu.edu.hk/blog/), City University of Hong Kong, Hong Kong, HKG
 - [Computational Social Sciences and Law Lab](https://www.cityu.edu.hk/cpal/lab_cssl.htm), City University of Hong Kong, Hong Kong, HKG
 - [Connected_Politics Lab](https://www.ucd.ie/connected_politics/), Dublin, IRL
+- [Computational Social Science Centre (CSSC)](https://centri.unibo.it/computational-social-science), Bologna, ITA
 - [Behave Lab](https://behavelab.org/), Milan, ITA
 - [Center of Data Science and Complexity for Society (CDCS)](https://cdcs.di.uniroma1.it/index.php), Sapienza University, Rome, ITA
 - [Center for Computational Social Science and Human Dynamics (C2S2)](https://c2s2.unitn.it), University of Trento and Bruno Kessler Foundation, Trento, ITA
