@@ -48,6 +48,7 @@ chronologically.
 - [Bit By Bit: Social Research in the Digital Age](https://www.bitbybitbook.com/), by Matthew J. Salganik (2017)
 - [Decoding the Social World: Data Science and the Unintended Consequences of Communication](https://mitpress.mit.edu/9780262037075/), by Sandra González-Bailón (2017)
 - [Digital Sociology: The Reinvention of Social Research](https://www.wiley.com/en-us/Digital+Sociology:+The+Reinvention+of+Social+Research-p-9780745684789), by Noortje Marres (2017)
+- [How Behavior Spreads: The Science of Complex Contagions](https://press.princeton.edu/books/hardcover/9780691175317/how-behavior-spreads), by Damon Centola (2018)
 - [The Model Thinker: What You Need to Know to Make Data Work for You](https://www.basicbooks.com/titles/scott-e-page/the-model-thinker/9780465094639/), by Scott E. Page (2018)
 - [What is Digital Sociology?](https://www.wiley.com/en-us/What+is+Digital+Sociology%3F-p-9781509527144), by Neil Selwyn (2019)
 - [The Oxford Handbook of Networked Communication](https://global.oup.com/academic/product/the-oxford-handbook-of-networked-communication-9780190460518?cc=de&lang=en&), edited by Brooke Foucault Welles and Sandra González-Bailón (2020)
