@@ -37,7 +37,7 @@ chronologically.
 
 > Entries are ordered chronologically
 
-- [Growing Artificial Societies: Social Science from the Bottom Up](https://mitpress.mit.edu/9780262550253/growing-artificial-societies/), by By Joshua M. Epstein and Robert L. Axtell (1996)
+- [Growing Artificial Societies: Social Science from the Bottom Up](https://mitpress.mit.edu/9780262550253/growing-artificial-societies/), by Joshua M. Epstein and Robert L. Axtell (1996)
 - [Six Degrees: The Science of a Connected Age](https://wwnorton.com/books/9780393325423), by Duncan J. Watts (2004)
 - [Networks, Crowds, and Markets: Reasoning About a Highly Connected World](https://www.cs.cornell.edu/home/kleinber/networks-book/), by David Easley and Jon Kleinberg (2010)
 - [Everything is Obvious](https://www.penguinrandomhouse.com/books/187477/everything-is-obvious-by-duncan-j-watts/), by Duncan J. Watts (2011)
