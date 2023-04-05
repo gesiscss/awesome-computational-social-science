@@ -66,6 +66,7 @@ chronologically.
 - [Handbook of Computational Social Science Volume 1 & 2](https://www.routledge.com/Handbook-of-Computational-Social-Science---Vol-1--Vol-2/Engel-Quan-Haase-Liu-Lyberg/p/book/9781032111438), edited by Uwe Engel, Anabel Quan-Haase, Sunny Xun Liu, Lars Lyberg (2022)
 - [Research Handbook on Digital Sociology](https://www.e-elgar.com/shop/gbp/research-handbook-on-digital-sociology-9781789906752.html), edited by Jan Skopek (2023)
 - [Handbook of Computational Social Science for Policy](https://link.springer.com/book/10.1007/978-3-031-16624-2), by Eleonora Bertoni, Matteo Fontana, Lorenzo Gabrielli, Serena Signorelli, Michele Vespe (2023)
+- [Computational Thinking for Social Scientists](https://jaeyk.github.io/comp_thinking_social_science/), by Jae Yeon Kim (2023)
 
 
 ## Conferences
@@ -152,6 +153,7 @@ University of Konstanz, DEU
 - [DPhil Social Data Science](https://www.oii.ox.ac.uk/study/dphil-in-social-data-science/), University of Oxford, GBR
 - [Bachelor of Social Sciences in Data Science and Policy Studies](https://dsps.ssc.cuhk.edu.hk/), Chinese University of Hong Kong, HKG
 - [Bachelor of Arts and Sciences in Social Data Science](https://web.edu.hku.hk/programme/bsds), University of Hong Kong, HKG
+- [Masters in Computational Social Science](https://sola.iitj.ac.in/postgraduate-program/), Indian Institute of Technology (IIT) Jodhpur, IND
 - [Master Politics and Data Science](https://www.ucd.ie/connected_politics/studywithus/), University College Dublin, IRE
 - [MSc Social Data Science](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=PROG&MAJR=W559), University College Dublin, IRE
 - [PhD Quantitative and Computational Social Science](https://www.ucd.ie/spire/study/prospectivephdstudents/phdquantitativeandcomputationalsocialscience/), University College Dublin, IRE
@@ -170,6 +172,7 @@ Koç University, TUR
 - [Master of Arts in Interdisciplinary Studies: Computational Social Science Concentration](https://mais.gmu.edu/programs/la-mais-isin-css), George Mason University, USA
 - [PhD in Computational Social Science](https://science.gmu.edu/academics/departments-units/computational-data-sciences/computational-social-science-phd), George Mason University, USA
 - [Master of Science in Data Science for Public Policy](https://mccourt.georgetown.edu/master-of-science-in-data-science-for-public-policy/), Georgetown University, USA
+- [MA in Quantitative Methods in the Social Sciences: Data Science Focus](https://www.qmss.columbia.edu/), Columbia University, USA
 - [BS in Social Data Science](https://sdsc.umd.edu/), University of Maryland, USA
 - [Master of Science in Public Policy and Data Science](https://priceschool.usc.edu/mppds/), University of Southern California, USA
 - [Master's Degree Applied Urban Science and Informatics](https://cusp.nyu.edu/masters-degree/), New York University, USA
@@ -224,6 +227,7 @@ Koç University, TUR
 - [Laboratory for the Modeling of Biological and Socio-Technical Systems (MOBS Lab)](https://www.mobs-lab.org/), Northeastern University, Boston, USA
 - [Network Science Institute (NetSI)](https://www.networkscienceinstitute.org/), Northeastern University, Boston, USA
 - [Social data science center](https://socialdatascience.umd.edu/), University of Maryland, College Park, USA
+- [MESO (Modeling Emergent Social Order) Lab](https://www.themesolab.com/), Ohio State University, Columbus, USA
 - [Computational Social Science Institute at UMass](https://www.cssi.umass.edu), Massachusetts Amherst, USA
 - [Working Group on Computational Social Science](https://datascience.columbia.edu/research/groups/computational-social-science/), Columbia University, New York, USA
 - [Center for Computational Analysis of Social and Organizational Systems (CASOS)](http://www.casos.cs.cmu.edu/index.php), Carnegie Mellon University, Pittsburgh, USA
