@@ -111,6 +111,7 @@ chronologically.
 
 - [A gentle introduction to network science](https://www.youtube.com/watch?v=L6CqqlILBCI), by Renaud Lambiotte, University of Oxford (2018)
 - [Introduction to computational social science](https://youtu.be/EF7X9wwl0q4), by Matthew J. Salganik, Princeton University (2019)
+- [Python for Computational Social Science and Digital Humanities](https://youtu.be/T7qMZH25co0), by Christopher Cameron, Cornell University (2023)
 
 
 ### Workshops
