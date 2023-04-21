@@ -191,6 +191,7 @@ Koç University, TUR
 - [CSS Lab TU Graz](https://www.tugraz.at/institute/isds/research/research-groups/computational-social-science-lab-css-lab/), Graz, AUT
 - [Digital Humanities Lab at UFBA](https://www.labhd.ufba.br/), Salvador, BRA
 - [Computational Social Science Lab](http://csslab.cs.toronto.edu/), University of Toronto, Toronto, CAN
+- [Professorship of Computational Social Science (COSS)](https://coss.ethz.ch), ETH Zürich, CHE 
 - [Social Networks Lab](https://sn.ethz.ch/), Zürich, CHE
 - [Computational Communication Collaboratory](https://computational-communication.com/), Nanjing, CHN
 - [CSS Lab RWTH Aachen](https://www.css-lab.rwth-aachen.de/), Aachen, DEU
