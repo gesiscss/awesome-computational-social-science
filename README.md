@@ -201,6 +201,7 @@ Koç University, TUR
 - [Department of Digital and Computational Demography](https://www.demogr.mpg.de/en/research_6120/digital_and_computational_demography_zagheni_11666/), Rostock, DEU
 - [Copenhagen Center for Social Data Science (SODAS)](https://sodas.ku.dk), Copenhagen, DNK
 - [NEtwoRks, Data, and Society (NERDS)](https://nerds.itu.dk/), Copenhagen, DNK
+- [Computational Social Science Group](https://css.cs.ut.ee/index.html), Tartu, EST
 - [Institute for Cross-Disciplinary Physics and Complex Systems (IFISC)](https://ifisc.uib-csic.es/en/research/dynamics-and-collective-phenomena-social-systems/), Palma, ESP
 - [Centre for Social Data Science](https://www.helsinki.fi/en/networks/centre-social-data-science), Helsinki, FIN
 - [Centre for Data, Culture & Society](https://www.cdcs.ed.ac.uk/), Edinburgh, GBR
@@ -219,8 +220,11 @@ Koç University, TUR
 - [Computational Social Science Lab](https://www.colorlessgreen.info/), Tokyo Institute of Technology, Tokyo, JPN
 - [Computational Communication Science Amsterdam](https://ccs.amsterdam), NLD
 - [Social and Behavioural Data Science Centre](https://sobedsc.uva.nl/), Amsterdam, NLD
+- [UNU-MERIT Computational Innovation Lab on Crises, Transformation and Sustainable Development](https://www.merit.unu.edu/cil/), Maastricht, NLD
 - [ODISSEI (Open Data Infrastructure for Social Science and Economic Innovations)](https://odissei-data.nl/en/), Rotterdam, NLD
+- [Political Data Science (PODS) Research Group](https://www.sv.uio.no/isv/english/research/groups/political-data-science/), Oslo, NOR
 - [UU-InfoLab (Uppsala University Information Laboratory)](https://uuinfolab.github.io/), Uppsala, SWE
+- [Center for Computational Social Sciences](https://ccss.ku.edu.tr/), Koç University, Istanbul, TUR
 - [Communication Data and Network Analytics Lab](https://cdna.survey.sinica.edu.tw/), Academia Sinica, Taipei, TWN
 - [Observatory on Social Media](https://osome.iu.edu/), Indiana University, Bloomington, USA
 - [Center for Complex Networks and Systems Research](https://cnets.indiana.edu/), Indiana University, Bloomington, USA
