@@ -358,5 +358,3 @@ Koç University, TUR
 ## Contributing
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
-
