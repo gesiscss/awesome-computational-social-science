@@ -225,6 +225,7 @@ Koç University, TUR
 - [Political Data Science (PODS) Research Group](https://www.sv.uio.no/isv/english/research/groups/political-data-science/), Oslo, NOR
 - [UU-InfoLab (Uppsala University Information Laboratory)](https://uuinfolab.github.io/), Uppsala, SWE
 - [Center for Computational Social Sciences](https://ccss.ku.edu.tr/), Koç University, Istanbul, TUR
+- [Viral Lab (VRLLab)](https://varollab.com/), Sabanci University, Istanbul, TUR
 - [Communication Data and Network Analytics Lab](https://cdna.survey.sinica.edu.tw/), Academia Sinica, Taipei, TWN
 - [Observatory on Social Media](https://osome.iu.edu/), Indiana University, Bloomington, USA
 - [Center for Complex Networks and Systems Research](https://cnets.indiana.edu/), Indiana University, Bloomington, USA
