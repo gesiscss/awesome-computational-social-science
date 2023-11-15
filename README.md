@@ -160,6 +160,7 @@ University of Konstanz, DEU
 - [PhD Quantitative and Computational Social Science](https://www.ucd.ie/spire/study/prospectivephdstudents/phdquantitativeandcomputationalsocialscience/), University College Dublin, IRE
 - [MSc/PG Diploma Applied Social Data Science](https://www.tcd.ie/Political_Science/postgraduate/pg-dip-applied-social-data-science/), Trinity College Dublin, IRE
 - [Master Data Science for Economics](https://dse.cdl.unimi.it/en), University of Milan, ITA
+- [Master in Social Data Science](https://sds.sociologia.unimib.it/), University of Milano-Bicocca, ITA
 - [Master (Research) in Societal Resilience - Big Data for Society](https://vu.nl/en/education/master/societal-resilience/), Vrije Universiteit Amsterdam, NLD
 - [Bachelor Computational Social Science](https://www.uva.nl/en/programmes/bachelors/computational-social-science/study-programme/study-programme.html), University of Amsterdam, NLD
 - [Master's Programme Computational Social Science](https://liu.se/en/education/program/f7mcd), Linköping University, SWE
@@ -194,6 +195,7 @@ Koç University, TUR
 - [Professorship of Computational Social Science (COSS)](https://coss.ethz.ch), ETH Zürich, CHE 
 - [Social Networks Lab](https://sn.ethz.ch/), Zürich, CHE
 - [Computational Communication Collaboratory](https://computational-communication.com/), Nanjing, CHN
+- [Institute of Computational Social Science](https://hss.cuhk.edu.cn/en/page/1006), CUHK-Shenzhen, CHN
 - [CSS Lab RWTH Aachen](https://www.css-lab.rwth-aachen.de/), Aachen, DEU
 - [Data Science Lab, Hertie School](https://www.hertie-school.org/en/datasciencelab), Berlin, DEU
 - [CSS Department at GESIS](https://www.gesis.org/en/institute/departments/computational-social-science), Cologne, DEU
@@ -209,6 +211,7 @@ Koç University, TUR
 - [Social Data Institute](https://www.ucl.ac.uk/social-data/home/social-data-institute), University College London, GBR
 - [Web Mining Lab](http://weblab.com.cityu.edu.hk/blog/), City University of Hong Kong, Hong Kong, HKG
 - [Computational Social Sciences and Law Lab](https://www.cityu.edu.hk/cpal/lab_cssl.htm), City University of Hong Kong, Hong Kong, HKG
+- [RC2S2 Research Center for Computational Social Science](https://rc2s2.elte.hu/en/home/), Eötvös Loránd University, Budapest, HUN
 - [Connected_Politics Lab](https://www.ucd.ie/connected_politics/), Dublin, IRL
 - [Computational Social Science Centre (CSSC)](https://centri.unibo.it/computational-social-science), Bologna, ITA
 - [Behave Lab](https://behavelab.org/), Milan, ITA
