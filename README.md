@@ -84,6 +84,7 @@ chronologically.
 - [ICA - Annual International Communication Association Conference](https://www.icahdq.org/) (Methods Division)
 - [ICWSM - International AAAI Conference on Web and Social Media](https://www.icwsm.org/)
 - [NetSci - International Conference on Network Science](https://netscisociety.net/events/netsci/)
+- [SSC - Social Simulation Conference](http://www.essa.eu.org/event-type/conference/)
 
 [Computational Social Science Events Worldwide](https://calendar.google.com/calendar/u/0/embed?src=19jm0329h91akpv0srml6c24ec@group.calendar.google.com&ctz=Europe/Rome), Public Calendar
 
@@ -118,6 +119,7 @@ chronologically.
 
 - [BIGSSS Computational Social Science Summer Schools](https://www.bigsss-bremen.de/academic-program/summer-school-program/computational-social-science-summer-schools)
 - [Edinburgh Data and Text Analysis Summer School](https://www.cdcs.ed.ac.uk/training/Data-Text-Analysis-Summer-School)
+- [ESSA (European Social Simulation Association) summer school](http://www.essa.eu.org/event-type/summer-school/)
 - [Essex Summer School in Social Science Data Analysis](https://essexsummerschool.com/)
 - [GESIS Fall Seminar in Computational Social Science](https://www.gesis.org/en/gesis-training/what-we-offer/fall-seminar-in-computational-social-science)
 - [Mediterranean School of Complex Networks](https://mediterraneanschoolcomplex.net/index.html)
