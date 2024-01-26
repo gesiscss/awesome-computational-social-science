@@ -238,10 +238,16 @@ Koç University, TUR
 - [Lazerlab](https://lazerlab.net/), Northeastern University, Boston, USA
 - [Laboratory for the Modeling of Biological and Socio-Technical Systems (MOBS Lab)](https://www.mobs-lab.org/), Northeastern University, Boston, USA
 - [Network Science Institute (NetSI)](https://www.networkscienceinstitute.org/), Northeastern University, Boston, USA
-- [Social data science center](https://socialdatascience.umd.edu/), University of Maryland, College Park, USA
+- [MIT Institute for Data, Systems, and Society (IDSS)](https://idss.mit.edu/),  Massachusetts Institute of Technology, Cambridge, USA
+- [Social Data Science Center (SoDa)](https://socialdatascience.umd.edu/), University of Maryland, College Park, USA
 - [MESO (Modeling Emergent Social Order) Lab](https://www.themesolab.com/), Ohio State University, Columbus, USA
+- [Computational Journalism Lab](https://cj-lab.org/), Northwestern University, Evanston, USA
+- [HUmans | MAchines | Networks | Society Lab (HUMANS)](http://www.emilio.ferrara.name/), University of Southern California, Los Angeles, USA
 - [Computational Social Science Institute at UMass](https://www.cssi.umass.edu), Massachusetts Amherst, USA
+- [Computational Social Science Lab](https://csslab.rutgers.edu/), Rutgers University, New Brunswick, USA
 - [Working Group on Computational Social Science](https://datascience.columbia.edu/research/groups/computational-social-science/), Columbia University, New York, USA
+- [Center for Social Media and Politics (CSMaP)](https://csmapnyu.org/), New York Univiersity, New York, USA
+- [Computational Social Science Lab (CSSLab)](https://css.seas.upenn.edu/), University of Pennsylvania, Philadelphia, USA 
 - [Center for Computational Analysis of Social and Organizational Systems (CASOS)](http://www.casos.cs.cmu.edu/index.php), Carnegie Mellon University, Pittsburgh, USA
 - [PITT Initiative on Computational Social Science](https://pittcss.github.io/),  University of Pittsburgh, Pittsburgh, USA
 - [IRiSS Center for Computational Social Science](https://iriss.stanford.edu/research-centers/computational-social-science), Stanford University, USA
