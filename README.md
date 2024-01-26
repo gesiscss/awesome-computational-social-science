@@ -160,10 +160,10 @@ University of Konstanz, DEU
 - [Master Politics and Data Science](https://www.ucd.ie/connected_politics/studywithus/), University College Dublin, IRE
 - [MSc Social Data Science](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=PROG&MAJR=W559), University College Dublin, IRE
 - [PhD Quantitative and Computational Social Science](https://www.ucd.ie/spire/study/prospectivephdstudents/phdquantitativeandcomputationalsocialscience/), University College Dublin, IRE
-- [MSc/PG Diploma Applied Social Data Science](https://www.tcd.ie/Political_Science/postgraduate/pg-dip-applied-social-data-science/), Trinity College Dublin, IRE
+- [MSc/PG Diploma Applied Social Data Science](https://www.tcd.ie/Political_Science/programmes/postgraduate/pg-dip-applied-social-data-science/), Trinity College Dublin, IRE
 - [Master Data Science for Economics](https://dse.cdl.unimi.it/en), University of Milan, ITA
 - [Master in Social Data Science](https://sds.sociologia.unimib.it/), University of Milano-Bicocca, ITA
-- [Master (Research) in Societal Resilience - Big Data for Society](https://vu.nl/en/education/master/societal-resilience/), Vrije Universiteit Amsterdam, NLD
+- [Master (Research) in Societal Resilience - Big Data for Society](https://www.resilience-institute.nl/en/research-master/), Vrije Universiteit Amsterdam, NLD
 - [Bachelor Computational Social Science](https://www.uva.nl/en/programmes/bachelors/computational-social-science/study-programme/study-programme.html), University of Amsterdam, NLD
 - [Master's Programme Computational Social Science](https://liu.se/en/education/program/f7mcd), Linköping University, SWE
 - [Master Computational Social Science](https://gsssh.ku.edu.tr/en/departments/computational-social-sciences/),
@@ -240,7 +240,7 @@ Koç University, TUR
 - [Network Science Institute (NetSI)](https://www.networkscienceinstitute.org/), Northeastern University, Boston, USA
 - [MIT Institute for Data, Systems, and Society (IDSS)](https://idss.mit.edu/),  Massachusetts Institute of Technology, Cambridge, USA
 - [Social Data Science Center (SoDa)](https://socialdatascience.umd.edu/), University of Maryland, College Park, USA
-- [MESO (Modeling Emergent Social Order) Lab](https://www.themesolab.com/), Ohio State University, Columbus, USA
+- [MESO (Modeling Emergent Social Order) Lab]( https://www.mesoorderlab.com/), Ohio State University, Columbus, USA
 - [Computational Journalism Lab](https://cj-lab.org/), Northwestern University, Evanston, USA
 - [HUmans | MAchines | Networks | Society Lab (HUMANS)](http://www.emilio.ferrara.name/), University of Southern California, Los Angeles, USA
 - [Computational Social Science Institute at UMass](https://www.cssi.umass.edu), Massachusetts Amherst, USA
