@@ -238,18 +238,31 @@ Koç University, TUR
 - [Lazerlab](https://lazerlab.net/), Northeastern University, Boston, USA
 - [Laboratory for the Modeling of Biological and Socio-Technical Systems (MOBS Lab)](https://www.mobs-lab.org/), Northeastern University, Boston, USA
 - [Network Science Institute (NetSI)](https://www.networkscienceinstitute.org/), Northeastern University, Boston, USA
+- [Al-Adala Lab](https://www.theadalab.com/home), University of Colorado Boulder, Boulder, USA
+- [Colorado Laboratory for Users, Media, and Networks (COLUMN)](https://columnlab.github.io/), University of Colorado Boulder, Boulder, USA
 - [MIT Institute for Data, Systems, and Society (IDSS)](https://idss.mit.edu/),  Massachusetts Institute of Technology, Cambridge, USA
 - [Social Data Science Center (SoDa)](https://socialdatascience.umd.edu/), University of Maryland, College Park, USA
 - [MESO (Modeling Emergent Social Order) Lab]( https://www.mesoorderlab.com/), Ohio State University, Columbus, USA
+- [Computational Communication Research Lab (C^2 or C-square)](https://c2.ucdavis.edu/), University of California, Davis, USA
+- [Quello Center](https://quello.msu.edu/), Michigan State University, East Lansing, USA 
 - [Computational Journalism Lab](https://cj-lab.org/), Northwestern University, Evanston, USA
+- [Delta Lab](https://delta.northwestern.edu/), Northwestern University, Evanston, USA
+- [Lab on Innovation, Networks, and Knowledge (LINK)](https://link.soc.northwestern.edu/), Northwestern University, Evanston, USA
+- [People, Space, and Algorithms (PSA) Research Group](https://www.psagroup.org/), Northwestern University, Evanston, USA 
+- [Science of Networks in Communities (SONIC) Lab](https://sonic.northwestern.edu/), Northwestern University, Evanston, USA
+- [Center for AI in Society(CAIS)](https://cais.usc.edu/), University of Southern California, Los Angeles, USA
 - [HUmans | MAchines | Networks | Society Lab (HUMANS)](http://www.emilio.ferrara.name/), University of Southern California, Los Angeles, USA
 - [Computational Social Science Institute at UMass](https://www.cssi.umass.edu), Massachusetts Amherst, USA
 - [Computational Social Science Lab](https://csslab.rutgers.edu/), Rutgers University, New Brunswick, USA
 - [Working Group on Computational Social Science](https://datascience.columbia.edu/research/groups/computational-social-science/), Columbia University, New York, USA
 - [Center for Social Media and Politics (CSMaP)](https://csmapnyu.org/), New York Univiersity, New York, USA
+- [Center for Information Networks and Democracy(CIND)](https://www.asc.upenn.edu/research/centers/center-for-information-networks-and-democracy), University of Pennsylvania, Philadelphia, USA 
 - [Computational Social Science Lab (CSSLab)](https://css.seas.upenn.edu/), University of Pennsylvania, Philadelphia, USA 
+- [Network Dynamics Group](https://ndg.asc.upenn.edu/), University of Pennsylvania, Philadelphia, USA 
 - [Center for Computational Analysis of Social and Organizational Systems (CASOS)](http://www.casos.cs.cmu.edu/index.php), Carnegie Mellon University, Pittsburgh, USA
 - [PITT Initiative on Computational Social Science](https://pittcss.github.io/),  University of Pittsburgh, Pittsburgh, USA
+- [Santa Fe Institute (SFI)](https://www.santafe.edu/), Santa Fe, USA
+- [Community Data Science Collective](https://wiki.communitydata.science/Main_Page), University of Washington, Seattle, USA
 - [IRiSS Center for Computational Social Science](https://iriss.stanford.edu/research-centers/computational-social-science), Stanford University, USA
 - [Center for Social Data Analytics (C-SoDA)](https://soda.la.psu.edu/), Pennsylvania State University, University Park, USA
 - [Computational Social Science Lab](https://www.cla.purdue.edu/academic/polsci/research/labs/computational-social-science-lab/index.html), Purdue University, West Lafayette, USA
