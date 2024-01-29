@@ -9,7 +9,7 @@ The order of entries within categories is either alphabetically or
 chronologically.  
 **Please add your resources according to the respective ordering**
 
-![](logo.png)
+![logo](logo.png)
 
 
 ## Contents
@@ -132,6 +132,17 @@ chronologically.
 
 > Bachelor, Master, PhD programs (alphabetically by country using [ISO 3166-1 alpha 3](https://en.wikipedia.org/wiki/ISO_3166-1) codes)
 
+#### Bachelor programs
+
+- [Bachelor of Social Sciences in Data Science and Policy Studies](https://dsps.ssc.cuhk.edu.hk/), Chinese University of Hong Kong, HKG
+- [Bachelor of Arts and Sciences in Social Data Science](https://web.edu.hku.hk/programme/bsds), University of Hong Kong, HKG
+- [Bachelor Computational Social Science](https://www.uva.nl/en/programmes/bachelors/computational-social-science/study-programme/study-programme.html), University of Amsterdam, NLD
+- [BS in Social Data Science](https://sdsc.umd.edu/), University of Maryland, USA
+- [BS in Social Data Analytics](https://soda.la.psu.edu/programs/undergraduate/), Pennsylvania State University, USA
+- [BS in Computational Social Science](https://www.dins.pitt.edu/academics/bs-computational-social-science), University of Pittsburgh, USA
+
+#### Master programs
+
 - [Master Computational Social System](https://www.tugraz.at/en/studying-and-teaching/degree-and-certificate-programmes/masters-degree-programmes/computational-social-systems),
   TU Graz, AUT
 - [Master of Science program in Social Data Science](https://networkdatascience.ceu.edu/msc-social-data-science), Central European University, AUT
@@ -153,18 +164,13 @@ University of Konstanz, DEU
 - [MSc Human and Social Data Science](https://www.sussex.ac.uk/study/masters/courses/human-and-social-data-science-msc), University of Sussex, GBR
 - [MSc Social Data Science](https://www.exeter.ac.uk/study/postgraduate/courses/politics/socialdatasciencemsc/), University of Exeter, GBR
 - [MSc Social Data Science](https://www.oii.ox.ac.uk/study/msc-in-social-data-science/), University of Oxford, GBR
-- [DPhil Social Data Science](https://www.oii.ox.ac.uk/study/dphil-in-social-data-science/), University of Oxford, GBR
-- [Bachelor of Social Sciences in Data Science and Policy Studies](https://dsps.ssc.cuhk.edu.hk/), Chinese University of Hong Kong, HKG
-- [Bachelor of Arts and Sciences in Social Data Science](https://web.edu.hku.hk/programme/bsds), University of Hong Kong, HKG
 - [Masters in Computational Social Science](https://sola.iitj.ac.in/postgraduate-program/), Indian Institute of Technology (IIT) Jodhpur, IND
 - [Master Politics and Data Science](https://www.ucd.ie/connected_politics/studywithus/), University College Dublin, IRE
 - [MSc Social Data Science](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=PROG&MAJR=W559), University College Dublin, IRE
-- [PhD Quantitative and Computational Social Science](https://www.ucd.ie/spire/study/prospectivephdstudents/phdquantitativeandcomputationalsocialscience/), University College Dublin, IRE
 - [MSc/PG Diploma Applied Social Data Science](https://www.tcd.ie/Political_Science/programmes/postgraduate/pg-dip-applied-social-data-science/), Trinity College Dublin, IRE
 - [Master Data Science for Economics](https://dse.cdl.unimi.it/en), University of Milan, ITA
 - [Master in Social Data Science](https://sds.sociologia.unimib.it/), University of Milano-Bicocca, ITA
 - [Master (Research) in Societal Resilience - Big Data for Society](https://www.resilience-institute.nl/en/research-master/), Vrije Universiteit Amsterdam, NLD
-- [Bachelor Computational Social Science](https://www.uva.nl/en/programmes/bachelors/computational-social-science/study-programme/study-programme.html), University of Amsterdam, NLD
 - [Master's Programme Computational Social Science](https://liu.se/en/education/program/f7mcd), Linköping University, SWE
 - [Master Computational Social Science](https://gsssh.ku.edu.tr/en/departments/computational-social-sciences/),
 Koç University, TUR
@@ -172,23 +178,50 @@ Koç University, TUR
 - [M.A. in Computational Social Science](https://macss.uchicago.edu/), University of Chicago, USA
 - [M.S. in Computational Analysis & Public Policy](https://capp.uchicago.edu/), University of Chicago, USA
 - [Master of Science in Data Analytics & Computational Social Science](https://www.umass.edu/social-sciences/academics/data-analytics-computational-social-science/ms-dacss), University of Massachusetts Amherst, USA
-- [Complex Networks and Systems track of the PhD in Informatics](https://informatics.indiana.edu/programs/phd-informatics/complex-networks-and-systems.html), Indiana University Bloomington, USA
 - [Master of Arts in Interdisciplinary Studies: Computational Social Science Concentration](https://mais.gmu.edu/programs/la-mais-isin-css), George Mason University, USA
-- [PhD in Computational Social Science](https://science.gmu.edu/academics/departments-units/computational-data-sciences/computational-social-science-phd), George Mason University, USA
 - [Master of Science in Data Science for Public Policy](https://mccourt.georgetown.edu/master-of-science-in-data-science-for-public-policy/), Georgetown University, USA
 - [MA in Quantitative Methods in the Social Sciences: Data Science Focus](https://www.qmss.columbia.edu/), Columbia University, USA
-- [BS in Social Data Science](https://sdsc.umd.edu/), University of Maryland, USA
 - [Master of Science in Public Policy and Data Science](https://priceschool.usc.edu/mppds/), University of Southern California, USA
 - [Master's Degree Applied Urban Science and Informatics](https://cusp.nyu.edu/masters-degree/), New York University, USA
 - [Master of Science in Survey and Data Science](https://surveydatascience.isr.umich.edu/survey-and-data-science-masters-degree-program), University of Michigan, USA
 - [Master of Science in Social Policy + Data Analytics for Social Policy Certificate](https://www.sp2.upenn.edu/program/master-of-science-in-social-policy-data-analytics-for-social-policy-certificate/), University of Pennsylvania, USA
-- [BS in Social Data Analytics](https://soda.la.psu.edu/programs/undergraduate/), Pennsylvania State University, USA
-- [BS in Computational Social Science](https://www.dins.pitt.edu/academics/bs-computational-social-science), University of Pittsburgh, USA
 
+#### PhD programs
+
+- [DPhil Social Data Science](https://www.oii.ox.ac.uk/study/dphil-in-social-data-science/), University of Oxford, GBR
+- [PhD Quantitative and Computational Social Science](https://www.ucd.ie/spire/study/prospectivephdstudents/phdquantitativeandcomputationalsocialscience/), University College Dublin, IRE
+- [PhD in Information](https://www.si.umich.edu/programs/phd-information), University of Michigan, Ann Arbor, USA
+- [Complex Networks and Systems track of the PhD in Informatics](https://informatics.indiana.edu/programs/phd-informatics/complex-networks-and-systems.html), Indiana University, Bloomington, USA
+- [Network Science PhD Program](https://www.networkscienceinstitute.org/phd), Northeastern University, Boston, USA
+- [PhD in Information Science](https://www.colorado.edu/cmci/infoscience/phd#admissions_requirements-2457), University of Colorado, Boulder, USA
+- [PhD Program in Social & Engineering Systems (SES)](https://idss.mit.edu/academics/ses_doc/),  Massachusetts Institute of Technology, Cambridge, USA
+- [PhD in Information Sciences](https://ischool.illinois.edu/degrees-programs/graduate/phd-information-sciences),  University of Illinois, Champaign, USA
+- [Doctor of Philosophy in Information Studies (PhD)](https://ischool.umd.edu/academics/phd-information-studies/), University of Maryland, College Park, USA
+- [Ph.D. in Information Science](https://www.ischool.berkeley.edu/programs/phd), University of California, Berkeley, USA
+- [Doctoral Program in Communication](https://communication.ucdavis.edu/doctoral-program), University of California, Davis, USA
+- [Ph.D. Specialization in Computational Social Science](https://css.ucsd.edu/phd-specialization/index.html), University of California, San Diego, USA
+- [Ph.D. in Information and Media](https://comartsci.msu.edu/academics/academic-departments/default/graduate/phd-information-and-media), Michigan State University, East Lansing, USA
+- [Ph.D. in Information Technology Management](https://broad.msu.edu/phd/information-technology-management/), Michigan State University, East Lansing, USA
+- [PhD in Media, Technology, and Society (MTS)](https://mts.northwestern.edu/), Northwestern University, Evanston, USA
+- [Dual Ph.D. Program in Computer Science and Communication: Technology and Social Behavior (TSB)](https://tsb.northwestern.edu/), Northwestern University, Evanston, USA
+- [PhD Program at the Kellogg School of Management](https://www.kellogg.northwestern.edu/doctoral.aspx), Northwestern University, Evanston, USA
+- [PhD in Computational Social Science](https://science.gmu.edu/academics/departments-units/computational-data-sciences/computational-social-science-phd), George Mason University, Fairfax, USA
+- [Ph.D. in Communication and Information Sciences](https://www.ics.hawaii.edu/academics/graduate-programs/ph-d-in-cis/), University of Hawaii at Manoa, Honolulu, USA
+- [Information Science Ph.D. program](https://infosci.cornell.edu/phd), Cornell University, Ithaca, USA
+- [Doctoral Program in Industrial & Systems Engineering (ISE)](https://viterbigradadmission.usc.edu/doctoral/phddegrees/phd-industrial-systems-engineering/), University of Southern California, Los Angeles, USA
+- [Communication (PhD)](https://annenberg.usc.edu/academics/communication-phd), University of Southern California, Los Angeles, USA
+- [Ph.D. Program in Communication, Information, and Media](https://comminfo.rutgers.edu/graduate-programs/phd-program), Rutgers University, New Brunswick, USA
+- [Ph.D. Specialization in Data Science](https://datascience.columbia.edu/education/programs/ph-d-with-a-specialization-in-data-science/), Columbia University, New York, USA
+- [Doctorate in Communication](https://www.asc.upenn.edu/graduate), University of Pennsylvania, Philadelphia, USA
+- [PhD in Societal Computing](https://sc.cs.cmu.edu/program/index.html), Carnegie Mellon University, Pittsburgh, USA
+- [Doctorate in Informaiton Science](https://ischool.uw.edu/programs/phd), University of Washington, Seattle, USA
+- [PhD degree in Management Science and Engineering (MS&E)](https://iriss.stanford.edu/research-centers/computational-social-science), Stanford University, USA
+- [PhD in Information](https://ischool.arizona.edu/phd-information), University of Arizona, Tucson, USA
 
 ## Research Groups
 
 > Ordered alphabetically by country and city (using [ISO 3166-1 alpha 3](https://en.wikipedia.org/wiki/ISO_3166-1) country codes)
+
 - [Data Science and AI Lab](https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/data-science-and-ai-lab.html), Abu Dhabi, ARE
 - [Computational Social Science Lab](https://www.sydney.edu.au/arts/our-research/centres-institutes-and-groups/sydney-social-sciences-and-humanities-advanced-research-centre/research/computational-social-science-lab.html), University of Sydney, AUS
 - [CSS Lab TU Graz](https://www.tugraz.at/institute/isds/research/research-groups/computational-social-science-lab-css-lab/), Graz, AUT
@@ -238,27 +271,28 @@ Koç University, TUR
 - [Lazerlab](https://lazerlab.net/), Northeastern University, Boston, USA
 - [Laboratory for the Modeling of Biological and Socio-Technical Systems (MOBS Lab)](https://www.mobs-lab.org/), Northeastern University, Boston, USA
 - [Network Science Institute (NetSI)](https://www.networkscienceinstitute.org/), Northeastern University, Boston, USA
-- [Al-Adala Lab](https://www.theadalab.com/home), University of Colorado Boulder, Boulder, USA
-- [Colorado Laboratory for Users, Media, and Networks (COLUMN)](https://columnlab.github.io/), University of Colorado Boulder, Boulder, USA
+- [Al-Adala Lab](https://www.theadalab.com/home), University of Colorado, Boulder, USA
+- [Colorado Laboratory for Users, Media, and Networks (COLUMN)](https://columnlab.github.io/), University of Colorado, Boulder, USA
 - [MIT Institute for Data, Systems, and Society (IDSS)](https://idss.mit.edu/),  Massachusetts Institute of Technology, Cambridge, USA
 - [Social Data Science Center (SoDa)](https://socialdatascience.umd.edu/), University of Maryland, College Park, USA
 - [MESO (Modeling Emergent Social Order) Lab]( https://www.mesoorderlab.com/), Ohio State University, Columbus, USA
 - [Computational Communication Research Lab (C^2 or C-square)](https://c2.ucdavis.edu/), University of California, Davis, USA
-- [Quello Center](https://quello.msu.edu/), Michigan State University, East Lansing, USA 
+- [Quello Center](https://quello.msu.edu/), Michigan State University, East Lansing, USA
 - [Computational Journalism Lab](https://cj-lab.org/), Northwestern University, Evanston, USA
 - [Delta Lab](https://delta.northwestern.edu/), Northwestern University, Evanston, USA
 - [Lab on Innovation, Networks, and Knowledge (LINK)](https://link.soc.northwestern.edu/), Northwestern University, Evanston, USA
-- [People, Space, and Algorithms (PSA) Research Group](https://www.psagroup.org/), Northwestern University, Evanston, USA 
+- [People, Space, and Algorithms (PSA) Research Group](https://www.psagroup.org/), Northwestern University, Evanston, USA
 - [Science of Networks in Communities (SONIC) Lab](https://sonic.northwestern.edu/), Northwestern University, Evanston, USA
 - [Center for AI in Society(CAIS)](https://cais.usc.edu/), University of Southern California, Los Angeles, USA
+- [Computational Social Science Laboratory](https://dornsife.usc.edu/bci/computational-social-science-laboratory/), University of Southern California, Los Angeles, USA
 - [HUmans | MAchines | Networks | Society Lab (HUMANS)](http://www.emilio.ferrara.name/), University of Southern California, Los Angeles, USA
 - [Computational Social Science Institute at UMass](https://www.cssi.umass.edu), Massachusetts Amherst, USA
 - [Computational Social Science Lab](https://csslab.rutgers.edu/), Rutgers University, New Brunswick, USA
 - [Working Group on Computational Social Science](https://datascience.columbia.edu/research/groups/computational-social-science/), Columbia University, New York, USA
 - [Center for Social Media and Politics (CSMaP)](https://csmapnyu.org/), New York Univiersity, New York, USA
-- [Center for Information Networks and Democracy(CIND)](https://www.asc.upenn.edu/research/centers/center-for-information-networks-and-democracy), University of Pennsylvania, Philadelphia, USA 
-- [Computational Social Science Lab (CSSLab)](https://css.seas.upenn.edu/), University of Pennsylvania, Philadelphia, USA 
-- [Network Dynamics Group](https://ndg.asc.upenn.edu/), University of Pennsylvania, Philadelphia, USA 
+- [Center for Information Networks and Democracy(CIND)](https://www.asc.upenn.edu/research/centers/center-for-information-networks-and-democracy), University of Pennsylvania, Philadelphia, USA
+- [Computational Social Science Lab (CSSLab)](https://css.seas.upenn.edu/), University of Pennsylvania, Philadelphia, USA
+- [Network Dynamics Group](https://ndg.asc.upenn.edu/), University of Pennsylvania, Philadelphia, USA
 - [Center for Computational Analysis of Social and Organizational Systems (CASOS)](http://www.casos.cs.cmu.edu/index.php), Carnegie Mellon University, Pittsburgh, USA
 - [PITT Initiative on Computational Social Science](https://pittcss.github.io/),  University of Pittsburgh, Pittsburgh, USA
 - [Santa Fe Institute (SFI)](https://www.santafe.edu/), Santa Fe, USA
