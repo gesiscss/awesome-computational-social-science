@@ -9,7 +9,7 @@ The order of entries within categories is either alphabetically or
 chronologically.  
 **Please add your resources according to the respective ordering**
 
-![](logo.png)
+![logo](logo.png)
 
 
 ## Contents
@@ -132,6 +132,17 @@ chronologically.
 
 > Bachelor, Master, PhD programs (alphabetically by country using [ISO 3166-1 alpha 3](https://en.wikipedia.org/wiki/ISO_3166-1) codes)
 
+#### Bachelor programs
+
+- [Bachelor of Social Sciences in Data Science and Policy Studies](https://dsps.ssc.cuhk.edu.hk/), Chinese University of Hong Kong, HKG
+- [Bachelor of Arts and Sciences in Social Data Science](https://web.edu.hku.hk/programme/bsds), University of Hong Kong, HKG
+- [Bachelor Computational Social Science](https://www.uva.nl/en/programmes/bachelors/computational-social-science/study-programme/study-programme.html), University of Amsterdam, NLD
+- [BS in Social Data Science](https://sdsc.umd.edu/), University of Maryland, USA
+- [BS in Social Data Analytics](https://soda.la.psu.edu/programs/undergraduate/), Pennsylvania State University, USA
+- [BS in Computational Social Science](https://www.dins.pitt.edu/academics/bs-computational-social-science), University of Pittsburgh, USA
+
+#### Master programs
+
 - [Master Computational Social System](https://www.tugraz.at/en/studying-and-teaching/degree-and-certificate-programmes/masters-degree-programmes/computational-social-systems),
   TU Graz, AUT
 - [Master of Science program in Social Data Science](https://networkdatascience.ceu.edu/msc-social-data-science), Central European University, AUT
@@ -153,18 +164,13 @@ University of Konstanz, DEU
 - [MSc Human and Social Data Science](https://www.sussex.ac.uk/study/masters/courses/human-and-social-data-science-msc), University of Sussex, GBR
 - [MSc Social Data Science](https://www.exeter.ac.uk/study/postgraduate/courses/politics/socialdatasciencemsc/), University of Exeter, GBR
 - [MSc Social Data Science](https://www.oii.ox.ac.uk/study/msc-in-social-data-science/), University of Oxford, GBR
-- [DPhil Social Data Science](https://www.oii.ox.ac.uk/study/dphil-in-social-data-science/), University of Oxford, GBR
-- [Bachelor of Social Sciences in Data Science and Policy Studies](https://dsps.ssc.cuhk.edu.hk/), Chinese University of Hong Kong, HKG
-- [Bachelor of Arts and Sciences in Social Data Science](https://web.edu.hku.hk/programme/bsds), University of Hong Kong, HKG
 - [Masters in Computational Social Science](https://sola.iitj.ac.in/postgraduate-program/), Indian Institute of Technology (IIT) Jodhpur, IND
 - [Master Politics and Data Science](https://www.ucd.ie/connected_politics/studywithus/), University College Dublin, IRE
 - [MSc Social Data Science](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=PROG&MAJR=W559), University College Dublin, IRE
-- [PhD Quantitative and Computational Social Science](https://www.ucd.ie/spire/study/prospectivephdstudents/phdquantitativeandcomputationalsocialscience/), University College Dublin, IRE
 - [MSc/PG Diploma Applied Social Data Science](https://www.tcd.ie/Political_Science/programmes/postgraduate/pg-dip-applied-social-data-science/), Trinity College Dublin, IRE
 - [Master Data Science for Economics](https://dse.cdl.unimi.it/en), University of Milan, ITA
 - [Master in Social Data Science](https://sds.sociologia.unimib.it/), University of Milano-Bicocca, ITA
 - [Master (Research) in Societal Resilience - Big Data for Society](https://www.resilience-institute.nl/en/research-master/), Vrije Universiteit Amsterdam, NLD
-- [Bachelor Computational Social Science](https://www.uva.nl/en/programmes/bachelors/computational-social-science/study-programme/study-programme.html), University of Amsterdam, NLD
 - [Master's Programme Computational Social Science](https://liu.se/en/education/program/f7mcd), Linköping University, SWE
 - [Master Computational Social Science](https://gsssh.ku.edu.tr/en/departments/computational-social-sciences/),
 Koç University, TUR
@@ -172,19 +178,20 @@ Koç University, TUR
 - [M.A. in Computational Social Science](https://macss.uchicago.edu/), University of Chicago, USA
 - [M.S. in Computational Analysis & Public Policy](https://capp.uchicago.edu/), University of Chicago, USA
 - [Master of Science in Data Analytics & Computational Social Science](https://www.umass.edu/social-sciences/academics/data-analytics-computational-social-science/ms-dacss), University of Massachusetts Amherst, USA
-- [Complex Networks and Systems track of the PhD in Informatics](https://informatics.indiana.edu/programs/phd-informatics/complex-networks-and-systems.html), Indiana University Bloomington, USA
 - [Master of Arts in Interdisciplinary Studies: Computational Social Science Concentration](https://mais.gmu.edu/programs/la-mais-isin-css), George Mason University, USA
-- [PhD in Computational Social Science](https://science.gmu.edu/academics/departments-units/computational-data-sciences/computational-social-science-phd), George Mason University, USA
 - [Master of Science in Data Science for Public Policy](https://mccourt.georgetown.edu/master-of-science-in-data-science-for-public-policy/), Georgetown University, USA
 - [MA in Quantitative Methods in the Social Sciences: Data Science Focus](https://www.qmss.columbia.edu/), Columbia University, USA
-- [BS in Social Data Science](https://sdsc.umd.edu/), University of Maryland, USA
 - [Master of Science in Public Policy and Data Science](https://priceschool.usc.edu/mppds/), University of Southern California, USA
 - [Master's Degree Applied Urban Science and Informatics](https://cusp.nyu.edu/masters-degree/), New York University, USA
 - [Master of Science in Survey and Data Science](https://surveydatascience.isr.umich.edu/survey-and-data-science-masters-degree-program), University of Michigan, USA
 - [Master of Science in Social Policy + Data Analytics for Social Policy Certificate](https://www.sp2.upenn.edu/program/master-of-science-in-social-policy-data-analytics-for-social-policy-certificate/), University of Pennsylvania, USA
-- [BS in Social Data Analytics](https://soda.la.psu.edu/programs/undergraduate/), Pennsylvania State University, USA
-- [BS in Computational Social Science](https://www.dins.pitt.edu/academics/bs-computational-social-science), University of Pittsburgh, USA
 
+#### PhD programs
+
+- [DPhil Social Data Science](https://www.oii.ox.ac.uk/study/dphil-in-social-data-science/), University of Oxford, GBR
+- [PhD Quantitative and Computational Social Science](https://www.ucd.ie/spire/study/prospectivephdstudents/phdquantitativeandcomputationalsocialscience/), University College Dublin, IRE
+- [Complex Networks and Systems track of the PhD in Informatics](https://informatics.indiana.edu/programs/phd-informatics/complex-networks-and-systems.html), Indiana University Bloomington, USA
+- [PhD in Computational Social Science](https://science.gmu.edu/academics/departments-units/computational-data-sciences/computational-social-science-phd), George Mason University, USA
 
 ## Research Groups
 
