@@ -274,6 +274,8 @@ Koç University, TUR
 - [Al-Adala Lab](https://www.theadalab.com/home), University of Colorado, Boulder, USA
 - [Colorado Laboratory for Users, Media, and Networks (COLUMN)](https://columnlab.github.io/), University of Colorado, Boulder, USA
 - [MIT Institute for Data, Systems, and Society (IDSS)](https://idss.mit.edu/),  Massachusetts Institute of Technology, Cambridge, USA
+- [Center for Spatial Data Science (CSDS)](https://spatial.uchicago.edu/), University of Chicago, Chicago, USA
+- [Knowledge Lab](https://www.knowledgelab.org/), University of Chicago, Chicago, USA
 - [Social Data Science Center (SoDa)](https://socialdatascience.umd.edu/), University of Maryland, College Park, USA
 - [MESO (Modeling Emergent Social Order) Lab]( https://www.mesoorderlab.com/), Ohio State University, Columbus, USA
 - [Computational Communication Research Lab (C^2 or C-square)](https://c2.ucdavis.edu/), University of California, Davis, USA
