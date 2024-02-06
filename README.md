@@ -138,7 +138,6 @@ chronologically.
 - [B.Sc. Social Data Science](https://www.uni-wh.de/en/uwh-international/university/degree-programmes-taught-in-english/b-sc-social-data-science/), Witten/Herdecke University, DEU 
 - [BSc Social Sciences with Data Science](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/social-sciences-data-science-bsc), University College London, GBR
 - [Bachelor of Social Sciences in Data Science and Policy Studies](https://dsps.ssc.cuhk.edu.hk/), Chinese University of Hong Kong, HKG
-- [Bachelor of Arts and Sciences in Social Data Science](https://web.edu.hku.hk/programme/bsds), University of Hong Kong, HKG
 - [Bachelor Computational Social Science](https://www.uva.nl/en/programmes/bachelors/computational-social-science/study-programme/study-programme.html), University of Amsterdam, NLD
 - [BS in Social Data Science](https://sdsc.umd.edu/), University of Maryland, USA
 - [BS in Social Data Analytics](https://soda.la.psu.edu/programs/undergraduate/), Pennsylvania State University, USA
@@ -405,7 +404,6 @@ Koç University, TUR
 - [Awesome Data Visualization](https://github.com/javierluraschi/awesome-dataviz)
 - [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 - [Awesome Digital Humanities](https://github.com/dh-tech/awesome-digital-humanities)
-- [Awesome Julia](https://github.com/greister/Awesome-Julia)
 - [Awesome Jupyter](https://github.com/markusschanta/awesome-jupyter)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [Awesome MySQL](https://github.com/shlomi-noach/awesome-mysql)
