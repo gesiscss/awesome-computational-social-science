@@ -134,6 +134,9 @@ chronologically.
 
 #### Bachelor programs
 
+- [BA/BSc in Data Science and Society (DSS)](https://undergraduate.ceu.edu/bachelor-degree-data-science-society), Central European University, AUT
+- [B.Sc. Social Data Science](https://www.uni-wh.de/en/uwh-international/university/degree-programmes-taught-in-english/b-sc-social-data-science/), Witten/Herdecke University, DEU 
+- [BSc Social Sciences with Data Science](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/social-sciences-data-science-bsc), University College London, GBR
 - [Bachelor of Social Sciences in Data Science and Policy Studies](https://dsps.ssc.cuhk.edu.hk/), Chinese University of Hong Kong, HKG
 - [Bachelor of Arts and Sciences in Social Data Science](https://web.edu.hku.hk/programme/bsds), University of Hong Kong, HKG
 - [Bachelor Computational Social Science](https://www.uva.nl/en/programmes/bachelors/computational-social-science/study-programme/study-programme.html), University of Amsterdam, NLD
@@ -148,6 +151,7 @@ chronologically.
 - [Master of Science program in Social Data Science](https://networkdatascience.ceu.edu/msc-social-data-science), Central European University, AUT
 - [Master of Sociology: Quantitative Analysis and Social Data Science specialisation](https://soc.kuleuven.be/fsw/toekomstigestudenten/english/mos/datascience), KU Leuven, BEL 
 - [Master in Computational Social Sciences](https://www.unilu.ch/studium/studienangebot/master/kultur-und-sozialwissenschaftliche-fakultaet/lucerne-master-in-computational-social-sciences-lumacss/) at the University of Lucerne, CHE
+- [MSc in Computational Social Science](https://hsspg.cuhk.edu.cn/en/msccss), Chinese University of Hong Kong (Shenzhen), CHN
 - [Master of Data Science for Public Policy](https://www.hertie-school.org/en/mds), Hertie School, DEU
 - [Master Social and Economic Data Science](https://www.polver.uni-konstanz.de/studium/master/master-social-and-economic-data-science/),
 University of Konstanz, DEU
@@ -170,10 +174,11 @@ University of Konstanz, DEU
 - [MSc/PG Diploma Applied Social Data Science](https://www.tcd.ie/Political_Science/programmes/postgraduate/pg-dip-applied-social-data-science/), Trinity College Dublin, IRE
 - [Master Data Science for Economics](https://dse.cdl.unimi.it/en), University of Milan, ITA
 - [Master in Social Data Science](https://sds.sociologia.unimib.it/), University of Milano-Bicocca, ITA
-- [Master (Research) in Societal Resilience - Big Data for Society](https://www.resilience-institute.nl/en/research-master/), Vrije Universiteit Amsterdam, NLD
+- [Master in Social Sciences for a Digital Society](https://vu.nl/en/education/master/social-sciences-for-a-digital-society), Vrije Universiteit Amsterdam, NLD
 - [Master's Programme Computational Social Science](https://liu.se/en/education/program/f7mcd), Linköping University, SWE
 - [Master Computational Social Science](https://gsssh.ku.edu.tr/en/departments/computational-social-sciences/),
 Koç University, TUR
+- [Master of Computational Social Science (MaCSS)](https://macss.berkeley.edu/), University of California Berkeley, USA
 - [M.S. in Computational Social Science](https://css.ucsd.edu/masters/index.html), University of California San Diego, USA
 - [M.A. in Computational Social Science](https://macss.uchicago.edu/), University of Chicago, USA
 - [M.S. in Computational Analysis & Public Policy](https://capp.uchicago.edu/), University of Chicago, USA
@@ -188,6 +193,7 @@ Koç University, TUR
 
 #### PhD programs
 
+- [PhD in Computational Social Science](https://hsspg.cuhk.edu.cn/en/mphilphdcss), Chinese University of Hong Kong (Shenzhen), CHN
 - [DPhil Social Data Science](https://www.oii.ox.ac.uk/study/dphil-in-social-data-science/), University of Oxford, GBR
 - [PhD Quantitative and Computational Social Science](https://www.ucd.ie/spire/study/prospectivephdstudents/phdquantitativeandcomputationalsocialscience/), University College Dublin, IRE
 - [PhD in Information](https://www.si.umich.edu/programs/phd-information), University of Michigan, Ann Arbor, USA
@@ -241,6 +247,7 @@ Koç University, TUR
 - [Computational Social Science Group](https://css.cs.ut.ee/index.html), Tartu, EST
 - [Institute for Cross-Disciplinary Physics and Complex Systems (IFISC)](https://ifisc.uib-csic.es/en/research/dynamics-and-collective-phenomena-social-systems/), Palma, ESP
 - [Centre for Social Data Science](https://www.helsinki.fi/en/networks/centre-social-data-science), Helsinki, FIN
+- [Social Data Science Lab at Cardiff University](http://socialdatalab.net/), Cardiff, GBR
 - [Centre for Data, Culture & Society](https://www.cdcs.ed.ac.uk/), Edinburgh, GBR
 - [Oxford Internet Institute](https://www.oii.ox.ac.uk/about/), Oxford, GBR
 - [Social Data Institute](https://www.ucl.ac.uk/social-data/home/social-data-institute), University College London, GBR
