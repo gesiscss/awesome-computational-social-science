@@ -67,6 +67,7 @@ chronologically.
 - [Research Handbook on Digital Sociology](https://www.e-elgar.com/shop/gbp/research-handbook-on-digital-sociology-9781789906752.html), edited by Jan Skopek (2023)
 - [Handbook of Computational Social Science for Policy](https://link.springer.com/book/10.1007/978-3-031-16624-2), by Eleonora Bertoni, Matteo Fontana, Lorenzo Gabrielli, Serena Signorelli, Michele Vespe (2023)
 - [Computational Thinking for Social Scientists](https://jaeyk.github.io/comp_thinking_social_science/), by Jae Yeon Kim (2023)
+- [Computational Thinking and Social Science](https://uk.sagepub.com/en-gb/eur/computational-thinking-and-social-science/book268542), by Matti Nelimarkka (2023)https://uk.sagepub.com/en-gb/eur/computational-thinking-and-social-science/book268542
 
 
 ## Conferences
@@ -152,6 +153,7 @@ chronologically.
 - [Master in Computational Social Sciences](https://www.unilu.ch/studium/studienangebot/master/kultur-und-sozialwissenschaftliche-fakultaet/lucerne-master-in-computational-social-sciences-lumacss/) at the University of Lucerne, CHE
 - [MSc in Computational Social Science](https://hsspg.cuhk.edu.cn/en/msccss), Chinese University of Hong Kong (Shenzhen), CHN
 - [Master of Data Science for Public Policy](https://www.hertie-school.org/en/mds), Hertie School, DEU
+- [Master of Contemporary Societies](https://www.helsinki.fi/en/degree-programmes/contemporary-societies-masters-programme), track on social data science, University of Helsinki, FIN
 - [Master Social and Economic Data Science](https://www.polver.uni-konstanz.de/studium/master/master-social-and-economic-data-science/),
 University of Konstanz, DEU
 - [M.Sc. Quantitative Data Science Methods: Psychometrics, Econometrics and Machine Learning](https://uni-tuebingen.de/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-sozialwissenschaften/methodenzentrum/studium/msc-qds/), University of Tübingen, DEU
