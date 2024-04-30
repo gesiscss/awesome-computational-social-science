@@ -153,13 +153,14 @@ chronologically.
 - [Master in Computational Social Sciences](https://www.unilu.ch/studium/studienangebot/master/kultur-und-sozialwissenschaftliche-fakultaet/lucerne-master-in-computational-social-sciences-lumacss/) at the University of Lucerne, CHE
 - [MSc in Computational Social Science](https://hsspg.cuhk.edu.cn/en/msccss), Chinese University of Hong Kong (Shenzhen), CHN
 - [Master of Data Science for Public Policy](https://www.hertie-school.org/en/mds), Hertie School, DEU
-- [Master of Contemporary Societies](https://www.helsinki.fi/en/degree-programmes/contemporary-societies-masters-programme), track on social data science, University of Helsinki, FIN
 - [Master Social and Economic Data Science](https://www.polver.uni-konstanz.de/studium/master/master-social-and-economic-data-science/),
 University of Konstanz, DEU
+- [Mannheim Master in Social Data Science](https://www.uni-mannheim.de/en/academics/before-your-studies/programs/mannheim-master-in-social-data-science/), University of Mannheim, DEU
 - [M.Sc. Quantitative Data Science Methods: Psychometrics, Econometrics and Machine Learning](https://uni-tuebingen.de/fakultaeten/wirtschafts-und-sozialwissenschaftliche-fakultaet/faecher/fachbereich-sozialwissenschaften/methodenzentrum/studium/msc-qds/), University of Tübingen, DEU
 - ~~[Master Computational Social Systems](https://www.rwth-aachen.de/cms/root/Studium/Vor-dem-Studium/Studiengaenge/Liste-Aktuelle-Studiengaenge/Studiengangbeschreibung/~sthd/Computational-Social-Systems-M-Sc/)~~ (This course of study is being phased out), RWTH Aachen, DEU
 - [Master of Science (MSc) in Social Data Science](https://studies.ku.dk/masters/social-data-science/), University of Copenhagen, DNK
 - [Master in Computational Social Science](https://www.uc3m.es/master/computational-social-science), Universidad Carlos III de Madrid, ESP
+- [Master of Contemporary Societies](https://www.helsinki.fi/en/degree-programmes/contemporary-societies-masters-programme), track on social data science, University of Helsinki, FIN
 - [MSc&T “Data and Economics for Public Policy”](https://programmes.polytechnique.edu/en/master-all-msct-programs/data-and-economics-for-public-policy), Institut Polytechnique de Paris, FRA
 - [Master in Data Science for Social Sciences](https://www.tse-fr.eu/master-data-science-social-sciences), Toulouse School of Economics, FRA
 - [MSc Applied Social Data Science](https://www.lse.ac.uk/Methodology/Study/MSc-Applied-Social-Data-Science), London School of Economics and Political Science, GBR
@@ -241,6 +242,7 @@ Koç University, TUR
 - [CSS Lab RWTH Aachen](https://www.css-lab.rwth-aachen.de/), Aachen, DEU
 - [Data Science Lab, Hertie School](https://www.hertie-school.org/en/datasciencelab), Berlin, DEU
 - [CSS Department at GESIS](https://www.gesis.org/en/institute/departments/computational-social-science), Cologne, DEU
+- [Chair of Data Science in the Economic and Social Sciences](https://www.bwl.uni-mannheim.de/en/information-systems/chairs/prof-dr-strohmaier/), Mannheim, DEU
 - [Computational Social Science and Big Data TUM Munich](https://www.hfp.tum.de/css/startseite/), Munich, DEU
 - [Department of Digital and Computational Demography](https://www.demogr.mpg.de/en/research_6120/digital_and_computational_demography_zagheni_11666/), Rostock, DEU
 - [Copenhagen Center for Social Data Science (SODAS)](https://sodas.ku.dk), Copenhagen, DNK
