@@ -242,7 +242,7 @@ Koç University, TUR
 - [CSS Lab RWTH Aachen](https://www.css-lab.rwth-aachen.de/), Aachen, DEU
 - [Data Science Lab, Hertie School](https://www.hertie-school.org/en/datasciencelab), Berlin, DEU
 - [CSS Department at GESIS](https://www.gesis.org/en/institute/departments/computational-social-science), Cologne, DEU
-- [Chair of Data Science in the Economic and Social Sciences](https://www.bwl.uni-mannheim.de/en/information-systems/chairs/prof-dr-strohmaier/), Mannheim, DEUT
+- [Chair of Data Science in the Economic and Social Sciences](https://www.bwl.uni-mannheim.de/en/information-systems/chairs/prof-dr-strohmaier/), Mannheim, DEU
 - [Computational Social Science and Big Data TUM Munich](https://www.hfp.tum.de/css/startseite/), Munich, DEU
 - [Department of Digital and Computational Demography](https://www.demogr.mpg.de/en/research_6120/digital_and_computational_demography_zagheni_11666/), Rostock, DEU
 - [Copenhagen Center for Social Data Science (SODAS)](https://sodas.ku.dk), Copenhagen, DNK
