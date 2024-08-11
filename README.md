@@ -67,8 +67,7 @@ chronologically.
 - [Research Handbook on Digital Sociology](https://www.e-elgar.com/shop/gbp/research-handbook-on-digital-sociology-9781789906752.html), edited by Jan Skopek (2023)
 - [Handbook of Computational Social Science for Policy](https://link.springer.com/book/10.1007/978-3-031-16624-2), by Eleonora Bertoni, Matteo Fontana, Lorenzo Gabrielli, Serena Signorelli, Michele Vespe (2023)
 - [Computational Thinking for Social Scientists](https://jaeyk.github.io/comp_thinking_social_science/), by Jae Yeon Kim (2023)
-- [Computational Thinking and Social Science](https://uk.sagepub.com/en-gb/eur/computational-thinking-and-social-science/book268542), by Matti Nelimarkka (2023)https://uk.sagepub.com/en-gb/eur/computational-thinking-and-social-science/book268542
-
+- [Computational Thinking and Social Science](https://uk.sagepub.com/en-gb/eur/computational-thinking-and-social-science/book268542), by Matti Nelimarkka (2023)
 
 ## Conferences
 
