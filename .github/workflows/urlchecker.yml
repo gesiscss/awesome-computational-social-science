@@ -15,3 +15,4 @@ jobs:
         file_types: .md
         include_files: README.md
         timeout: 10
+        retry_count: 3
