@@ -85,6 +85,7 @@ chronologically.
 - [ICWSM - International AAAI Conference on Web and Social Media](https://www.icwsm.org/)
 - [NetSci - International Conference on Network Science](https://netscisociety.net/events/netsci/)
 - [SSC - Social Simulation Conference](http://www.essa.eu.org/event-type/conference/)
+- [WebSci - ACM Web Science Conference](https://www.websci25.org/)
 
 [Computational Social Science Events Worldwide](https://calendar.google.com/calendar/u/0/embed?src=19jm0329h91akpv0srml6c24ec@group.calendar.google.com&ctz=Europe/Rome), Public Calendar
 
