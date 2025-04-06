@@ -245,6 +245,7 @@ Koç University, TUR
 - [Chair of Data Science in the Economic and Social Sciences](https://www.bwl.uni-mannheim.de/en/information-systems/chairs/prof-dr-strohmaier/), Mannheim, DEU
 - [Computational Social Science and Big Data TUM Munich](https://www.hfp.tum.de/css/startseite/), Munich, DEU
 - [Department of Digital and Computational Demography](https://www.demogr.mpg.de/en/research_6120/digital_and_computational_demography_zagheni_11666/), Rostock, DEU
+- [Social Foundations of Computation - Max Planck Institute for Intelligent Systems](https://sf.is.mpg.de/sf), Tübingen, DEU
 - [Copenhagen Center for Social Data Science (SODAS)](https://sodas.ku.dk), Copenhagen, DNK
 - [NEtwoRks, Data, and Society (NERDS)](https://nerds.itu.dk/), Copenhagen, DNK
 - [Computational Social Science Group](https://css.cs.ut.ee/index.html), Tartu, EST
@@ -253,6 +254,7 @@ Koç University, TUR
 - [Social Data Science Lab at Cardiff University](http://socialdatalab.net/), Cardiff, GBR
 - [Centre for Data, Culture & Society](https://www.cdcs.ed.ac.uk/), Edinburgh, GBR
 - [Oxford Internet Institute](https://www.oii.ox.ac.uk/about/), Oxford, GBR
+- [Machine Learning and Economics Group](https://maxkasy.github.io/home/ML_Econ_Oxford/), Oxford, GBR
 - [Social Data Institute](https://www.ucl.ac.uk/social-data/home/social-data-institute), University College London, GBR
 - [Web Mining Lab](http://weblab.com.cityu.edu.hk/blog/), City University of Hong Kong, Hong Kong, HKG
 - [Computational Social Sciences and Law Lab](https://www.cityu.edu.hk/cpal/lab_cssl.htm), City University of Hong Kong, Hong Kong, HKG
