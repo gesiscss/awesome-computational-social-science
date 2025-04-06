@@ -73,7 +73,7 @@ chronologically.
 
 > Relevant conferences where the community (or parts thereof) meets
 
-- [BigSurv - Big Data Meets Survey Science](https://www.bigsurv.org/)
+- [BigSurv - Big Data Meets Survey Science](https://bigsurv.github.io/)
 - [CHI - ACM CHI Conference on Human Factors in Computing Systems](https://chi.acm.org/)
 - [Complex Networks - International Conference on Complex Networks and their Applications](https://www.complexnetworks.org/)
 - [COMPTEXT Conference](https://www.comptextconference.org/)
@@ -102,7 +102,6 @@ chronologically.
 
 - [CSC2552 Topics in Computational Social Science: AI, Data, and Society](https://www.cs.toronto.edu/~ashton/csc2552) - Seminar course taught by Ashton Anderson at the University of Toronto, Canada. 
 - [NLP+CSS 201 Tutorials](https://nlp-css-201-tutorials.github.io/nlp-css-201-tutorials/) - Tutorials for advanced natural language processing methods designed for computational social science research.
-- [SAGE collection of teaching material for Computational Social Science](https://ocean.sagepub.com/teaching-materials-for-computational-social-science) - Large collection of various teaching material for Computational Social Science
 - [SICSS Learning Materials](https://sicss.io/overview) - Open source teaching and learning resources for computational social science
 - [Social and Economic Networks: Models and Analysis](https://www.coursera.org/learn/social-economic-networks) - Online course on social and economic networks taught by Matthew O. Jackson
 - [Toolkit for Digital Methods](https://wiki.helsinki.fi/display/TDM/Toolkit+for+Digital+Methods+Home) - A wiki of resources for digital methods in Social Sciences
@@ -136,7 +135,6 @@ chronologically.
 #### Bachelor programs
 
 - [BA/BSc in Data Science and Society (DSS)](https://undergraduate.ceu.edu/bachelor-degree-data-science-society), Central European University, AUT
-- [B.Sc. Social Data Science](https://www.uni-wh.de/en/uwh-international/university/degree-programmes-taught-in-english/b-sc-social-data-science/), Witten/Herdecke University, DEU 
 - [BSc Social Sciences with Data Science](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/social-sciences-data-science-bsc), University College London, GBR
 - [Bachelor of Social Sciences in Data Science and Policy Studies](https://dsps.ssc.cuhk.edu.hk/), Chinese University of Hong Kong, HKG
 - [Bachelor Computational Social Science](https://www.uva.nl/en/programmes/bachelors/computational-social-science/study-programme/study-programme.html), University of Amsterdam, NLD
@@ -164,7 +162,6 @@ University of Konstanz, DEU
 - [MSc&T “Data and Economics for Public Policy”](https://programmes.polytechnique.edu/en/master-all-msct-programs/data-and-economics-for-public-policy), Institut Polytechnique de Paris, FRA
 - [Master in Data Science for Social Sciences](https://www.tse-fr.eu/master-data-science-social-sciences), Toulouse School of Economics, FRA
 - [MSc Applied Social Data Science](https://www.lse.ac.uk/Methodology/Study/MSc-Applied-Social-Data-Science), London School of Economics and Political Science, GBR
-- [MPA in Data Science for Public Policy](https://www.lse.ac.uk/school-of-public-policy/study/mpaindatascience), London School of Economics and Political Science, GBR
 - [MSc Social and Geographic Data Science](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/social-and-geographic-data-science-msc), University College London, GBR
 - [MSc Data Science and Public Policy](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/data-science-and-public-policy-political-science-msc), University College London, GBR
 - [MSc Human and Social Data Science](https://www.sussex.ac.uk/study/masters/courses/human-and-social-data-science-msc), University of Sussex, GBR
@@ -189,7 +186,6 @@ Koç University, TUR
 - [Master of Science in Data Science for Public Policy](https://mccourt.georgetown.edu/master-of-science-in-data-science-for-public-policy/), Georgetown University, USA
 - [MA in Quantitative Methods in the Social Sciences: Data Science Focus](https://www.qmss.columbia.edu/), Columbia University, USA
 - [Master of Science in Public Policy and Data Science](https://priceschool.usc.edu/mppds/), University of Southern California, USA
-- [Master's Degree Applied Urban Science and Informatics](https://cusp.nyu.edu/masters-degree/), New York University, USA
 - [Master of Science in Survey and Data Science](https://surveydatascience.isr.umich.edu/survey-and-data-science-masters-degree-program), University of Michigan, USA
 - [Master of Science in Social Policy + Data Analytics for Social Policy Certificate](https://www.sp2.upenn.edu/program/master-of-science-in-social-policy-data-analytics-for-social-policy-certificate/), University of Pennsylvania, USA
 
@@ -231,13 +227,10 @@ Koç University, TUR
 > Ordered alphabetically by country and city (using [ISO 3166-1 alpha 3](https://en.wikipedia.org/wiki/ISO_3166-1) country codes)
 
 - [Data Science and AI Lab](https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/data-science-and-ai-lab.html), Abu Dhabi, ARE
-- [Computational Social Science Lab](https://www.sydney.edu.au/arts/our-research/centres-institutes-and-groups/sydney-social-sciences-and-humanities-advanced-research-centre/research/computational-social-science-lab.html), University of Sydney, AUS
-- [CSS Lab TU Graz](https://www.tugraz.at/institute/isds/research/research-groups/computational-social-science-lab-css-lab/), Graz, AUT
 - [Digital Humanities Lab at UFBA](https://www.labhd.ufba.br/), Salvador, BRA
 - [Computational Social Science Lab](http://csslab.cs.toronto.edu/), University of Toronto, Toronto, CAN
 - [Professorship of Computational Social Science (COSS)](https://coss.ethz.ch), ETH Zürich, CHE 
 - [Social Networks Lab](https://sn.ethz.ch/), Zürich, CHE
-- [Computational Communication Collaboratory](https://computational-communication.com/), Nanjing, CHN
 - [Institute of Computational Social Science](https://hss.cuhk.edu.cn/en/page/1006), CUHK-Shenzhen, CHN
 - [CSS Lab RWTH Aachen](https://www.css-lab.rwth-aachen.de/), Aachen, DEU
 - [Data Science Lab, Hertie School](https://www.hertie-school.org/en/datasciencelab), Berlin, DEU
@@ -270,7 +263,6 @@ Koç University, TUR
 - [Computational Social Science Lab](https://www.colorlessgreen.info/), Tokyo Institute of Technology, Tokyo, JPN
 - [Computational Communication Science Amsterdam](https://ccs.amsterdam), NLD
 - [Social and Behavioural Data Science Centre](https://sobedsc.uva.nl/), Amsterdam, NLD
-- [UNU-MERIT Computational Innovation Lab on Crises, Transformation and Sustainable Development](https://www.merit.unu.edu/cil/), Maastricht, NLD
 - [ODISSEI (Open Data Infrastructure for Social Science and Economic Innovations)](https://odissei-data.nl/en/), Rotterdam, NLD
 - [Political Data Science (PODS) Research Group](https://www.sv.uio.no/isv/english/research/groups/political-data-science/), Oslo, NOR
 - [UU-InfoLab (Uppsala University Information Laboratory)](https://uuinfolab.github.io/), Uppsala, SWE
@@ -298,7 +290,6 @@ Koç University, TUR
 - [People, Space, and Algorithms (PSA) Research Group](https://www.psagroup.org/), Northwestern University, Evanston, USA
 - [Science of Networks in Communities (SONIC) Lab](https://sonic.northwestern.edu/), Northwestern University, Evanston, USA
 - [Center for AI in Society(CAIS)](https://cais.usc.edu/), University of Southern California, Los Angeles, USA
-- [Computational Social Science Laboratory](https://dornsife.usc.edu/bci/computational-social-science-laboratory/), University of Southern California, Los Angeles, USA
 - [HUmans | MAchines | Networks | Society Lab (HUMANS)](http://www.emilio.ferrara.name/), University of Southern California, Los Angeles, USA
 - [Computational Social Science Institute at UMass](https://www.cssi.umass.edu), Massachusetts Amherst, USA
 - [Computational Social Science Lab](https://csslab.rutgers.edu/), Rutgers University, New Brunswick, USA
