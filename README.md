@@ -137,7 +137,7 @@ chronologically.
 - [BA/BSc in Data Science and Society (DSS)](https://undergraduate.ceu.edu/bachelor-degree-data-science-society), Central European University, AUT
 - [BSc Social Sciences with Data Science](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/social-sciences-data-science-bsc), University College London, GBR
 - [Bachelor of Social Sciences in Data Science and Policy Studies](https://dsps.ssc.cuhk.edu.hk/), Chinese University of Hong Kong, HKG
-- [Bachelor of Social Sciences in Social Data Scienc](https://www.ln.edu.hk/socsc/bsocsc/our-programme/majors/major-in-social-data-science), Lingnan University, HKG
+- [Bachelor of Social Sciences in Social Data Science](https://www.ln.edu.hk/socsc/bsocsc/our-programme/majors/major-in-social-data-science), Lingnan University, HKG
 - [Bachelor Computational Social Science](https://www.uva.nl/en/programmes/bachelors/computational-social-science/study-programme/study-programme.html), University of Amsterdam, NLD
 - [BS in Social Data Science](https://sdsc.umd.edu/), University of Maryland, USA
 - [BS in Social Data Analytics](https://soda.la.psu.edu/programs/undergraduate/), Pennsylvania State University, USA
