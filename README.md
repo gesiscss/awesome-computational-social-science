@@ -137,6 +137,7 @@ chronologically.
 - [BA/BSc in Data Science and Society (DSS)](https://undergraduate.ceu.edu/bachelor-degree-data-science-society), Central European University, AUT
 - [BSc Social Sciences with Data Science](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/social-sciences-data-science-bsc), University College London, GBR
 - [Bachelor of Social Sciences in Data Science and Policy Studies](https://dsps.ssc.cuhk.edu.hk/), Chinese University of Hong Kong, HKG
+- [Bachelor of Social Sciences in Social Data Science](https://www.ln.edu.hk/socsc/bsocsc/our-programme/majors/major-in-social-data-science), Lingnan University, HKG
 - [Bachelor Computational Social Science](https://www.uva.nl/en/programmes/bachelors/computational-social-science/study-programme/study-programme.html), University of Amsterdam, NLD
 - [BS in Social Data Science](https://sdsc.umd.edu/), University of Maryland, USA
 - [BS in Social Data Analytics](https://soda.la.psu.edu/programs/undergraduate/), Pennsylvania State University, USA
@@ -167,11 +168,12 @@ University of Konstanz, DEU
 - [MSc Human and Social Data Science](https://www.sussex.ac.uk/study/masters/courses/human-and-social-data-science-msc), University of Sussex, GBR
 - [MSc Social Data Science](https://www.exeter.ac.uk/study/postgraduate/courses/politics/socialdatasciencemsc/), University of Exeter, GBR
 - [MSc Social Data Science](https://www.oii.ox.ac.uk/study/msc-in-social-data-science/), University of Oxford, GBR
+- [MSc in Social Data Science](https://www.uni-corvinus.hu/post/landing-page/masters/msc-in-social-data-science/?lang=en), Corvinus University of Budapest, HUN
 - [Masters in Computational Social Science](https://sola.iitj.ac.in/postgraduate-program/), Indian Institute of Technology (IIT) Jodhpur, IND
 - [Master Politics and Data Science](https://www.ucd.ie/connected_politics/studywithus/), University College Dublin, IRE
 - [MSc Social Data Science](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=PROG&MAJR=W559), University College Dublin, IRE
 - [MSc/PG Diploma Applied Social Data Science](https://www.tcd.ie/Political_Science/programmes/postgraduate/pg-dip-applied-social-data-science/), Trinity College Dublin, IRE
-- [Master Data Science for Economics](https://dse.cdl.unimi.it/en), University of Milan, ITA
+- [Master programme Data Science for Economics and Health](https://dseh.cdl.unimi.it/en), University of Milan, ITA
 - [Master in Social Data Science](https://sds.sociologia.unimib.it/), University of Milano-Bicocca, ITA
 - [Master in Social Sciences for a Digital Society](https://vu.nl/en/education/master/social-sciences-for-a-digital-society), Vrije Universiteit Amsterdam, NLD
 - [Master's Programme Computational Social Science](https://liu.se/en/education/program/f7mcd), Linköping University, SWE
@@ -231,6 +233,7 @@ Koç University, TUR
 - [Computational Social Science Lab](http://csslab.cs.toronto.edu/), University of Toronto, Toronto, CAN
 - [Professorship of Computational Social Science (COSS)](https://coss.ethz.ch), ETH Zürich, CHE 
 - [Social Networks Lab](https://sn.ethz.ch/), Zürich, CHE
+- [Computational Communication Collaboratory (CCC, C-Cube, or C3), Nanjing University](https://socrateslab.github.io/en/), Nanjing, CHN
 - [Institute of Computational Social Science](https://hss.cuhk.edu.cn/en/page/1006), CUHK-Shenzhen, CHN
 - [CSS Lab RWTH Aachen](https://www.css-lab.rwth-aachen.de/), Aachen, DEU
 - [Data Science Lab, Hertie School](https://www.hertie-school.org/en/datasciencelab), Berlin, DEU
