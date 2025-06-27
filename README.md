@@ -316,6 +316,7 @@ Koç University, TUR
 
 - [Big Data & Society](https://journals.sagepub.com/home/bds)
 - [Computational Communication Research](https://computationalcommunication.org/ccr)
+- [Communication Methods and Measures](https://www.tandfonline.com/journals/hcms20)
 - [Computational Economics](https://www.springer.com/journal/10614)
 - [EPJ Data Science](https://epjdatascience.springeropen.com/)
 - [Frontiers in Big Data](https://www.frontiersin.org/journals/big-data)
