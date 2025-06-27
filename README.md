@@ -301,13 +301,13 @@ Koç University, TUR
 - [Center for Information Networks and Democracy(CIND)](https://www.asc.upenn.edu/research/centers/center-for-information-networks-and-democracy), University of Pennsylvania, Philadelphia, USA
 - [Computational Social Science Lab (CSSLab)](https://css.seas.upenn.edu/), University of Pennsylvania, Philadelphia, USA
 - [Network Dynamics Group](https://ndg.asc.upenn.edu/), University of Pennsylvania, Philadelphia, USA
-- [Center for Computational Analysis of Social and Organizational Systems (CASOS)](http://www.casos.cs.cmu.edu/index.php), Carnegie Mellon University, Pittsburgh, USA
+- [Center for Computational Analysis of Social and Organizational Systems (CASOS)](http://www.casos.cs.cmu.edu/), Carnegie Mellon University, Pittsburgh, USA
 - [PITT Initiative on Computational Social Science](https://pittcss.github.io/),  University of Pittsburgh, Pittsburgh, USA
 - [Santa Fe Institute (SFI)](https://www.santafe.edu/), Santa Fe, USA
 - [Community Data Science Collective](https://wiki.communitydata.science/Main_Page), University of Washington, Seattle, USA
 - [IRiSS Center for Computational Social Science](https://iriss.stanford.edu/research-centers/computational-social-science), Stanford University, USA
 - [Center for Social Data Analytics (C-SoDA)](https://soda.la.psu.edu/), Pennsylvania State University, University Park, USA
-- [Computational Social Science Lab](https://www.cla.purdue.edu/academic/polsci/research/labs/computational-social-science-lab/index.html), Purdue University, West Lafayette, USA
+- [Computational Social Science Lab](https://www.cla.purdue.edu/academic/polsci/research/labs/computational-social-science-lab/), Purdue University, West Lafayette, USA
 
 
 ## Journals
