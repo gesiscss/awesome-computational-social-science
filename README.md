@@ -179,6 +179,7 @@ University of Konstanz, DEU
 - [Master's Programme Computational Social Science](https://liu.se/en/education/program/f7mcd), Linköping University, SWE
 - [Master Computational Social Science](https://gsssh.ku.edu.tr/en/departments/computational-social-sciences/),
 Koç University, TUR
+- [Master of Management Science and Engineering](https://bulletin.stanford.edu/programs/MGTSC-MS), Stanford University, USA
 - [Master of Computational Social Science (MaCSS)](https://macss.berkeley.edu/), University of California Berkeley, USA
 - [M.S. in Computational Social Science](https://css.ucsd.edu/masters/index.html), University of California San Diego, USA
 - [M.A. in Computational Social Science](https://macss.uchicago.edu/), University of Chicago, USA
