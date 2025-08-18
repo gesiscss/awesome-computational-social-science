@@ -264,7 +264,7 @@ Koç University, TUR
 - [Mobile and Social Computing Lab (MobS Lab)](https://ict.fbk.eu/units/mobs/), Bruno Kessler Foundation, Trento, ITA
 - [CENTAI Institute](https://centai.eu), Turin, ITA
 - [Center for Computational Social Science](http://ccss.kobe-u.ac.jp/en/index.html), Kobe University, Kobe, JPN
-- [Computational Social Science Lab](https://www.colorlessgreen.info/), Tokyo Institute of Technology, Tokyo, JPN
+- [Computational Social Science Lab](https://www.colorlessgreen.info/), Institute of Science Tokyo, Tokyo, JPN
 - [Computational Communication Science Amsterdam](https://ccs.amsterdam), NLD
 - [Social and Behavioural Data Science Centre](https://sobedsc.uva.nl/), Amsterdam, NLD
 - [ODISSEI (Open Data Infrastructure for Social Science and Economic Innovations)](https://odissei-data.nl/en/), Rotterdam, NLD
