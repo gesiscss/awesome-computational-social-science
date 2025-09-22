@@ -135,6 +135,7 @@ chronologically.
 #### Bachelor programs
 
 - [BA/BSc in Data Science and Society (DSS)](https://undergraduate.ceu.edu/bachelor-degree-data-science-society), Central European University, AUT
+- [BA Data Science and Economics](https://www.manchester.ac.uk/study/undergraduate/courses/2026/18105/baecon-economics-and-data-analytics/), University of Manchester, GBR
 - [BSc Social Sciences with Data Science](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/social-sciences-data-science-bsc), University College London, GBR
 - [Bachelor of Social Sciences in Data Science and Policy Studies](https://dsps.ssc.cuhk.edu.hk/), Chinese University of Hong Kong, HKG
 - [Bachelor of Social Sciences in Social Data Science](https://www.ln.edu.hk/socsc/bsocsc/our-programme/majors/major-in-social-data-science), Lingnan University, HKG
@@ -163,11 +164,13 @@ University of Konstanz, DEU
 - [MSc&T “Data and Economics for Public Policy”](https://programmes.polytechnique.edu/en/master-all-msct-programs/data-and-economics-for-public-policy), Institut Polytechnique de Paris, FRA
 - [Master in Data Science for Social Sciences](https://www.tse-fr.eu/master-data-science-social-sciences), Toulouse School of Economics, FRA
 - [MSc Applied Social Data Science](https://www.lse.ac.uk/Methodology/Study/MSc-Applied-Social-Data-Science), London School of Economics and Political Science, GBR
-- [MSc Social and Geographic Data Science](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/social-and-geographic-data-science-msc), University College London, GBR
+- [MSc Data Analytics and Social Statistics (Online)](https://www.manchester.ac.uk/study/online-blended-learning/courses/data-analytics-and-social-statistics/), University of Manchester, GBR
 - [MSc Data Science and Public Policy](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/data-science-and-public-policy-political-science-msc), University College London, GBR
 - [MSc Human and Social Data Science](https://www.sussex.ac.uk/study/masters/courses/human-and-social-data-science-msc), University of Sussex, GBR
+- [MSc Social and Geographic Data Science](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/social-and-geographic-data-science-msc), University College London, GBR
 - [MSc Social Data Science](https://www.exeter.ac.uk/study/postgraduate/courses/politics/socialdatasciencemsc/), University of Exeter, GBR
 - [MSc Social Data Science](https://www.oii.ox.ac.uk/study/msc-in-social-data-science/), University of Oxford, GBR
+- [MSc Social Research Methods and Statistics with Computational Social Science](https://www.manchester.ac.uk/study/masters/courses/list/21638/msc-social-research-methods-and-statistics-with-computational-social-science/), University of Manchester, GBR
 - [MSc in Social Data Science](https://www.uni-corvinus.hu/post/landing-page/masters/msc-in-social-data-science/?lang=en), Corvinus University of Budapest, HUN
 - [Masters in Computational Social Science](https://sola.iitj.ac.in/postgraduate-program/), Indian Institute of Technology (IIT) Jodhpur, IND
 - [Master Politics and Data Science](https://www.ucd.ie/connected_politics/studywithus/), University College Dublin, IRE
