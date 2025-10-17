@@ -1,12 +1,12 @@
 # Awesome Computational Social Science [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 >An [awesome](https://github.com/sindresorhus/awesome) curated list of
->resources for Computational Social Science.  
+>resources for Computational Social Science.
 > Inspired by [Awesome Network
 > Analysis](https://github.com/briatte/awesome-network-analysis) and others.
 
 The order of entries within categories is either alphabetically or
-chronologically.  
+chronologically.
 **Please add your resources according to the respective ordering**
 
 ![logo](logo.png)
@@ -100,7 +100,7 @@ chronologically.
 
 > See also the [Software](#software) section for material on software tools
 
-- [CSC2552 Topics in Computational Social Science: AI, Data, and Society](https://www.cs.toronto.edu/~ashton/csc2552) - Seminar course taught by Ashton Anderson at the University of Toronto, Canada. 
+- [CSC2552 Topics in Computational Social Science: AI, Data, and Society](https://www.cs.toronto.edu/~ashton/csc2552) - Seminar course taught by Ashton Anderson at the University of Toronto, Canada.
 - [NLP+CSS 201 Tutorials](https://nlp-css-201-tutorials.github.io/nlp-css-201-tutorials/) - Tutorials for advanced natural language processing methods designed for computational social science research.
 - [SICSS Learning Materials](https://sicss.io/overview) - Open source teaching and learning resources for computational social science
 - [Social and Economic Networks: Models and Analysis](https://www.coursera.org/learn/social-economic-networks) - Online course on social and economic networks taught by Matthew O. Jackson
@@ -123,7 +123,7 @@ chronologically.
 - [Essex Summer School in Social Science Data Analysis](https://essexsummerschool.com/)
 - [GESIS Fall Seminar in Computational Social Science](https://www.gesis.org/en/gesis-training/what-we-offer/fall-seminar-in-computational-social-science)
 - [Mediterranean School of Complex Networks](https://mediterraneanschoolcomplex.net/index.html)
-- [NLP + CSS](https://sites.google.com/site/nlpandcss/): a series of workshops on natural language processing (NLP) and computational social science (CSS). 
+- [NLP + CSS](https://sites.google.com/site/nlpandcss/): a series of workshops on natural language processing (NLP) and computational social science (CSS).
 - [The Summer Institutes in Computational Social Science](https://sicss.io/)
 - [Topics in Digital and Computational Demography](https://www.demogr.mpg.de/en/career_6122/international_advanced_studies_in_demography_6682/courses_6931/), PhD level, one week course.
 
@@ -149,7 +149,7 @@ chronologically.
 - [Master Computational Social System](https://www.tugraz.at/en/studying-and-teaching/degree-and-certificate-programmes/masters-degree-programmes/computational-social-systems),
   TU Graz, AUT
 - [Master of Science program in Social Data Science](https://networkdatascience.ceu.edu/msc-social-data-science), Central European University, AUT
-- [Master of Sociology: Quantitative Analysis and Social Data Science specialisation](https://soc.kuleuven.be/fsw/toekomstigestudenten/english/mos/datascience), KU Leuven, BEL 
+- [Master of Sociology: Quantitative Analysis and Social Data Science specialisation](https://soc.kuleuven.be/fsw/toekomstigestudenten/english/mos/datascience), KU Leuven, BEL
 - [Master in Computational Social Sciences](https://www.unilu.ch/studium/studienangebot/master/kultur-und-sozialwissenschaftliche-fakultaet/lucerne-master-in-computational-social-sciences-lumacss/) at the University of Lucerne, CHE
 - [MSc in Computational Social Science](https://hsspg.cuhk.edu.cn/en/msccss), Chinese University of Hong Kong (Shenzhen), CHN
 - [Master of Data Science for Public Policy](https://www.hertie-school.org/en/mds), Hertie School, DEU
@@ -235,7 +235,7 @@ Koç University, TUR
 - [Data Science and AI Lab](https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/data-science-and-ai-lab.html), Abu Dhabi, ARE
 - [Digital Humanities Lab at UFBA](https://www.labhd.ufba.br/), Salvador, BRA
 - [Computational Social Science Lab](http://csslab.cs.toronto.edu/), University of Toronto, Toronto, CAN
-- [Professorship of Computational Social Science (COSS)](https://coss.ethz.ch), ETH Zürich, CHE 
+- [Professorship of Computational Social Science (COSS)](https://coss.ethz.ch), ETH Zürich, CHE
 - [Social Networks Lab](https://sn.ethz.ch/), Zürich, CHE
 - [Computational Communication Collaboratory (CCC, C-Cube, or C3), Nanjing University](https://socrateslab.github.io/en/), Nanjing, CHN
 - [Institute of Computational Social Science](https://hss.cuhk.edu.cn/en/page/1006), CUHK-Shenzhen, CHN
@@ -388,6 +388,7 @@ Koç University, TUR
 - [Introduction to Computational Social Science Methods with Python](https://github.com/gesiscss/css_methods_python)
 - [Quanteda Tutorials for Quantitative Text Analysis in R](https://tutorials.quanteda.io)
 - [R Course Material for Communication Science](https://github.com/ccs-amsterdam/r-course-material)
+- [Time Series Analysis With R](https://nicolarighetti.github.io/Time-Series-Analysis-With-R/)
 
 
 ## Miscellaneous
