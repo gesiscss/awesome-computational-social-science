@@ -337,7 +337,8 @@ Koç University, TUR
 
 ### Journals for Software Submissions
 
-> Some journals have a dedicated submission format for software, research tools, tutorials, methods, and/or datasets.
+> Some journals have a dedicated submission format for software, research tools, tutorials, methods, and/or datasets. Ordered alphabetically.
+
 
 - [Behavior Research Methods](https://link.springer.com/journal/13428/submission-guidelines)
 - [Communication Methods and Measures](https://www.tandfonline.com/action/authorSubmission?show=instructions&journalCode=hcms20)
@@ -348,8 +349,8 @@ Koç University, TUR
 - [Journal of Open Research Software](https://openresearchsoftware.metajnl.com/)
 - [Journal of Open Source Software](https://joss.theoj.org/)
 - [Journal of Statistical Software](https://www.jstatsoft.org/index)
-- [Mobile Media & Communication](https://journals.sagepub.com/author-instructions/MMC)
 - [methods, data, analyses](https://majournals.bib.uni-mannheim.de/mda/about/submissions)
+- [Mobile Media & Communication](https://journals.sagepub.com/author-instructions/MMC)
 - [PLOS One](https://journals.plos.org/plosone/s/journal-information)
 - [Social Science Computer Review](https://journals.sagepub.com/author-instructions/SSC)
 - [Visual Communication](https://journals.sagepub.com/author-instructions/vcj)
