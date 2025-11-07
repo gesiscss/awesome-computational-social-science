@@ -23,6 +23,7 @@ chronologically.
   - [University Course Programs](#university-course-programs)
 - __[Research Groups](#research-groups)__
 - __[Journals](#journals)__
+  - [Journals for Software Submissions](#journals-software)
 - __[Selected Papers](#selected-papers)__
 - __[Software](#software)__
   - [R](#R)
@@ -334,6 +335,24 @@ Koç University, TUR
 - [Social Media and Society](https://journals.sagepub.com/home/sms)
 - [Social Science Computer Review](https://journals.sagepub.com/home/ssc)
 
+### Journals for Software Submissions
+
+> Some journals have a dedicated submission format for software, research tools, tutorials, methods, and/or datasets.
+
+- [Behavior Research Methods](https://link.springer.com/journal/13428/submission-guidelines)
+- [Communication Methods and Measures](https://www.tandfonline.com/action/authorSubmission?show=instructions&journalCode=hcms20)
+- [Computational Communication Research](https://journal.computationalcommunication.org/about/submissions)
+- [Digital Journalism](https://www.tandfonline.com/action/authorSubmission?show=instructions&journalCode=rdij20)
+- [EPJ Data Science](https://epjdatascience.springeropen.com/submission-guidelines)
+- [Journal of Information Technology & Politics](https://www.tandfonline.com/action/authorSubmission?show=instructions&journalCode=witp20)
+- [Journal of Open Research Software](https://openresearchsoftware.metajnl.com/)
+- [Journal of Open Source Software](https://joss.theoj.org/)
+- [Journal of Statistical Software](https://www.jstatsoft.org/index)
+- [Mobile Media & Communication](https://journals.sagepub.com/author-instructions/MMC)
+- [methods, data, analyses](https://majournals.bib.uni-mannheim.de/mda/about/submissions)
+- [PLOS One](https://journals.plos.org/plosone/s/journal-information)
+- [Social Science Computer Review](https://journals.sagepub.com/author-instructions/SSC)
+- [Visual Communication](https://journals.sagepub.com/author-instructions/vcj)
 
 ## Selected Papers
 
