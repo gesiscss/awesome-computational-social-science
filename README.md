@@ -140,6 +140,7 @@ chronologically.
 - [BSc Social Sciences with Data Science](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/social-sciences-data-science-bsc), University College London, GBR
 - [Bachelor of Social Sciences in Data Science and Policy Studies](https://dsps.ssc.cuhk.edu.hk/), Chinese University of Hong Kong, HKG
 - [Bachelor of Social Sciences in Social Data Science](https://www.ln.edu.hk/socsc/bsocsc/our-programme/majors/major-in-social-data-science), Lingnan University, HKG
+- [BSc in Computational Social Science](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MAJOR&URL=bsc-computational-social-science), University College Dublin, IRE
 - [Bachelor Computational Social Science](https://www.uva.nl/en/programmes/bachelors/computational-social-science/study-programme/study-programme.html), University of Amsterdam, NLD
 - [BS in Social Data Science](https://sdsc.umd.edu/), University of Maryland, USA
 - [BS in Social Data Analytics](https://soda.la.psu.edu/programs/undergraduate/), Pennsylvania State University, USA
@@ -174,7 +175,7 @@ University of Konstanz, DEU
 - [MSc Social Research Methods and Statistics with Computational Social Science](https://www.manchester.ac.uk/study/masters/courses/list/21638/msc-social-research-methods-and-statistics-with-computational-social-science/), University of Manchester, GBR
 - [MSc in Social Data Science](https://www.uni-corvinus.hu/post/landing-page/masters/msc-in-social-data-science/?lang=en), Corvinus University of Budapest, HUN
 - [Masters in Computational Social Science](https://sola.iitj.ac.in/postgraduate-program/), Indian Institute of Technology (IIT) Jodhpur, IND
-- [Master Politics and Data Science](https://www.ucd.ie/connected_politics/studywithus/), University College Dublin, IRE
+- [MSc Politics and Data Science](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W474&KEYWORD=w474), University College Dublin, IRE
 - [MSc Social Data Science](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=PROG&MAJR=W559), University College Dublin, IRE
 - [MSc/PG Diploma Applied Social Data Science](https://www.tcd.ie/Political_Science/programmes/postgraduate/pg-dip-applied-social-data-science/), Trinity College Dublin, IRE
 - [Master programme Data Science for Economics and Health](https://dseh.cdl.unimi.it/en), University of Milan, ITA
