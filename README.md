@@ -242,6 +242,7 @@ Koç University, TUR
 - [Computational Communication Collaboratory (CCC, C-Cube, or C3), Nanjing University](https://socrateslab.github.io/en/), Nanjing, CHN
 - [Institute of Computational Social Science](https://hss.cuhk.edu.cn/en/page/1006), CUHK-Shenzhen, CHN
 - [CSS Lab RWTH Aachen](https://www.css-lab.rwth-aachen.de/), Aachen, DEU
+- [Computational Social Science Team, Centre Marc Bloch](https://cmb.huma-num.fr/), Berlin, DEU
 - [Data Science Lab, Hertie School](https://www.hertie-school.org/en/datasciencelab), Berlin, DEU
 - [CSS Department at GESIS](https://www.gesis.org/en/institute/departments/computational-social-science), Cologne, DEU
 - [Chair of Data Science in the Economic and Social Sciences](https://www.bwl.uni-mannheim.de/en/information-systems/chairs/prof-dr-strohmaier/), Mannheim, DEU
