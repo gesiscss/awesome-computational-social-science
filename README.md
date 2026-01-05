@@ -278,7 +278,7 @@ Koç University, TUR
 - [CENTAI Institute](https://centai.eu), Turin, ITA
 - [Center for Computational Social Science](http://ccss.kobe-u.ac.jp/en/index.html), Kobe University, Kobe, JPN
 - [Computational Social Science Lab](https://www.colorlessgreen.info/), Institute of Science Tokyo, Tokyo, JPN
-- [Computational Communication Science Amsterdam](https://ccs.amsterdam), NLD
+- [Computational Communication Science Amsterdam](https://ccs-amsterdam.github.io/), NLD
 - [Social and Behavioural Data Science Centre](https://sobedsc.uva.nl/), Amsterdam, NLD
 - [ODISSEI (Open Data Infrastructure for Social Science and Economic Innovations)](https://odissei-data.nl/en/), Rotterdam, NLD
 - [Political Data Science (PODS) Research Group](https://www.sv.uio.no/isv/english/research/groups/political-data-science/), Oslo, NOR
