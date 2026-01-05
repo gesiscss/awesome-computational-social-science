@@ -238,18 +238,23 @@ Koç University, TUR
 - [Digital Humanities Lab at UFBA](https://www.labhd.ufba.br/), Salvador, BRA
 - [Computational Social Science Lab](http://csslab.cs.toronto.edu/), University of Toronto, Toronto, CAN
 - [Professorship of Computational Social Science (COSS)](https://coss.ethz.ch), ETH Zürich, CHE
-- [Social Networks Lab](https://sn.ethz.ch/), Zürich, CHE
+- [Social Networks Lab](https://sn.ethz.ch/), ETH Zürich, CHE
+- [Computational Communication and Social Science Research Group](https://www.ikmz.uzh.ch/en/research/divisions/computational-social-and-communication-science.html), University of Zurich, CHE
 - [Computational Communication Collaboratory (CCC, C-Cube, or C3), Nanjing University](https://socrateslab.github.io/en/), Nanjing, CHN
 - [Institute of Computational Social Science](https://hss.cuhk.edu.cn/en/page/1006), CUHK-Shenzhen, CHN
 - [CSS Lab RWTH Aachen](https://www.css-lab.rwth-aachen.de/), Aachen, DEU
 - [Computational Social Science Team, Centre Marc Bloch](https://cmb.huma-num.fr/), Berlin, DEU
 - [Data Science Lab, Hertie School](https://www.hertie-school.org/en/datasciencelab), Berlin, DEU
 - [CSS Department at GESIS](https://www.gesis.org/en/institute/departments/computational-social-science), Cologne, DEU
+- [CSS - SynoSys](https://css-synosys.github.io/), Dresden, DEU
+- [Computational Communication Science Group](https://www.tu-ilmenau.de/en/university/departments/department-of-economic-sciences-and-media/profile/institutes-and-groups/department-of-communication-science-with-focus-on-computational-communication-science), Ilmenau, DEU
+- [Computational Communication Science Researh Group](https://ccs.ifp.uni-mainz.de/), Mainz, DEU
 - [Chair of Data Science in the Economic and Social Sciences](https://www.bwl.uni-mannheim.de/en/information-systems/chairs/prof-dr-strohmaier/), Mannheim, DEU
-- [Computational Social Science and Big Data TUM Munich](https://www.hfp.tum.de/css/startseite/), Munich, DEU
+- [Lehrbereich Computational Social Sciences](https://www.css.soziologie.uni-muenchen.de/index.html), LMU Munich, DEU
+- [Research Unit Computational Communication Science](https://www.sw.lmu.de/ifkw/en/research/research-and-teaching-groups/research-unit-computational-communication-science/), LMU Munich, DEU
+- [Computational Social Science and Big Data TUM Munich](https://www.hfp.tum.de/css/startseite/), TUM Munich, DEU
 - [Department of Digital and Computational Demography](https://www.demogr.mpg.de/en/research_6120/digital_and_computational_demography_zagheni_11666/), Rostock, DEU
 - [Social Foundations of Computation - Max Planck Institute for Intelligent Systems](https://sf.is.mpg.de/sf), Tübingen, DEU
-- [CSS - SynoSys](https://css-synosys.github.io/), Dresden, DEU
 - [Copenhagen Center for Social Data Science (SODAS)](https://sodas.ku.dk), Copenhagen, DNK
 - [NEtwoRks, Data, and Society (NERDS)](https://nerds.itu.dk/), Copenhagen, DNK
 - [Computational Social Science Group](https://css.cs.ut.ee/index.html), Tartu, EST
