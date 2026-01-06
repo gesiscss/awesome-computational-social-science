@@ -244,10 +244,14 @@ Koç University, TUR
 - [Computational Communication Collaboratory (CCC, C-Cube, or C3), Nanjing University](https://socrateslab.github.io/en/), Nanjing, CHN
 - [Institute of Computational Social Science](https://hss.cuhk.edu.cn/en/page/1006), CUHK-Shenzhen, CHN
 - [CSS Lab RWTH Aachen](https://www.css-lab.rwth-aachen.de/), Aachen, DEU
+- [AI & Society Lab, Alexander von Humboldt Institute for Internet and Society](https://www.hiig.de/research/ai-society-lab/), Berlin, DEU
 - [Computational Social Science Team, Centre Marc Bloch](https://cmb.huma-num.fr/), Berlin, DEU
 - [Data Science Lab, Hertie School](https://www.hertie-school.org/en/datasciencelab), Berlin, DEU
+- [Methods Lab, Weizenbaum-Institut](https://methodslab.weizenbaum-institut.de/), Berlin, DEU
+- [Social Data Laboratory](https://www.uni-bremen.de/en/soda-lab), Bremen, DEU
 - [CSS Department at GESIS](https://www.gesis.org/en/institute/departments/computational-social-science), Cologne, DEU
 - [CSS - SynoSys](https://css-synosys.github.io/), Dresden, DEU
+- [Research Cluster Computational Social Science,	Zeppelin University](https://www.zu.de/forschung-themen/profil-projekte/forschungscluster/computational-social-science.php), Friedrichshafen, DEU
 - [Computational Communication Science Group](https://www.tu-ilmenau.de/en/university/departments/department-of-economic-sciences-and-media/profile/institutes-and-groups/department-of-communication-science-with-focus-on-computational-communication-science), Ilmenau, DEU
 - [Computational Communication Science Researh Group](https://ccs.ifp.uni-mainz.de/), Mainz, DEU
 - [Chair of Data Science in the Economic and Social Sciences](https://www.bwl.uni-mannheim.de/en/information-systems/chairs/prof-dr-strohmaier/), Mannheim, DEU
