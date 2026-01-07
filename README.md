@@ -270,8 +270,10 @@ Koç University, TUR
 - [Oxford Internet Institute](https://www.oii.ox.ac.uk/about/), Oxford, GBR
 - [Machine Learning and Economics Group](https://maxkasy.github.io/home/ML_Econ_Oxford/), Oxford, GBR
 - [Social Data Institute](https://www.ucl.ac.uk/social-data/home/social-data-institute), University College London, GBR
+- [Computational Social Science Lab](https://cssl.socsc.cuhk.edu.hk/), Chinese University of Hong Kong, Hong Kong, HKG
 - [Web Mining Lab](http://weblab.com.cityu.edu.hk/blog/), City University of Hong Kong, Hong Kong, HKG
 - [Computational Social Sciences and Law Lab](https://www.cityu.edu.hk/cpal/lab_cssl.htm), City University of Hong Kong, Hong Kong, HKG
+- [Computational Social Sciences Lab](https://www.socsc.hku.hk/ssrc/research/), University of Hong Kong, Hong Kong, HKG
 - [RC2S2 Research Center for Computational Social Science](https://rc2s2.elte.hu/en/home/), Eötvös Loránd University, Budapest, HUN
 - [Connected_Politics Lab](https://www.ucd.ie/connected_politics/), Dublin, IRL
 - [Computational Social Science Centre (CSSC)](https://centri.unibo.it/computational-social-science), Bologna, ITA
