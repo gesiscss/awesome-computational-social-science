@@ -322,6 +322,7 @@ Koç University, TUR
 - [Computational Social Science Lab (CSSLab)](https://css.seas.upenn.edu/), University of Pennsylvania, Philadelphia, USA
 - [Network Dynamics Group](https://ndg.asc.upenn.edu/), University of Pennsylvania, Philadelphia, USA
 - [Center for Computational Analysis of Social and Organizational Systems (CASOS)](http://www.casos.cs.cmu.edu/), Carnegie Mellon University, Pittsburgh, USA
+- [PITT Computational Social Dynamics Lab](https://picsolab.github.io/), University of Pittsburgh, Pittsburgh, USA
 - [PITT Initiative on Computational Social Science](https://pittcss.github.io/),  University of Pittsburgh, Pittsburgh, USA
 - [Santa Fe Institute (SFI)](https://www.santafe.edu/), Santa Fe, USA
 - [Community Data Science Collective](https://wiki.communitydata.science/Main_Page), University of Washington, Seattle, USA
