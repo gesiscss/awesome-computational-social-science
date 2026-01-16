@@ -235,6 +235,7 @@ Koç University, TUR
 > Ordered alphabetically by country and city (using [ISO 3166-1 alpha 3](https://en.wikipedia.org/wiki/ISO_3166-1) country codes)
 
 - [Data Science and AI Lab](https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/data-science-and-ai-lab.html), Abu Dhabi, ARE
+- [Computational Social Science Lab](https://computational-social-science.sydney.edu.au/), Sydney, AUS
 - [Computational Communication Science Lab](https://compcommlab.univie.ac.at/), Vienna, AUT
 - [Digital Humanities Lab at UFBA](https://www.labhd.ufba.br/), Salvador, BRA
 - [Computational Social Science Lab](http://csslab.cs.toronto.edu/), University of Toronto, Toronto, CAN
