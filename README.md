@@ -291,6 +291,7 @@ Koç University, TUR
 - [Societal Analytics Lab](https://societal-analytics.nl/), VU Amsterdam, NLD
 - [ODISSEI (Open Data Infrastructure for Social Science and Economic Innovations)](https://odissei-data.nl/en/), Rotterdam, NLD
 - [Political Data Science (PODS) Research Group](https://www.sv.uio.no/isv/english/research/groups/political-data-science/), Oslo, NOR
+- [Centre for Computational Social Science and Humanities](https://cssh.nus.edu.sg/), National University of Singapore, SGP
 - [Swedish Excellence Centre for Computational Social Science](https://liu.se/en/research/swecss), Linköping, SWE
 - [UU-InfoLab (Uppsala University Information Laboratory)](https://uuinfolab.github.io/), Uppsala, SWE
 - [Center for Computational Social Sciences](https://ccss.ku.edu.tr/), Koç University, Istanbul, TUR
