@@ -288,6 +288,7 @@ Koç University, TUR
 - [Computational Social Science Lab](https://www.colorlessgreen.info/), Institute of Science Tokyo, Tokyo, JPN
 - [Computational Communication Science Amsterdam](https://ccs-amsterdam.github.io/), NLD
 - [Social and Behavioural Data Science Centre](https://sobedsc.uva.nl/), Amsterdam, NLD
+- [Societal Analytics Lab](https://societal-analytics.nl/), VU Amsterdam, NLD
 - [ODISSEI (Open Data Infrastructure for Social Science and Economic Innovations)](https://odissei-data.nl/en/), Rotterdam, NLD
 - [Political Data Science (PODS) Research Group](https://www.sv.uio.no/isv/english/research/groups/political-data-science/), Oslo, NOR
 - [UU-InfoLab (Uppsala University Information Laboratory)](https://uuinfolab.github.io/), Uppsala, SWE
