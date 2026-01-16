@@ -238,6 +238,7 @@ Koç University, TUR
 - [Computational Communication Science Lab](https://compcommlab.univie.ac.at/), Vienna, AUT
 - [Digital Humanities Lab at UFBA](https://www.labhd.ufba.br/), Salvador, BRA
 - [Computational Social Science Lab](http://csslab.cs.toronto.edu/), University of Toronto, Toronto, CAN
+- [Centre for Computational Social Science](https://ccss.arts.ubc.ca/), University of British Columbia, Vancouver, CAN
 - [Professorship of Computational Social Science (COSS)](https://coss.ethz.ch), ETH Zürich, CHE
 - [Social Networks Lab](https://sn.ethz.ch/), ETH Zürich, CHE
 - [Computational Communication and Social Science Research Group](https://www.ikmz.uzh.ch/en/research/divisions/computational-social-and-communication-science.html), University of Zurich, CHE
