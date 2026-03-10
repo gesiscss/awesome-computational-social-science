@@ -163,7 +163,7 @@ University of Konstanz, DEU
 - [Master of Science (MSc) in Social Data Science](https://studies.ku.dk/masters/social-data-science/), University of Copenhagen, DNK
 - [Master in Computational Social Science](https://www.uc3m.es/master/computational-social-science), Universidad Carlos III de Madrid, ESP
 - [Master of Contemporary Societies](https://www.helsinki.fi/en/degree-programmes/contemporary-societies-masters-programme), track on social data science, University of Helsinki, FIN
-- [MSc&T “Data and Economics for Public Policy”](https://programmes.polytechnique.edu/en/master-all-msct-programs/data-and-economics-for-public-policy), Institut Polytechnique de Paris, FRA
+- [MSc&T "Data and Economics for Public Policy"](https://programmes.polytechnique.edu/en/master-all-msct-programs/data-and-economics-for-public-policy), Institut Polytechnique de Paris, FRA
 - [Master in Data Science for Social Sciences](https://www.tse-fr.eu/master-data-science-social-sciences), Toulouse School of Economics, FRA
 - [MSc Applied Social Data Science](https://www.lse.ac.uk/Methodology/Study/MSc-Applied-Social-Data-Science), London School of Economics and Political Science, GBR
 - [MSc Data Analytics and Social Statistics (Online)](https://www.manchester.ac.uk/study/online-blended-learning/courses/data-analytics-and-social-statistics/), University of Manchester, GBR
@@ -394,7 +394,7 @@ Koç University, TUR
 - [Sociology in the Era of Big Data: The Ascent of Forensic Social Science](https://doi.org/10.1007/s12108-015-9291-8) by Daniel A. McFarland, Kevin Lewis & Amir Goldberg (2016)
 - [Installing computational social science: Facing the challenges of new information and communication technologies in social science](http://journals.sagepub.com/doi/10.1177/2059799115622763) by Raphael H. Heiberger & Jan R. Riebling (2016)
 - [Computational Social Science Methodology, Anyone?](https://doi.org/10.1027/1614-2241/a000127) by Joop J. Hox (2017)
-- [The empiricist’s challenge: Asking meaningful questions in political science in the age of big data](https://doi.org/10.1080/19331681.2017.1312187) by Andreas Jungherr and Yannis Theocharis (2017)
+- [The empiricist's challenge: Asking meaningful questions in political science in the age of big data](https://doi.org/10.1080/19331681.2017.1312187) by Andreas Jungherr and Yannis Theocharis (2017)
 - [Computational Social Science ≠ Computer Science + Social Data](https://dl.acm.org/doi/10.1145/3132698) by Hanna Wallach (2018)
 - [When Communication Meets Computation: Opportunities, Challenges, and Pitfalls in Computational Communication Science](https://doi.org/10.1080/19312458.2018.1458084) by Wouter van Atteveldt and Tai-Quan Peng (2018)
 - [Analytical sociology and computational social science](https://doi.org/10.1007/s42001-017-0006-5) by Keuschnigg, M., Lovsjö, N. & Hedström, P. (2018)
@@ -439,6 +439,7 @@ Koç University, TUR
 
 > Resources that do not fit into other categories
 
+- [AI Displacement Tracker](https://github.com/noahaust2/ai-displacement-tracker) - An open dataset tracking AI-attributed workforce displacement events across 112 companies, 15 countries, and 13 sectors. Includes structured JSON/CSV data with source-verified evidence and two-tier attribution methodology (confirmed/probable). Useful for computational social science research on labor market impacts of AI adoption.
 - [Google Group Computational Social Science Network](https://groups.google.com/g/CSSNET)
 - [Podcast about Computational Communication Science](https://anchor.fm/ccs-pod)
 - [RatSWD publication "Big data in social, behavioural, and economic sciences: Data access and research data management (Including an expert opinion on "Web scraping in independent academic research")"](https://www.konsortswd.de/en/latest/publication/big-data-in-social-behavioural-and-economic-sciences-data-access-and-research-data-management/)
