@@ -268,6 +268,7 @@ Koç University, TUR
 - [NEtwoRks, Data, and Society (NERDS)](https://nerds.itu.dk/), Copenhagen, DNK
 - [Computational Social Science Group](https://css.cs.ut.ee/index.html), Tartu, EST
 - [Institute for Cross-Disciplinary Physics and Complex Systems (IFISC)](https://ifisc.uib-csic.es/en/research/dynamics-and-collective-phenomena-social-systems/), Palma, ESP
+- [Computational Social Science Group](https://css.aalto.fi/), Aalto University, Espoo, FIN
 - [Centre for Social Data Science](https://www.helsinki.fi/en/networks/centre-social-data-science), Helsinki, FIN
 - [Social Data Science Lab at Cardiff University](http://socialdatalab.net/), Cardiff, GBR
 - [Centre for Data, Culture & Society](https://www.cdcs.ed.ac.uk/), Edinburgh, GBR
