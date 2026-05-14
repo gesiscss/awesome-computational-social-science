@@ -262,6 +262,7 @@ Koç University, TUR
 - [Research Unit Computational Communication Science](https://www.sw.lmu.de/ifkw/en/research/research-and-teaching-groups/research-unit-computational-communication-science/), LMU Munich, DEU
 - [Computational Social Science and Big Data TUM Munich](https://www.hfp.tum.de/css/startseite/), TUM Munich, DEU
 - [Department of Digital and Computational Demography](https://www.demogr.mpg.de/en/research_6120/digital_and_computational_demography_zagheni_11666/), Rostock, DEU
+- [Computational Social Science Group, Institute of Sociology and Demography, University of Rostock](https://www.isd.uni-rostock.de/junior-professur-computergestuetzte-sozialwissenschaften/teaching-1/), Rostock, DEU
 - [Social Foundations of Computation - Max Planck Institute for Intelligent Systems](https://sf.is.mpg.de/sf), Tübingen, DEU
 - [DATALAB - Center for Digital Social Research](https://datalab.au.dk/), Aarhus, DNK
 - [Copenhagen Center for Social Data Science (SODAS)](https://sodas.ku.dk), Copenhagen, DNK
