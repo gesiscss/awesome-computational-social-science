@@ -103,6 +103,7 @@ chronologically.
 
 - [CSC2552 Topics in Computational Social Science: AI, Data, and Society](https://www.cs.toronto.edu/~ashton/csc2552) - Seminar course taught by Ashton Anderson at the University of Toronto, Canada.
 - [Course on Introduction to Computational Social Science](https://github.com/akbaritabar/Course-introduction-to-computational-social-science-2025) - Master level course materials by Aliakbar Akbaritabar at the University of Rostock
+- [Course on Computational approaches to migration research](https://github.com/akbaritabar/https://github.com/akbaritabar/Course_computational_approaches_to_migration_research_2025_26) - Master level course materials by Aliakbar Akbaritabar at the University of Rostock
 - [NLP+CSS 201 Tutorials](https://nlp-css-201-tutorials.github.io/nlp-css-201-tutorials/) - Tutorials for advanced natural language processing methods designed for computational social science research.
 - [SICSS Learning Materials](https://sicss.io/overview) - Open source teaching and learning resources for computational social science
 - [Social and Economic Networks: Models and Analysis](https://www.coursera.org/learn/social-economic-networks) - Online course on social and economic networks taught by Matthew O. Jackson
