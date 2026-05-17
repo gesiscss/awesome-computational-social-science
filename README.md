@@ -102,6 +102,8 @@ chronologically.
 > See also the [Software](#software) section for material on software tools
 
 - [CSC2552 Topics in Computational Social Science: AI, Data, and Society](https://www.cs.toronto.edu/~ashton/csc2552) - Seminar course taught by Ashton Anderson at the University of Toronto, Canada.
+- [Course on Introduction to Computational Social Science](https://github.com/akbaritabar/Course-introduction-to-computational-social-science-2025) - Master level course materials by Aliakbar Akbaritabar at the University of Rostock
+- [Course on Computational approaches to migration research](https://github.com/akbaritabar/Course_computational_approaches_to_migration_research_2025_26) - Master level course materials by Aliakbar Akbaritabar at the University of Rostock
 - [NLP+CSS 201 Tutorials](https://nlp-css-201-tutorials.github.io/nlp-css-201-tutorials/) - Tutorials for advanced natural language processing methods designed for computational social science research.
 - [SICSS Learning Materials](https://sicss.io/overview) - Open source teaching and learning resources for computational social science
 - [Social and Economic Networks: Models and Analysis](https://www.coursera.org/learn/social-economic-networks) - Online course on social and economic networks taught by Matthew O. Jackson
@@ -262,6 +264,7 @@ Koç University, TUR
 - [Research Unit Computational Communication Science](https://www.sw.lmu.de/ifkw/en/research/research-and-teaching-groups/research-unit-computational-communication-science/), LMU Munich, DEU
 - [Computational Social Science and Big Data TUM Munich](https://www.hfp.tum.de/css/startseite/), TUM Munich, DEU
 - [Department of Digital and Computational Demography](https://www.demogr.mpg.de/en/research_6120/digital_and_computational_demography_zagheni_11666/), Rostock, DEU
+- [Computational Social Science Group, Institute of Sociology and Demography, University of Rostock](https://www.isd.uni-rostock.de/junior-professur-computergestuetzte-sozialwissenschaften/teaching-1/), Rostock, DEU
 - [Social Foundations of Computation - Max Planck Institute for Intelligent Systems](https://sf.is.mpg.de/sf), Tübingen, DEU
 - [DATALAB - Center for Digital Social Research](https://datalab.au.dk/), Aarhus, DNK
 - [Copenhagen Center for Social Data Science (SODAS)](https://sodas.ku.dk), Copenhagen, DNK
