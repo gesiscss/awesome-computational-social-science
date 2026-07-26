@@ -325,7 +325,7 @@ Koç University, TUR
 - [People, Space, and Algorithms (PSA) Research Group](https://www.psagroup.org/), Northwestern University, Evanston, USA
 - [Science of Networks in Communities (SONIC) Lab](https://sonic.northwestern.edu/), Northwestern University, Evanston, USA
 - [Center for AI in Society(CAIS)](https://cais.usc.edu/), University of Southern California, Los Angeles, USA
-- [HUmans | MAchines | Networks | Society Lab (HUMANS)](http://www.emilio.ferrara.name/), University of Southern California, Los Angeles, USA
+- [HUmans | MAchines | Networks | Social Systems Lab (HUMANS)](https://www.emilio.ferrara.name/), University of Southern California, Los Angeles, USA
 - [Computational Social Science Institute at UMass](https://www.cssi.umass.edu), Massachusetts Amherst, USA
 - [Computational Social Science Lab](https://csslab.rutgers.edu/), Rutgers University, New Brunswick, USA
 - [Working Group on Computational Social Science](https://datascience.columbia.edu/research/groups/computational-social-science/), Columbia University, New York, USA
